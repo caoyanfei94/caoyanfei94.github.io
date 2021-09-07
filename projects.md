@@ -8,7 +8,7 @@ titles: Projects
 ## Research Experience
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl" src="/info/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/info/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl" src="/info/assets/projects/research experience- two-way variable-stiffness method.png"/>
   </div>
   <div class="item__content">
