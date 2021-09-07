@@ -3,7 +3,7 @@ layout: article
 titles: About
 ---
 
-<img src="/info/assets/about/CYF.png" height="160" width="auto" style="border-radius:15%; float: right" />
+<img src="/info/assets/about/CYF.png" height="210" width="auto" style="border-radius:15%; float: right" />
 
 I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
 
