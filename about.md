@@ -3,8 +3,8 @@ layout: article
 titles: About
 ---
 
-## Self-introduction
 <img src="/info/assets/about/CYF.png" height="200" width="auto" style="border-radius:15%; float: right" />
+
 I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
 
 I received my M. Sc. degree from the **Nanjing University of Aeronautics and Astronautics (NUAA)** in 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering, NUAA, in Nanjing, Jiangsu Province, P. R. China.
@@ -14,13 +14,13 @@ My research interest is in the field of **Medical Robotics**, with particular em
 **Now, I am sincerely seeking an appropriate research position of PhD with a full scholarship**. If you and your team are interested in me, please don't hesitate to send me an email: caoyanfei94@163.com. I have been prepared to join your team at any time! 🌝 
 
 ## Education
-- **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019
-**GPA:&emsp; 86 / 100**
-**GPA Ranking:&emsp; 6 / 67**
+- **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019<br>
+**GPA:&emsp; 86 / 100**<br>
+**GPA Ranking:&emsp; 6 / 67**<br>
 **Score of master's thesis:&emsp; 95 / 100 (1<sup>st</sup> among all grads)** &emsp;&emsp;Surprised by Prof. Bai Chen and Prof. Feng Ju
-- **B. Eng.** Mechanical Engineering and Automation, NUAA, 2012 - 2016
-**GPA:&emsp; 90 / 100**
-**GPA Ranking:&emsp; 3 / 301**
+- **B. Eng.** Mechanical Engineering and Automation, NUAA, 2012 - 2016<br>
+**GPA:&emsp; 90 / 100**<br>
+**GPA Ranking:&emsp; 3 / 301**<br>
 **Score of undergraduate thesis:&emsp; 92 / 100** &emsp;&emsp;Surprised by Prof. Bai Chen
 
 ## Experience

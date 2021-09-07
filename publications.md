@@ -8,7 +8,7 @@ titles: Publications
 ## Publication
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/1- one-way variable-stiffness method.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/1- one-way variable-stiffness method.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -20,7 +20,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/2- fem of two-way variable-stiffness module.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/2- fem of two-way variable-stiffness module.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -31,7 +31,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/3- two-way variable-stiffness module.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/3- two-way variable-stiffness module.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -43,7 +43,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/4- shape estimation experiment platform.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/4- shape estimation experiment platform.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -55,7 +55,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/5- prototype of tactile sensor.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/5- prototype of tactile sensor.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -67,7 +67,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/6- motion control of AEIR.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/6- motion control of AEIR.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -79,7 +79,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/7- Wearable vibrotactile system.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/7- Wearable vibrotactile system.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
@@ -91,7 +91,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/8- Flowchart of the parameter identification.png"/>
+    <img class="image image--sm shadow" src="/info/assets/publications/8- Flowchart of the parameter identification.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
