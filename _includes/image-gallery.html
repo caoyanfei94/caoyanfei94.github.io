@@ -1,0 +1,56 @@
+---
+layout: default
+images:
+  - image_path: /images/cakes/apple-pie.jpg
+    title: Apple Pie
+  - image_path: /images/cakes/birthday-cake.jpg
+    title: Birthday Cake
+  - image_path: /images/cakes/black-forest.jpg
+    title: Black Forest
+  - image_path: /images/cakes/brownie.jpg
+    title: Brownie
+  - image_path: /images/cakes/cheese-cake.jpg
+    title: Cheese Cake
+  - image_path: /images/cakes/chocolate-cake.jpg
+    title: Chocolate Cake
+  - image_path: /images/cakes/fruit-cake.jpg
+    title: Fruit Cake
+  - image_path: /images/cakes/lamington.jpg
+    title: Lamington
+  - image_path: /images/cakes/lemon-cake.jpg
+    title: Lemon Cake
+---
+
+<ul class="photo-gallery">
+    {% for image in page.images %}
+      <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+    {% endfor %}
+</ul>
+
+<!-- <style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<div class="image-gallery">
+    {% for file in site.static_files %}
+      {% if file.path contains include.folder %}
+        {% if file.extname == '.jpg' or 
+          file.extname == '.jpeg' or 
+          file.extname == '.JPG' or 
+          file.extname == '.JPEG' %}
+    
+          {% assign filenameparts = file.path | split: "/" %}
+          {% assign filename = filenameparts | last | replace: file.extname,"" %}
+    
+          <a href="{{ file.path }}" title="{{ filename }}">
+            <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+            <span>{{ filename }}</span>
+          </a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+</div> -->
