@@ -17,11 +17,11 @@ My research interest is in the field of **Medical Robotics**, with particular em
 - **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
 **GPA:&emsp; 86 / 100**<br/>
 **GPA Ranking:&emsp; 6 / 67**<br/>
-**Score of master's thesis:&emsp; 95 / 100 (1<sup>st</sup> among all grads)** &emsp;&emsp;Surprised by Prof. Bai Chen and Prof. Feng Ju
+**Score of master's thesis:&emsp; 95 / 100 (1<sup>st</sup> among all grads)** &emsp;&emsp;Supervised by Prof. Bai Chen and Prof. Feng Ju
 - **B. Eng.** Mechanical Engineering and Automation, NUAA, 2012 - 2016<br/>
 **GPA:&emsp; 90 / 100**<br/>
 **GPA Ranking:&emsp; 3 / 301**<br/>
-**Score of undergraduate thesis:&emsp; 92 / 100** &emsp;&emsp;Surprised by Prof. Bai Chen
+**Score of undergraduate thesis:&emsp; 92 / 100** &emsp;&emsp;Supervised by Prof. Bai Chen
 
 ## Experience
 - **Software Engineer** @ HUAWEI, 2019 - 2021
