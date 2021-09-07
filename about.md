@@ -3,9 +3,8 @@ layout: article
 titles: About
 ---
 
-<img src="/info/assets/about/CYF.png" height="200" width="auto" style="border-radius:15%; float: right" />
-
 ## Self-introduction
+<img src="/info/assets/about/CYF.png" height="200" width="auto" style="border-radius:15%; float: right" />
 I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
 
 I received my M. Sc. degree from the **Nanjing University of Aeronautics and Astronautics (NUAA)** in 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering, NUAA, in Nanjing, Jiangsu Province, P. R. China.
