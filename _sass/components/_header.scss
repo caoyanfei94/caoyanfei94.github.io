@@ -64,8 +64,8 @@
   @include flexbox();
   @include align-items(center);
   & > svg {
-    width: map-get($base, font-size-h4) * 10;
-    height: map-get($base, font-size-h4) * 10;
+    width: map-get($base, font-size-h4) * 6;
+    height: map-get($base, font-size-h4) * 6;
     margin-right: map-get($spacers, 3);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
@@ -75,7 +75,8 @@
   }
   & > a {
     display: inline-block;
-    font-size: map-get($base, font-size-h4-xl);
+    font-size: map-get($base, font-size-h4-xl) * 2;
+    font-weight: bolder;
     @include media-breakpoint-down(md) {
       font-size: map-get($base, font-size-h4-small);
     }
