@@ -76,7 +76,7 @@
   & > a {
     display: inline-block;
     font-size: map-get($base, font-size-h4-xl) * 1.2;
-    font-weight: bolder;
+    /* font-weight: bolder; */
     @include media-breakpoint-down(md) {
       font-size: map-get($base, font-size-h4-small);
     }
