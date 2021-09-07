@@ -9,7 +9,7 @@ titles: Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/info/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl" src="/info/assets/projects/research experience- two-way variable-stiffness method.png"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/research experience- two-way variable-stiffness method.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -33,8 +33,8 @@ titles: Projects
 </div>
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl" src="/info/assets/projects/research experience- concept design of shape estimation-1.png"/>
-    <img class="image image--xl" src="/info/assets/projects/research experience- concept design of shape estimation-2.png"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/research experience- concept design of shape estimation-1.png"  style="margin-bottom: 30px;"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/research experience- concept design of shape estimation-2.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -53,8 +53,8 @@ titles: Projects
 </div>
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl" src="/info/assets/projects/research experience- design of tactile sensor.png"/>
-    <img class="image image--xl" src="/info/assets/projects/research experience- tactile sensor experiment platform.png"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/research experience- design of tactile sensor.png"  style="margin-bottom: 30px;"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/research experience- tactile sensor experiment platform.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -74,7 +74,7 @@ titles: Projects
 ## Work Experience
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl" src="/info/assets/projects/work experience- ne8000x8.png"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/work experience- ne8000x8.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -91,7 +91,7 @@ titles: Projects
 ## Events
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl" src="/info/assets/projects/events-IACGN 2018.png"/>
+    <img class="image image--xl shadow" src="/info/assets/projects/events-IACGN 2018.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
