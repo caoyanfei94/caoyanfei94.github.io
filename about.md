@@ -2,7 +2,7 @@
 layout: article
 titles: About
 ---
-
+## About Me
 <img class="shadow" src="/curriculum-vitae/assets/about/CYF.png" height="210" width="auto" style="border-radius:25%; float: right" />
 
 I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
@@ -11,7 +11,8 @@ I received my M. Sc. degree from the **Nanjing University of Aeronautics and Ast
 
 My research interest is in the field of **Medical Robotics**, with particular emphasis on **variable stiffness**, **shape estimation** and **tactile sensing** technologies for **continuum manipulators** used in minimally invasive surgery (MIS). Meanwhile, I serve as a **reviewer** for prestigious journals such as Journal of Intelligent & Robotic Systems (JINT), Journal of Intelligent Material Systems and Structures (JIM), and the International Journal of Medical Robotics and Computer Assisted Surgery (RCS).
 
-**Now, I am sincerely seeking an appropriate fully funded PhD position**. If you and your team are interested in me, please don't hesitate to send me an email: caoyanfei94@163.com. I have been prepared to join your team at any time! 🌝 
+## News
+[October 2021] <font color='red'>**I am sincerely seeking an appropriate fully funded PhD position**. If you and your team are interested in me, please don't hesitate to send me an email: caoyanfei94@163.com.</font> I have been prepared to join your lab at any time! 🌝 
 
 ## Education
 - **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
