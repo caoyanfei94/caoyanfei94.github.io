@@ -3,7 +3,7 @@ layout: article
 titles: About
 ---
 ## About Me
-<img class="shadow" src="/curriculum-vitae/assets/about/CYF.png" height="210" width="auto" style="border-radius:25%; float: right" />
+<img class="shadow" src="/assets/about/CYF.png" height="210" width="auto" style="border-radius:25%; float: right" />
 
 I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
 
