@@ -7,7 +7,7 @@ titles: About
 
 I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
 
-I received my M. Sc. degree from the **Nanjing University of Aeronautics and Astronautics (NUAA)** in 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering, NUAA, in Nanjing, Jiangsu Province, P. R. China.
+I received my M. Sc. degree from the **Nanjing University of Aeronautics and Astronautics (NUAA)** in 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (CMEE), NUAA, in Nanjing, Jiangsu Province, P. R. China.
 
 My research interest is in the field of **Medical Robotics**, with particular emphasis on **variable stiffness**, **shape estimation** and **tactile sensing** technologies for **continuum manipulators** used in minimally invasive surgery (MIS). Meanwhile, I serve as a **reviewer** for prestigious journals such as Journal of Intelligent & Robotic Systems (JINT), Journal of Intelligent Material Systems and Structures (JIM), and the International Journal of Medical Robotics and Computer Assisted Surgery (RCS).
 
