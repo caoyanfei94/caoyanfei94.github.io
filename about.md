@@ -41,7 +41,7 @@ My research interest is in the field of **Medical Robotics**, with particular em
 - **NUAA Pioneer in Summer Social Practice** (5%), NUAA, 2013
 
 ## English Language
-- **TOEFL iBT**
+- **TOEFL iBT**<br/>
 **Total Score: 80** (Listening: 18, Reading: 26, Speaking: 15, Writing: 21)
 
 <div class="hero" style="background-color:#f7f7f7; ">
