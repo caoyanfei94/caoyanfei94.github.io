@@ -27,7 +27,7 @@ My research interest is in the field of **Medical Robotics**, with particular em
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
 ## Honors and Awards
-- **Gold Network Award** (3 times, Rewarded employees must considerably contribute to quality deliveries), HUAWEI, 2019 - 2020
+- **Gold Network Award** (3 times, Rewarded employees considered as considerably contributive to quality deliveries), HUAWEI, 2019 - 2020
 - **China National Scholarship for Postgraduates** (1%), Ministry of Education, P. R. China, 2018
 - **China National Scholarship** (0.3%), Ministry of Education, P. R. China, 2016
 - **Best Paper Award in 2018 IACGN** (5% of 229 international participant lecturers), College of International Education, NUAA, 2018
