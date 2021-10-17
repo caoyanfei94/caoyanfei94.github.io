@@ -5,14 +5,12 @@ titles: About
 ## About Me
 <img class="shadow" src="/assets/about/CYF.png" height="210" width="auto" style="border-radius:25%; float: right" />
 
-I have been a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
-
-I received my M. Sc. degree from the **Nanjing University of Aeronautics and Astronautics (NUAA)** in 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (CMEE), NUAA, in Nanjing, Jiangsu Province, P. R. China.
+I have received my M. Sc. degree from the **Nanjing University of Aeronautics and Astronautics (NUAA)** since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (CMEE), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
 
 My research interest is in the field of **Medical Robotics**, with particular emphasis on **variable stiffness**, **shape estimation** and **tactile sensing** technologies for **continuum manipulators** used in minimally invasive surgery (MIS). Meanwhile, I serve as a **reviewer** for prestigious journals such as Journal of Intelligent & Robotic Systems (JINT), Journal of Intelligent Material Systems and Structures (JIM), and the International Journal of Medical Robotics and Computer Assisted Surgery (RCS).
 
 ## News
-[October 2021] <font color='red'><b>I am sincerely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: caoyanfei94@163.com.</font> I have been prepared to join your lab at any time! 🌝 
+[October 2021] <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: caoyanfei94@163.com.</font> I have been prepared to join your lab at any time! 🌝 
 
 ## Education
 - **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
@@ -28,12 +26,12 @@ My research interest is in the field of **Medical Robotics**, with particular em
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
 ## Honors and Awards
-- **Gold Network Award** (3 times, Rewarded employees considered as considerably contributive to quality deliveries), HUAWEI, 2019 - 2020
+- **Gold Network Award** (*3 times*, Rewarded employees must be considered as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021
 - **China National Scholarship for Postgraduates** (1%), Ministry of Education, P. R. China, 2018
 - **China National Scholarship** (0.3%), Ministry of Education, P. R. China, 2016
-- **Best Paper Award in 2018 IACGN** (5% of 229 international participant lecturers), College of International Education, NUAA, 2018
-- **Suzhou Industrial Park Scholarship Special Scholarship** (2%), Suzhou Industrial Park Working Committee and NUAA, 2013
-- **1st Prize of Academic Scholarship** (2%, 3 times), NUAA, 2013-2016
+- **Best Paper Award in 2018 IACGN** (3% of 229 international participant lecturers), College of International Education, NUAA, 2018
+- **Suzhou Industrial Park Scholarship Special Scholarship** (1%), Suzhou Industrial Park Working Committee and NUAA, 2013
+- **1st Prize of Academic Scholarship** (2%, *3 times*), NUAA, 2013-2016
 - **2nd prize in 2013 Advanced Mathematics Competition, NUAA** (8%), by College of Science, NUAA, 2013
 - **NUAA Outstanding Graduate Student** (5%), NUAA, 2019
 - **NUAA Advanced Individual in Scientific Research and Innovation** (5%), NUAA, 2018
@@ -43,7 +41,7 @@ My research interest is in the field of **Medical Robotics**, with particular em
 
 ## English Language
 - **TOEFL iBT**<br/>
-**Total Score: 80** (Listening: 18, Reading: 26, Speaking: 15, Writing: 21)
+**Total Score: NA** (Reading: 28, Listening: 23, Speaking: NA, Writing: NA)
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
