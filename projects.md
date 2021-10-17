@@ -9,6 +9,7 @@ titles: Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/research experience- lab visitation.png.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- two-way variable-stiffness method.png" style="margin-bottom: 60px;"/>
   </div>
   <div class="item__content">

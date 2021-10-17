@@ -5,7 +5,7 @@ titles: About
 ## About Me
 <img class="shadow" src="/assets/about/CYF.png" height="210" width="auto" style="border-radius:25%; float: right" />
 
-I have received my M. Sc. degree from the **[Nanjing University of Aeronautics and Astronautics (NUAA)](https://www.nuaa.edu.cn/479/list.htm)** since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (CMEE), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, **Huawei Technologies Co., Ltd.(HUAWEI)**.
+I have received my M. Sc. degree from the **[Nanjing University of Aeronautics and Astronautics (NUAA)](https://www.nuaa.edu.cn/479/list.htm)** since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (CMEE), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, **[Huawei Technologies Co., Ltd.(HUAWEI)](https://www.huawei.com/en/corporate-information)**.
 
 My research interest is in the field of **Medical Robotics**, with particular emphasis on **variable stiffness**, **shape estimation** and **tactile sensing** technologies for **continuum manipulators** used in minimally invasive surgery (MIS). Meanwhile, I serve as a **reviewer** for prestigious journals such as Journal of Intelligent & Robotic Systems (JINT), Journal of Intelligent Material Systems and Structures (JIM), and the International Journal of Medical Robotics and Computer Assisted Surgery (RCS).
 
