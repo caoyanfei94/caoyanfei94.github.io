@@ -99,6 +99,7 @@ titles: Projects
       <h4 style="text-align:left">2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</h4>
     </div>
     <div class="item__description">
+      <p><b>Lecturer</b></p>
       <p>@ Nanjing, 18-19 October 2018</p>
       <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
       <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>the Best Paper Award in 2018 IACGN</b>.</p>
