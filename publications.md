@@ -119,7 +119,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">F. Ju, G. Zhu, B. Chen, H. Wu, **Y. Cao**, L. Xiang. A controllable-shape tactile sensor of robotic bionic tentacle and its inspection method (一种形状可控的机器人仿生触须触觉传感器及检测方法). Authorized Jul. 2020. Authorization No. CN107830875B.</p>
+      <p style ="text-align:justify;">F. Ju, G. Zhu, B. Chen, H. Wu, <b>Y. Cao</b>, L. Xiang. A controllable-shape tactile sensor of robotic bionic tentacle and its inspection method (一种形状可控的机器人仿生触须触觉传感器及检测方法). Authorized Jul. 2020. Authorization No. CN107830875B.</p>
     </div>
   </div>
 </div>
@@ -141,7 +141,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">F. Ju, Y. Wang, Y. Yun, L. Xiang, **Y. Cao**, H. Guo, B. Chen, H. Wu. A continuum inspection robot and its calculation method for position of sensor contact point (连续体检测机器人及传感器接触点位置计算方法). Published Apr. 2019. Publication No. CN109623841A.</p>
+      <p style ="text-align:justify;">F. Ju, Y. Wang, Y. Yun, L. Xiang, <b>Y. Cao</b>, H. Guo, B. Chen, H. Wu. A continuum inspection robot and its calculation method for position of sensor contact point (连续体检测机器人及传感器接触点位置计算方法). Published Apr. 2019. Publication No. CN109623841A.</p>
     </div>
   </div>
 </div>
@@ -152,7 +152,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">F. Qi, D. Bai, B. Chen, F. Ju, H. Guo, **Y. Cao**, S. Zhang, Li. Xiang. A reconfigurable cable-driven catheter robot for intervention (一种用于介入手术的绳驱动可重构导管机器人). Published May. 2019. Publication No. CN109806487A.</p>
+      <p style ="text-align:justify;">F. Qi, D. Bai, B. Chen, F. Ju, H. Guo, <b>Y. Cao</b>, S. Zhang, Li. Xiang. A reconfigurable cable-driven catheter robot for intervention (一种用于介入手术的绳驱动可重构导管机器人). Published May. 2019. Publication No. CN109806487A.</p>
     </div>
   </div>
 </div>
@@ -163,7 +163,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">F. Qi, D. Bai, B. Chen, F. Ju, H. Guo, **Y. Cao**, S. Zhang, Li. Xiang. A drive compensation method for cable-driven continuum robot (一种用于绳驱动连续体机器人的驱动补偿方法). Published Sep. 2019. Publication No. CN110193827A.</p>
+      <p style ="text-align:justify;">F. Qi, D. Bai, B. Chen, F. Ju, H. Guo, <b>Y. Cao</b>, S. Zhang, Li. Xiang. A drive compensation method for cable-driven continuum robot (一种用于绳驱动连续体机器人的驱动补偿方法). Published Sep. 2019. Publication No. CN110193827A.</p>
     </div>
   </div>
 </div>
@@ -175,7 +175,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">H. Guo, F. Ju, B. Chen, D. Bai, F. Qi, **Y. Cao**, S. Zhang, S. Jiang, Q. Wu, Y. Wang. Human-computer interactive fingers and gloves combined with feedbacks of vibration and force and their strategy (振动反馈与力反馈结合人机交互手指、 手套及方法). Published Aug. 2018. Publication No. CN108381573A.</p>
+      <p style ="text-align:justify;">H. Guo, F. Ju, B. Chen, D. Bai, F. Qi, <b>Y. Cao</b>, S. Zhang, S. Jiang, Q. Wu, Y. Wang. Human-computer interactive fingers and gloves combined with feedbacks of vibration and force and their strategy (振动反馈与力反馈结合人机交互手指、 手套及方法). Published Aug. 2018. Publication No. CN108381573A.</p>
     </div>
   </div>
 </div>
@@ -186,7 +186,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">B. Chen, L. Zhang, F. Ju, D. Bai, F. Qi, J. Yin, **Y. Cao**, Y. Xie, L. Xiang. Multifunctional tactile sensor and measure method (多功能触觉传感器及测量方法). Authorized Oct. 2019. Authorization No. CN107238452B.</p>
+      <p style ="text-align:justify;">B. Chen, L. Zhang, F. Ju, D. Bai, F. Qi, J. Yin, <b>Y. Cao</b>, Y. Xie, L. Xiang. Multifunctional tactile sensor and measure method (多功能触觉传感器及测量方法). Authorized Oct. 2019. Authorization No. CN107238452B.</p>
     </div>
   </div>
 </div>
