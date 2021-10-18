@@ -62,8 +62,6 @@ a > .item__header, a.item__header, .item__header > a {
     }
     h4 {
       font-size: map-get($base, font-size-h4-xs);
-      list-style-position: outside;
-      padding-left: 10px;
     }
     h5 {
       font-size: map-get($base, font-size-h5-xs);
