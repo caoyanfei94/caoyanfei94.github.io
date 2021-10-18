@@ -14,7 +14,7 @@ titles: Projects
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Variable Stiffness</h4>
+      <h4><li>Variable Stiffness</li></h4>
     </div>
     <div class="item__description">
       <p><b>PI</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
@@ -39,7 +39,7 @@ titles: Projects
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Shape Estimation</h4>
+      <h4><li>Shape Estimation</li></h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. With Hao Guo, Prof. Feng Ju and Prof. Bai Chen. </p>
@@ -59,7 +59,7 @@ titles: Projects
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Tactile Sensing</h4>
+      <h4><li>Tactile Sensing</li></h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. With Lei Zhang, Prof. Feng Ju and Prof. Bai Chen. </p>
@@ -79,7 +79,7 @@ titles: Projects
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Module Development and Maintenance of Failure Mode and Effects Analysis (FMEA)</h4>
+      <h4><li>Module Development and Maintenance of Failure Mode and Effects Analysis (FMEA)</li></h4>
     </div>
     <div class="item__description">
       <p><b>Software Engineer</b></p>
@@ -96,7 +96,7 @@ titles: Projects
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</h4>
+      <h4><li>2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</li></h4>
     </div>
     <div class="item__description">
       <p>@ Nanjing, 18-19 October 2018</p>
