@@ -175,7 +175,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">H. Guo, F. Ju, B. Chen, D. Bai, F. Qi, <b>Y. Cao</b>, S. Zhang, S. Jiang, Q. Wu, Y. Wang. Human-computer interactive fingers and gloves combined with feedbacks of vibration and force and their strategy (振动反馈与力反馈结合人机交互手指、 手套及方法). Published Aug. 2018. Publication No. CN108381573A.</p>
+      <p style ="text-align:justify;">H. Guo, F. Ju, B. Chen, D. Bai, F. Qi, <b>Y. Cao</b>, S. Zhang, S. Jiang, Q. Wu, Y. Wang. Human-computer interactive fingers and gloves combined with feedbacks of vibration and force and their strategy (振动反馈与力反馈结合人机交互手指、手套及方法). Published Aug. 2018. Publication No. CN108381573A.</p>
     </div>
   </div>
 </div>
