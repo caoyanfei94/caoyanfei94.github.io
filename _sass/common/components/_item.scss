@@ -27,8 +27,7 @@
 
 a > .item__header, a.item__header, .item__header > a {
   @include link-colors($text-color-d, $main-color-1);
-  text-align: left;
-  display: inline-block;
+  list-style-position: outside;
 }
 
 .item__meta {
