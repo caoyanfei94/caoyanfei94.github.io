@@ -10,7 +10,7 @@ titles: About
 <p style ="text-align:justify;">My research interest is in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
 ## News
-[October 2021] <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝 
+- **[October 2021]** <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝 
 
 ## Education
 - **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
@@ -47,7 +47,7 @@ titles: About
   <div class="hero__content">
     <h4>Contact</h4>
     <p style="font-size: medium;">
-      <b>E-mail</b>: caoyanfei94@163.com<br>
+      <b>E-mail</b>: <a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a><br>
       <b>Phone</b>: +86 156 5102 3560<br>
       <b>Address</b>:<br>
       Fengjingmingdi Dongyuan<br>

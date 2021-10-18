@@ -19,15 +19,15 @@ titles: Projects
     <div class="item__description">
       <p><b>PI</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018 - 2019</p>
-      <p>AAA</p>
+      <p style ="text-align:justify;">AAA</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/327967109_A_novel_variable-stiffness_flexible_manipulator_actuated_by_shape_memory_alloy_for_minimally_invasive_surgery">PDF</a>
-        <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/full/10.1177/0954411918802922">DOI</a>
+        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/327967109_A_novel_variable-stiffness_flexible_manipulator_actuated_by_shape_memory_alloy_for_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a>
+        <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/full/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
-      <p>BBB</p>
+      <p style ="text-align:justify;">BBB</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/338682676_A_variable-stiffness_continuum_manipulators_by_a_SMA-based_sheath_in_minimally_invasive_surgery">PDF</a>
-        <a class="button button--secondary button--pill" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/rcs.2081">DOI</a>
+        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/338682676_A_variable-stiffness_continuum_manipulators_by_a_SMA-based_sheath_in_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a>
+        <a class="button button--secondary button--pill" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
     </div>
   </div>
@@ -44,10 +44,10 @@ titles: Projects
     <div class="item__description">
       <p><b>Member</b>. With Hao Guo, Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018</p>
-      <p>AAA</p>
+      <p style ="text-align:justify;">AAA</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors">PDF</a>
-        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030">DOI</a>
+        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors" target="_blank" rel="noopener noreferrer">PDF</a>
+        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
     </div>
   </div>
@@ -64,9 +64,9 @@ titles: Projects
     <div class="item__description">
       <p><b>Member</b>. With Lei Zhang, Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2017</p>
-      <p>AAA</p>
+      <p style ="text-align:justify;">AAA</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012">DOI</a>
+        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
     </div>
   </div>
@@ -84,7 +84,7 @@ titles: Projects
     <div class="item__description">
       <p><b>Software Engineer</b></p>
       <p>@ HUAWEI, Nanjing, 2019 - 2021</p>
-      <p>AAA</p>
+      <p style ="text-align:justify;">AAA</p>
     </div>
   </div>
 </div>
@@ -100,11 +100,11 @@ titles: Projects
     </div>
     <div class="item__description">
       <p>@ Nanjing, 18-19 October 2018</p>
-      <p>The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
-      <p>I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>the Best Paper Award in 2018 IACGN</b>.</p>
+      <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
+      <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>the Best Paper Award in 2018 IACGN</b>.</p>
     </div>
   </div>
 </div>
 
 ## Research Grants
-- **Member**, Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 国家科学自然基金, 可重构的心动脉内介入手术机器人系统研究.
+- <p style ="text-align:justify;"><b>Member</b>, Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 国家科学自然基金, 可重构的心动脉内介入手术机器人系统研究.</p>
