@@ -170,7 +170,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patent-7-1-CN108381573A.png" style="margin-bottom: 10px;"/><br>
+    <img class="image image--sm shadow" src="/assets/publications/patent-7-1-CN108381573A.png" style="margin-bottom: 5px;"/><br>
     <img class="image image--sm shadow" src="/assets/publications/patent-7-2-CN108381573A.png"/>
   </div>
   <div class="item__content">

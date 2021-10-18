@@ -5,12 +5,14 @@ titles: About
 ## About Me
 <img class="shadow" src="/assets/about/CYF.png" height="200" width="auto" style="border-radius:25%; float: right; margin-left: 30px; margin-bottom: 30px" />
 
-<p style ="text-align:justify;">I have received my M. Sc. degree from the <b>Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm">NUAA</a>)</b> since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (CMEE), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, <B>Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information">HUAWEI</a>)</b>.</p>
+<body link="blue">
+<p style ="text-align:justify;">I have received my M. Sc. degree from the <b>Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm">NUAA</a>)</b> since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, <B>Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information">HUAWEI</a>)</b>.</p>
 
 <p style ="text-align:justify;">My research interest is in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
 ## News
 [October 2021] <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <a href="mailto:caoyanfei94@163.com">caoyanfei94@163.com</a>.</font> I have been prepared to join your lab at any time! 🌝 
+</body>
 
 ## Education
 - **M. Sc.** Mechanical and Electronic Engineering (**with Candidate Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
