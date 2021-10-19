@@ -19,7 +19,7 @@ titles: Projects
     <div class="item__description">
       <p><b>PI</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018 - 2019</p>
-      <p style ="text-align:justify;">AAA</p>
+      <p style ="text-align:justify;">I worked in the research team led by Prof. Bai Chen and Asso. Prof. Feng Ju for variable stiffness of CMs. This research was supported by National Natural Science Foundation of China. We aimed at seeking for a controllable approach to adjusting stiffness of CMs fast, safely and conveniently. My research was centred on the exploration of variable-stiffness CMs based on shape memory alloy (SMA). There are two related research papers.</p>
       <p>
         <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/327967109_A_novel_variable-stiffness_flexible_manipulator_actuated_by_shape_memory_alloy_for_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a>
         <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/full/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">DOI</a>
@@ -44,7 +44,7 @@ titles: Projects
     <div class="item__description">
       <p><b>Member</b>. With Hao Guo, Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018</p>
-      <p style ="text-align:justify;">AAA</p>
+      <p style ="text-align:justify;">I helped research in this sub-project, which was funded by the Fundamental Research Funds for the Central Universities. We dedicated to providing a method of tracking the shape of CM itself greatly in real time. In our prototype, we integrated small magnets and magnetic sensors into a CM to carry out relevant researches.</p>
       <p>
         <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors" target="_blank" rel="noopener noreferrer">PDF</a>
         <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">DOI</a>
@@ -64,7 +64,7 @@ titles: Projects
     <div class="item__description">
       <p><b>Member</b>. With Lei Zhang, Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2017</p>
-      <p style ="text-align:justify;">AAA</p>
+      <p style ="text-align:justify;">I also assisted in studying tactile sensors in CM. The purpose was to measure hardness of soft tissues when surgical instruments like CMs are operated in MIS, to check whether safety can be guaranteed or not. In our design, only one piece of lead zirconate titanate (PZT) was used as both an actuator and a sensing element.</p>
       <p>
         <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
@@ -75,7 +75,7 @@ titles: Projects
 ## Work Experience
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/work experience- ne8000x8.png"/>
+    <img class="image image--xl shadow" src="/assets/projects/work experience- NE8000 series.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -84,7 +84,8 @@ titles: Projects
     <div class="item__description">
       <p><b>Software Engineer</b></p>
       <p>@ HUAWEI, Nanjing, 2019 - 2021</p>
-      <p style ="text-align:justify;">AAA</p>
+      <p style ="text-align:justify;">After my completion of M. Sc. in NUAA, I joined HUAWEI as a software engineer. The team I served for supports a bunch series of HUAWEI's core products, like high-end communication devices named "NetEngine 8000 Series routers" and stuff. I was mainly in charge of module development and maintenance of FMEA, related to periodically monitoring hardware failure and reporting alarms during equipment running, so as to assure its stability and reliability without impairing performance.</p>
+      <p style ="text-align:justify;">Over two years or so, I have delivered <b>15+ product iterations</b> of requirement development, during which I served as <b>iteration owner</b>. Meanwhile, I solved <b>500+ defect tracking sheets</b> (DTS) and won <b>Gold Network Award</b> for <b>3 times</b>, thus deeply appreciated by colleagues.</p>
     </div>
   </div>
 </div>
