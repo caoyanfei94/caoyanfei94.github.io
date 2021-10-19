@@ -8,6 +8,7 @@ titles: Projects
 ## Research Experience
 <div class="item">
   <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/research experience- variable-stiffness manipulator.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- lab visitation.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- two-way variable-stiffness method.png" style="margin-bottom: 60px;"/>
@@ -19,7 +20,9 @@ titles: Projects
     <div class="item__description">
       <p><b>PI</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018 - 2019</p>
-      <p style ="text-align:justify;">I worked in the research team led by Prof. Bai Chen and Asso. Prof. Feng Ju for variable stiffness of CMs. This research was supported by National Natural Science Foundation of China. We aimed at seeking for a controllable approach to adjusting stiffness of CMs fast, safely and conveniently. My research was centred on the exploration of variable-stiffness CMs based on shape memory alloy (SMA). There are two related research papers.</p>
+      <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with variable-stiffness mechanism, this manipulator is anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeon.</p>
+      <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that can be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which are well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
+      <p style ="text-align:justify;">This study has been published in Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine.</p>
       <p>
         <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/327967109_A_novel_variable-stiffness_flexible_manipulator_actuated_by_shape_memory_alloy_for_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a>
         <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/full/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">DOI</a>
@@ -84,7 +87,7 @@ titles: Projects
     <div class="item__description">
       <p><b>Software Engineer</b></p>
       <p>@ HUAWEI, Nanjing, 2019 - 2021</p>
-      <p style ="text-align:justify;">After my completion of M. Sc. in NUAA, I joined HUAWEI as a software engineer. The team I served for supports a bunch series of HUAWEI's core products, like high-end communication devices named "NetEngine 8000 Series routers" and stuff. I was mainly in charge of module development and maintenance of FMEA, related to periodically monitoring hardware failure and reporting alarms during equipment running, so as to assure its stability and reliability without impairing performance.</p>
+      <p style ="text-align:justify;">After my completion of M. Sc. in NUAA, I joined HUAWEI as a software engineer. The team I served for supports a bunch series of HUAWEI's core products, like high-end communication devices named "NetEngine 8000 Series Routers" and stuff. I was mainly in charge of module development and maintenance of FMEA, related to periodically monitoring hardware failure and reporting alarms during equipment running, so as to assure its stability and reliability without impairing performance.</p>
       <p style ="text-align:justify;">Over two years or so, I have delivered <b>15+ product iterations</b> of requirement development, during which I served as <b>iteration owner</b>. Meanwhile, I solved <b>500+ defect tracking sheets</b> (DTS) and won <b>Gold Network Award</b> for <b>3 times</b>, thus deeply appreciated by colleagues.</p>
     </div>
   </div>
