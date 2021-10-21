@@ -50,7 +50,8 @@ titles: Projects
     <div class="item__description">
       <p><b>Member</b>. With Hao Guo, Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018</p>
-      <p style ="text-align:justify;">I helped research in this sub-project, which was funded by the Fundamental Research Funds for the Central Universities. We dedicated to providing a method of tracking the shape of CM itself greatly in real time. In our prototype, we integrated small magnets and magnetic sensors into a CM to carry out relevant researches.</p>
+      <p style ="text-align:justify;">This project targeted at exploring an approach to track the shape of continuum robot in real time so that the robot could be controlled accurately so as to assure the safety of motion in unknown environments. We attempted a scheme that small permanent magnets and magnetic sensors were integrated into a continuum robot in order to estimate its shape change. By fitting magnets' relative bending angle data derived from sensors into the Quadratic Bézier curve, we ended up reconstructing the shape in 2D plane. In addition, we performed simulation to reasonably arrange magnets and sensors so as to decrease the interference of multiple magnets. Afterwards, we carried out related experiments in a test platform including a single section prototype and a contrastive experiment platform to verify accuracy and feasibility of this method.</p> 
+      <p>This finding has been published in <b><i>Sensors and Actuators A: Physical</i></b>.</p>
       <p>
         <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors" target="_blank" rel="noopener noreferrer">PDF</a>
         <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">DOI</a>
