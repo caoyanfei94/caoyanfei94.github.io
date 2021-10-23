@@ -41,7 +41,7 @@ titles: About
 
 ## English Language
 - **TOEFL iBT**<br/>
-**Total Score: NA** (Reading: 28, Listening: 23, Speaking: NA, Writing: NA)
+Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25) - I am planning to take the exam once more time so as to have a more competitive score.
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
