@@ -5,7 +5,7 @@ titles: Projects
 #   toc: true
 ---
 
-## Research Experience
+## Research Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- variable-stiffness manipulator.png" style="margin-bottom: 30px;"/><br>
