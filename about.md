@@ -32,7 +32,7 @@ titles: About
 - **Best Paper Award in 2018 IACGN** (3% of 229 international participant lecturers), College of International Education, NUAA, 2018
 - **Suzhou Industrial Park Scholarship Special Scholarship** (1%), Suzhou Industrial Park Working Committee and NUAA, 2013
 - **1<sup>st</sup> Prize of Academic Scholarship** (2%, *3 times*), NUAA, 2013-2016
-- **2<sup>nd</sup> prize in 2013 Advanced Mathematics Competition, NUAA** (8%), by College of Science, NUAA, 2013
+- **2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA** (8%), College of Science, NUAA, 2013
 - **NUAA Outstanding Graduate Student** (5%), NUAA, 2019
 - **NUAA Advanced Individual in Scientific Research and Innovation** (5%), NUAA, 2018
 - **NUAA Advanced Individual in Social Practice** (5%), NUAA, 2018
