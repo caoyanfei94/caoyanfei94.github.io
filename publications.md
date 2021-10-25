@@ -5,7 +5,7 @@ titles: Publications
 #   toc: true
 ---
 
-## Publication
+## Publications
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/1- one-way variable-stiffness method.png"/>
@@ -101,7 +101,7 @@ titles: Publications
   </div>
 </div>
 
-## Patent
+## Patents
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/patent-1-CN107718040A.png"/>

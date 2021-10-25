@@ -12,7 +12,7 @@ titles: About
 ## News
 - **[October 2021]** <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝 
 
-## Education
+## Educations
 - **M. Sc.** in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
 **GPA:&emsp; 86 / 100**<br/>
 **GPA Ranking:&emsp; 6 / 67**<br/>

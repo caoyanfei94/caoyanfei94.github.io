@@ -100,7 +100,7 @@ titles: Projects
   </div>
 </div>
 
-## Events
+## Event
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/events-IACGN 2018.png"/>
@@ -118,5 +118,5 @@ titles: Projects
   </div>
 </div>
 
-## Research Grants
+## Research Grant
 - <p style ="text-align:justify;"><b>Member</b>, Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 国家科学自然基金, 可重构的心动脉内介入手术机器人系统研究.</p>
