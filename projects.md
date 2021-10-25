@@ -18,7 +18,7 @@ titles: Projects
       <h4 style="color:#0066CC">Project 1: Variable Stiffness</h4>
     </div>
     <div class="item__description">
-      <p><b>PI</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
+      <p><b>Leader</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018 - 2019</p>
       <p><li style="color:#0066CC"><b>Design A</b></li></p>
       <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeon.</p>
