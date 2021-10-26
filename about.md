@@ -28,13 +28,11 @@ titles: About
 **Score of undergraduate thesis:&emsp; 92 / 100** &emsp;&emsp;Supervised by Prof. Bai Chen
 
 ## Experience
-<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 400px; margin-bottom: 30px" />
+<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 300px; margin-bottom: 30px" />
 
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
 ## Honors and Awards
-<img src="/assets/about/honors and awards.png" height="400" width="auto" style="margin-left: 30px; margin-bottom: 20px" />
-
 - **Gold Network Award** (*3 times*, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021
 - **China National Scholarship for Postgraduates** (1%), Ministry of Education, P. R. China, 2018
 - **China National Scholarship** (0.3%), Ministry of Education, P. R. China, 2016
@@ -48,8 +46,9 @@ titles: About
 - **NUAA Outstanding Student Cadre** (2%), NUAA, 2014
 - **NUAA Pioneer in Summer Social Practice** (5%), NUAA, 2013
 - **The 8 Keub Yellow Belt Tae Kwon Do Certificate**, The World Tae Kwon Do Federation, 2013
+<img src="/assets/about/honors and awards.png" height="400" width="auto" style="margin-left: 15px; margin-top: 20px; margin-bottom: 20px" />
 
-## English Language
+## Language Certificate
 - **TOEFL iBT**<br/>
 Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25) - I am planning to take the exam once more time so as to have a more competitive score.
 
