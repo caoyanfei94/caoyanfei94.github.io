@@ -46,7 +46,7 @@ titles: About
 - **NUAA Outstanding Student Cadre** (2%), NUAA, 2014
 - **NUAA Pioneer in Summer Social Practice** (5%), NUAA, 2013
 - **The 8 Keub Yellow Belt Tae Kwon Do Certificate**, The World Tae Kwon Do Federation, 2013
-<img src="/assets/about/honors and awards.png" height="400" width="auto" style="margin-left: 5px; margin-top: 20px" />
+<img src="/assets/about/honors and awards.png" height="400" width="auto" style="margin-top: 20px" />
 
 ## Language Certificate
 - **TOEFL iBT**<br/>
