@@ -7,7 +7,7 @@ titles: About
 
 <p style ="text-align:justify;">I have received my M. Sc. degree from the <b>Nanjing University of Aeronautics and Astronautics</b> (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, <B>Huawei Technologies Co., Ltd.</b> (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).</p>
 
-<p style ="text-align:justify;">My research experience is in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
+<p style ="text-align:justify;">My research experiences are in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
 ## News
 - **[October 2021]** <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝 
@@ -33,6 +33,8 @@ titles: About
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
 ## Honors and Awards
+<img src="/assets/about/honors and awards.png" height="400" width="auto" style="margin-left: 30px; margin-bottom: 20px" />
+
 - **Gold Network Award** (*3 times*, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021
 - **China National Scholarship for Postgraduates** (1%), Ministry of Education, P. R. China, 2018
 - **China National Scholarship** (0.3%), Ministry of Education, P. R. China, 2016
@@ -45,6 +47,7 @@ titles: About
 - **NUAA Advanced Individual in Social Practice** (5%), NUAA, 2018
 - **NUAA Outstanding Student Cadre** (2%), NUAA, 2014
 - **NUAA Pioneer in Summer Social Practice** (5%), NUAA, 2013
+- **The 8 Keub Yellow Belt Tae Kwon Do Certificate**, The World Tae Kwon Do Federation, 2013
 
 ## English Language
 - **TOEFL iBT**<br/>
