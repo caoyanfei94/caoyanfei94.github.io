@@ -20,7 +20,7 @@ titles: About
 **GPA Ranking:&emsp; 6 / 67**<br/>
 **Score of master's thesis:&emsp; 95 / 100 (1<sup>st</sup> among all grads)** &emsp;&emsp;Supervised by Prof. Bai Chen and Prof. Feng Ju
 
-<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-right: 150px; margin-bottom: 30px" />
+<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-right: 120px; margin-bottom: 30px" />
 
 - **B. Eng.** in Mechanical Engineering and Automation, NUAA, 2012 - 2016<br/>
 **GPA:&emsp; 90 / 100**<br/>
@@ -28,7 +28,7 @@ titles: About
 **Score of undergraduate thesis:&emsp; 92 / 100** &emsp;&emsp;Supervised by Prof. Bai Chen
 
 ## Experience
-<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 300px; margin-bottom: 30px" />
+<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 240px; margin-bottom: 30px" />
 
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
