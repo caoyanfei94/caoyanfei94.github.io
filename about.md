@@ -33,19 +33,20 @@ titles: About
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
 ## Honors and Awards
-- <p style ="text-align:justify;"><b>Gold Network Award</b> (<b>3 times</b>, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021</p>
-- <p style ="text-align:justify;"><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</p>
-- <p style ="text-align:justify;"><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</p>
-- <p style ="text-align:justify;"><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</p>
-- <p style ="text-align:justify;"><b>Suzhou Industrial Park Scholarship Special Scholarship</b> (1%), Suzhou Industrial Park Working Committee and NUAA, 2013</p>
-- <p style ="text-align:justify;"><b>1<sup>st</sup> Prize of Academic Scholarship</b> (2%, <b>3 times</b>), NUAA, 2013-2016</p>
-- <p style ="text-align:justify;"><b>2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA</b> (8%), College of Science, NUAA, 2013</p>
-- <p style ="text-align:justify;"><b>NUAA Outstanding Graduate Student</b> (5%), NUAA, 2019</p>
-- <p style ="text-align:justify;"><b>NUAA Advanced Individual in Scientific Research and Innovation</b> (5%), NUAA, 2018</p>
-- <p style ="text-align:justify;"><b>NUAA Advanced Individual in Social Practice</b> (5%), NUAA, 2018</p>
-- <p style ="text-align:justify;"><b>NUAA Outstanding Student Cadre</b> (2%), NUAA, 2014</p>
-- <p style ="text-align:justify;"><b>NUAA Pioneer in Summer Social Practice</b> (5%), NUAA, 2013</p>
-- <p style ="text-align:justify;"><b>The 8 Keub Yellow Belt Tae Kwon Do Certificate</b>, The World Tae Kwon Do Federation, 2013</p>
+<p style ="text-align:justify;">
+<li><b>Gold Network Award</b> (<b>3 times</b>, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021</li>
+<li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
+<li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li>
+<li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li>
+<li><b>Suzhou Industrial Park Scholarship Special Scholarship</b> (1%), Suzhou Industrial Park Working Committee and NUAA, 2013</li>
+<li><b>1<sup>st</sup> Prize of Academic Scholarship</b> (2%, <b>3 times</b>), NUAA, 2013-2016</li>
+<li><b>2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA</b> (8%), College of Science, NUAA, 2013</li>
+<li><b>NUAA Outstanding Graduate Student</b> (5%), NUAA, 2019</li>
+<li><b>NUAA Advanced Individual in Scientific Research and Innovation</b> (5%), NUAA, 2018</li>
+<li><b>NUAA Advanced Individual in Social Practice</b> (5%), NUAA, 2018</li>
+<li><b>NUAA Outstanding Student Cadre</b> (2%), NUAA, 2014</li>
+<li><b>NUAA Pioneer in Summer Social Practice</b> (5%), NUAA, 2013</li>
+<li><b>The 8 Keub Yellow Belt Tae Kwon Do Certificate</b>, The World Tae Kwon Do Federation, 2013</li></p>
 <img src="/assets/about/honors and awards.png" height="385" width="auto" style="margin-top: 20px" />
 
 ## Language Certificate
