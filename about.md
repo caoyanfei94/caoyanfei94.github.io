@@ -10,17 +10,17 @@ titles: About
 <p style ="text-align:justify;">My research experiences are in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
 ## News
-- **[October 2021]** <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝 
+- <p style ="text-align:justify;"><b>[Nov 2021]</b> <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@163.com" style="color:#0066CC">caoyanfei94@163.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝</p>
 
 ## Educations
-<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-bottom: 30px" />
+<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px" />
 
 - **M. Sc.** in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), NUAA, 2016 - 2019<br/>
 **GPA:&emsp; 86 / 100**<br/>
 **GPA Ranking:&emsp; 6 / 67**<br/>
 **Score of master's thesis:&emsp; 95 / 100 (1<sup>st</sup> among all grads)** &emsp;&emsp;Supervised by Prof. Bai Chen and Prof. Feng Ju
 
-<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-right: 120px; margin-bottom: 30px" />
+<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-right: 120px" />
 
 - **B. Eng.** in Mechanical Engineering and Automation, NUAA, 2012 - 2016<br/>
 **GPA:&emsp; 90 / 100**<br/>
@@ -28,24 +28,24 @@ titles: About
 **Score of undergraduate thesis:&emsp; 92 / 100** &emsp;&emsp;Supervised by Prof. Bai Chen
 
 ## Experience
-<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 240px; margin-bottom: 30px" />
+<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 240px" />
 
 - **Software Engineer** @ HUAWEI, 2019 - 2021
 
 ## Honors and Awards
-- **Gold Network Award** (*3 times*, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021
-- **China National Scholarship for Postgraduates** (1%), Ministry of Education, P. R. China, 2018
-- **China National Scholarship** (0.3%), Ministry of Education, P. R. China, 2016
-- **Best Paper Award in 2018 IACGN** (3% of 229 international participant lecturers), College of International Education, NUAA, 2018
-- **Suzhou Industrial Park Scholarship Special Scholarship** (1%), Suzhou Industrial Park Working Committee and NUAA, 2013
-- **1<sup>st</sup> Prize of Academic Scholarship** (2%, *3 times*), NUAA, 2013-2016
-- **2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA** (8%), College of Science, NUAA, 2013
-- **NUAA Outstanding Graduate Student** (5%), NUAA, 2019
-- **NUAA Advanced Individual in Scientific Research and Innovation** (5%), NUAA, 2018
-- **NUAA Advanced Individual in Social Practice** (5%), NUAA, 2018
-- **NUAA Outstanding Student Cadre** (2%), NUAA, 2014
-- **NUAA Pioneer in Summer Social Practice** (5%), NUAA, 2013
-- **The 8 Keub Yellow Belt Tae Kwon Do Certificate**, The World Tae Kwon Do Federation, 2013
+- <p style ="text-align:justify;"><b>Gold Network Award</b> (<b>3 times</b>, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021</p>
+- <p style ="text-align:justify;"><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</p>
+- <p style ="text-align:justify;"><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</p>
+- <p style ="text-align:justify;"><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</p>
+- <p style ="text-align:justify;"><b>Suzhou Industrial Park Scholarship Special Scholarship</b> (1%), Suzhou Industrial Park Working Committee and NUAA, 2013</p>
+- <p style ="text-align:justify;"><b>1<sup>st</sup> Prize of Academic Scholarship</b> (2%, <b>3 times</b>), NUAA, 2013-2016</p>
+- <p style ="text-align:justify;"><b>2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA</b> (8%), College of Science, NUAA, 2013</p>
+- <p style ="text-align:justify;"><b>NUAA Outstanding Graduate Student</b> (5%), NUAA, 2019</p>
+- <p style ="text-align:justify;"><b>NUAA Advanced Individual in Scientific Research and Innovation</b> (5%), NUAA, 2018</p>
+- <p style ="text-align:justify;"><b>NUAA Advanced Individual in Social Practice</b> (5%), NUAA, 2018</p>
+- <p style ="text-align:justify;"><b>NUAA Outstanding Student Cadre</b> (2%), NUAA, 2014</p>
+- <p style ="text-align:justify;"><b>NUAA Pioneer in Summer Social Practice</b> (5%), NUAA, 2013</p>
+- <p style ="text-align:justify;"><b>The 8 Keub Yellow Belt Tae Kwon Do Certificate</b>, The World Tae Kwon Do Federation, 2013</p>
 <img src="/assets/about/honors and awards.png" height="385" width="auto" style="margin-top: 20px" />
 
 ## Language Certificate
