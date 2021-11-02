@@ -11,7 +11,7 @@ titles: Projects
     <img class="image image--xl shadow" src="/assets/projects/research experience- variable-stiffness manipulator.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- lab visitation.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- two-way variable-stiffness method.png" style="margin-bottom: 120px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/research experience- two-way variable-stiffness method.png" style="margin-bottom: 100px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -41,11 +41,11 @@ titles: Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- design of tactile sensor.png"  style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- tactile sensor experiment platform.png" style="margin-bottom: 80px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/research experience- tactile sensor experiment platform.png" style="margin-bottom: 180px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4  style="color:#0066CC">Project 3: Tactile Sensing</h4>
+      <h4  style="color:#0066CC">Project 2: Tactile Sensing</h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. With Lei Zhang, Prof. Feng Ju and Prof. Bai Chen. </p>
@@ -66,7 +66,7 @@ titles: Projects
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#0066CC">Project 2: Shape Estimation</h4>
+      <h4 style="color:#0066CC">Project 3: Shape Estimation</h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. With Hao Guo, Prof. Feng Ju and Prof. Bai Chen. </p>
