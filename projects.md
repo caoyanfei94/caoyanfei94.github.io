@@ -41,7 +41,7 @@ titles: Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- design of tactile sensor.png"  style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- tactile sensor experiment platform.png" style="margin-bottom: 180px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/research experience- tactile sensor experiment platform.png" style="margin-bottom: 240px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
