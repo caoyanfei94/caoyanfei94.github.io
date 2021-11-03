@@ -41,7 +41,7 @@ titles: Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- concept design of shape estimation-1.png"  style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- concept design of shape estimation-2.png" style="margin-bottom: 120px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/research experience- concept design of shape estimation-2.png" style="margin-bottom: 100px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
