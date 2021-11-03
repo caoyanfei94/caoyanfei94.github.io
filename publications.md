@@ -43,24 +43,24 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/5- prototype of tactile sensor.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__description">
-      <p style ="text-align:justify;">L. Zhang, F. Ju, <b>Y. Cao</b>, Y. Wang, B. Chen. A tactile sensor for measuring hardness of soft tissue with applications to minimally invasive surgery. Sensors and Actuators A: Physical. 2017, vol. 266, pp. 197-204. doi: 10.1016/j.sna.2017.09.012. 
-      <a class="button button--success button--pill button--xs" href="https://www.sciencedirect.com/science/article/abs/pii/S0924424717310749" target="_blank" rel="noopener noreferrer">PDF</a></p>
-    </div>
-  </div>
-</div>
-
-<div class="item" style="padding-bottom:10px">
-  <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/4- shape estimation experiment platform.png"/>
   </div>
   <div class="item__content">
     <div class="item__description">
       <p style ="text-align:justify;">H. Guo, F. Ju, <b>Y. Cao</b>, F. Qi, D. Bai, Y. Wang, B. Chen. Continuum robot shape estimation using permanent magnets and magnetic sensors. Sensors and Actuators A: Physical. 2019, vol. 285, pp. 519-530. doi: 10.1016/j.sna.2018.11.030. 
       <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors" target="_blank" rel="noopener noreferrer">PDF</a></p>
+    </div>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/5- prototype of tactile sensor.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p style ="text-align:justify;">L. Zhang, F. Ju, <b>Y. Cao</b>, Y. Wang, B. Chen. A tactile sensor for measuring hardness of soft tissue with applications to minimally invasive surgery. Sensors and Actuators A: Physical. 2017, vol. 266, pp. 197-204. doi: 10.1016/j.sna.2017.09.012. 
+      <a class="button button--success button--pill button--xs" href="https://www.sciencedirect.com/science/article/abs/pii/S0924424717310749" target="_blank" rel="noopener noreferrer">PDF</a></p>
     </div>
   </div>
 </div>

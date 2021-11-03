@@ -40,33 +40,12 @@ titles: Projects
 </div>
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/research experience- design of tactile sensor.png"  style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- tactile sensor experiment platform.png" style="margin-bottom: 220px;"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4  style="color:#0066CC">Project 2: Tactile Sensing</h4>
-    </div>
-    <div class="item__description">
-      <p><b>Member</b>. With Lei Zhang, Prof. Feng Ju and Prof. Bai Chen. </p>
-      <p>@ CMEE, NUAA, Nanjing, 2017</p>
-      <p style ="text-align:justify;">In this project, we hoped to develop a novel tactile sensor capable of measuring hardness of soft tissues, so as to provide a detailed sense of touch for surgeons.</p>
-      <p style ="text-align:justify;">We proposed a tactile sensor consisting of a piezoelectric ceramic plate, a spiral metal plate and a probe. In this design, only one piece of lead zirconate titanate (PZT) was used as both an actuator and a sensing element; a spiral metal plate was designed to reduce the resonant frequency of the sensor so as to restrict the impact brought by the effective mass of tissue. The concept structure and working principle of the proposed sensor were explained. FEM analyses including static structural analysis, modal analysis and harmonic response analysis were carried out to verify the feasibility of the sensor. Finally, A prototype and corresponding experimental system were established to further validate this feasibility. The experimental results ended up having a good agreement with the simulation results so as to assure this sensor's superb ability of lump detection.</p>
-      <p style ="text-align:justify;">This study has been published in <b><i>Sensors and Actuators A: Physical</i></b>.</p>
-      <p>
-        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">DOI</a>
-      </p>
-    </div>
-  </div>
-</div>
-<div class="item">
-  <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- concept design of shape estimation-1.png"  style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/research experience- concept design of shape estimation-2.png" style="margin-bottom: 60px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#0066CC">Project 3: Shape Estimation</h4>
+      <h4 style="color:#0066CC">Project 2: Shape Estimation</h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. With Hao Guo, Prof. Feng Ju and Prof. Bai Chen. </p>
@@ -77,6 +56,27 @@ titles: Projects
       <p>
         <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors" target="_blank" rel="noopener noreferrer">PDF</a>
         <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">DOI</a>
+      </p>
+    </div>
+  </div>
+</div>
+<div class="item">
+  <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/research experience- design of tactile sensor.png"  style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/research experience- tactile sensor experiment platform.png" style="margin-bottom: 220px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4  style="color:#0066CC">Project 3: Tactile Sensing</h4>
+    </div>
+    <div class="item__description">
+      <p><b>Member</b>. With Lei Zhang, Prof. Feng Ju and Prof. Bai Chen. </p>
+      <p>@ CMEE, NUAA, Nanjing, 2017</p>
+      <p style ="text-align:justify;">In this project, we hoped to develop a novel tactile sensor capable of measuring hardness of soft tissues, so as to provide a detailed sense of touch for surgeons.</p>
+      <p style ="text-align:justify;">We proposed a tactile sensor consisting of a piezoelectric ceramic plate, a spiral metal plate and a probe. In this design, only one piece of lead zirconate titanate (PZT) was used as both an actuator and a sensing element; a spiral metal plate was designed to reduce the resonant frequency of the sensor so as to restrict the impact brought by the effective mass of tissue. The concept structure and working principle of the proposed sensor were explained. FEM analyses including static structural analysis, modal analysis and harmonic response analysis were carried out to verify the feasibility of the sensor. Finally, A prototype and corresponding experimental system were established to further validate this feasibility. The experimental results ended up having a good agreement with the simulation results so as to assure this sensor's superb ability of lump detection.</p>
+      <p style ="text-align:justify;">This study has been published in <b><i>Sensors and Actuators A: Physical</i></b>.</p>
+      <p>
+        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
     </div>
   </div>
