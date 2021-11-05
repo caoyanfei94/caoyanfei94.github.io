@@ -10,7 +10,7 @@ titles: About
 <p style ="text-align:justify;">My research experiences are in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
 ## News
-- <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team are interested in me, please don't hesitate to send me an email: <b><a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a></b>.</font> I have been prepared to join your lab at any time! 🌝</p>
+- <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'><b>I am genuinely seeking an appropriate fully funded PhD position</b>. If you and your team regard me as a competitive PhD candidate, please do not hesitate to contact me via email-<b><a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a></b>.</font> Really hope to hear from you and desire to be a member of your lab through efforts! ✌️</p>
 
 ## Educations
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px" />
