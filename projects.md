@@ -32,8 +32,9 @@ titles: Projects
       <p style ="text-align:justify;">On the ground of the aforementioned study, we further designed a novel continuum manipulator with a SMA-based variable-stiffness sheath, whose stiffness was adjusted continuously in a two-way pattern as a voltage stimulus between both sheath ends ranged in a specific range, along with the phase transformations between austenite and martensite. Via similar research method as aforementioned study, the validity of this variable-stiffness manipulator design was verified.</p>
       <p style ="text-align:justify;">The related outcome was presented at <b><i>2018 International Academic Conference for Graduates, NUAA</i></b> (IACGN, 2018), and winded up honored with <b>the Best Paper Award in 2018 IACGN</b>. Then after my M. Sc. graduation from NUAA, it was further published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>.</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/338682676_A_variable-stiffness_continuum_manipulators_by_a_SMA-based_sheath_in_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a>
-        <a class="button button--secondary button--pill" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">DOI</a>
+        <a class="button button--secondary button--pill" href="/assets/projects/paper- IACGN2018.pdf" download="IACGN2018_Volume5.pdf">PDF1</a>
+        <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/338682676_A_variable-stiffness_continuum_manipulators_by_a_SMA-based_sheath_in_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF2</a>
+        <a class="button button--secondary button--pill" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">DOI2</a>
       </p>
     </div>
   </div>
