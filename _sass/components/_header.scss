@@ -2,7 +2,7 @@
   background: $header-background;
   a {
      font-weight: map-get($base, font-weight);
-     text-decoration: underline dotted !important;
+     text-decoration: none !important;
     @include link-colors($header-text-color, $main-color-1);
   }
   .main {
