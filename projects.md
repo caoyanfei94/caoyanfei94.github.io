@@ -20,7 +20,7 @@ titles: Projects
     <div class="item__description">
       <p><b>Leader</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
       <p>@ CMEE, NUAA, Nanjing, 2018 - 2019</p>
-      <p><li><b>Design A</b></li></p>
+      <p><li><b>Preliminary Design</b></li></p>
       <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeon.</p>
       <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that could be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which were well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
       <p style ="text-align:justify;">This study has been published in <b><i>Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine</i></b>.</p>
@@ -28,7 +28,7 @@ titles: Projects
         <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/327967109_A_novel_variable-stiffness_flexible_manipulator_actuated_by_shape_memory_alloy_for_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a>
         <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/full/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">DOI</a>
       </p>
-      <p><li><b>Design B</b></li></p>
+      <p><li><b>Further Design</b></li></p>
       <p style ="text-align:justify;">On the ground of the aforementioned study, we further designed a novel continuum manipulator with a SMA-based variable-stiffness sheath, whose stiffness was adjusted continuously in a two-way pattern as a voltage stimulus between both sheath ends ranged in a specific range, along with the phase transformations between austenite and martensite. Via similar research method as aforementioned study, the validity of this variable-stiffness manipulator design was verified.</p>
       <p style ="text-align:justify;">The related outcome was presented at <b><i>2018 International Academic Conference for Graduates, NUAA</i></b> (IACGN, 2018), and winded up honored with <b>the Best Paper Award in 2018 IACGN</b>. Then after my M. Sc. graduation from NUAA, it was further published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>.</p>
       <p>
