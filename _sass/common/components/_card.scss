@@ -43,7 +43,7 @@
     max-height: 100%;
     padding: map-get($spacers, 2);
     a {
-      text-decoration: underline dotted !important;
+      text-decoration: none !important;
     }
   }
   & > .overlay, & > .overlay--top {
