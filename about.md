@@ -9,17 +9,17 @@ titles: About
 ## About Me
 <img class="shadow" src="/assets/about/CYF.png" height="200" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 30px" />
 
-<p style ="text-align:justify;">I have received my M. Sc. degree from the Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at the Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).</p>
+<p style ="text-align:justify;">I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).</p>
 
 <p style ="text-align:justify;">My research experiences are in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
 ## News
-- <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a competitive PhD candidate, please do not hesitate to contact me via email-<b><a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a></b>.</font> Really hope to hear from you and desire to be one of your lab members through efforts! ✌️</p>
+- <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a competitive PhD candidate, please do not hesitate to contact me via email-<a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a>.</font> Really hope to hear from you and desire to be one of your lab members through efforts! ✌️</p>
 
 ## Educations
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px" />
 
-**NUAA**
+**Nanjing University of Aeronautics and Astronautics**
 - *M. Sc. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
 GPA:&emsp; 86/100<br/>
 GPA Ranking:&emsp; 6/67<br/>
@@ -33,7 +33,7 @@ Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Ba
 ## Employment
 <img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 240px" />
 
-**HUAWEI**
+**Huawei Technologies Co., Ltd.**
 - *Software engineer, 2019-2021*<br/>
 
 ## Honors and Awards

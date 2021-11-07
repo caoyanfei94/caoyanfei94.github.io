@@ -1,8 +1,8 @@
 .header {
   background: $header-background;
   a {
-    font-weight: map-get($base, font-weight);
-    text-decoration: none !important;
+    // font-weight: map-get($base, font-weight);
+     text-decoration: underline dotted !important;
     @include link-colors($header-text-color, $main-color-1);
   }
   .main {
