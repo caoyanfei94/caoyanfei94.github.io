@@ -31,7 +31,7 @@ GPA Ranking:&emsp; **3**/301<br/>
 Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Bai Chen
 
 ## Employment
-<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 30px; margin-right: 240px" />
+<img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 20px" />
 
 **Huawei Technologies Co., Ltd.**
 - *Software engineer, 2019-2021*<br/>
