@@ -19,7 +19,7 @@ titles: Projects
     </div>
     <div class="item__description">
       <p><b>Leader</b>. With Prof. Feng Ju and Prof. Bai Chen. </p>
-      <p>@ CMEE, NUAA, Nanjing, 2018 - 2019</p>
+      <p>@ CMEE, NUAA, Nanjing, 2018-2019</p>
       <p><li><b>Preliminary Design</b></li></p>
       <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeon.</p>
       <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that could be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which were well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
@@ -94,7 +94,7 @@ titles: Projects
     </div>
     <div class="item__description">
       <p><b>Software Engineer</b></p>
-      <p>@ Department of Information and Communication Technology, HUAWEI, Nanjing, 2019 - 2021</p>
+      <p>@ Department of Information and Communication Technology, HUAWEI, Nanjing, 2019-2021</p>
       <p style ="text-align:justify;">After my completion of M. Sc. in NUAA, I joined HUAWEI as a software engineer. The team I served for supports a bunch series of HUAWEI's core products, like high-end communication devices named "NetEngine 8000 Series Routers" and stuff. I was mainly in charge of module development and maintenance of FMEA, related to periodically monitoring hardware failure and reporting alarms during equipment running, so as to assure its stability and reliability without impairing performance.</p>
       <p style ="text-align:justify;">Over two years or so, I have delivered <b>15+ product iterations</b> of requirement development, during which I served as <b>iteration owner</b>. Meanwhile, I solved <b>500+ defect tracking sheets</b> (DTS) and won <b>Gold Network Award</b> for <b>3 times</b>, thus deeply appreciated by colleagues.</p>
     </div>

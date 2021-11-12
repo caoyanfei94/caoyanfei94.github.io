@@ -38,7 +38,7 @@ Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Ba
 
 ## Honors and Awards
 <p style ="text-align:justify;">
-<li>Gold Network Award (<b>3 times</b>, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019 - 2021</li>
+<li>Gold Network Award (<b>3 times</b>, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019-2021</li>
 <li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
 <li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li>
 <li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li>
@@ -56,7 +56,7 @@ Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Ba
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 
-Last Updated: Nov. 07, 2021
+Last Updated: Nov. 13, 2021
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
