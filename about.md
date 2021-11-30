@@ -27,7 +27,7 @@ Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**) 
 
 - *B. Eng. in Mechanical Engineering and Automation, 2012-2016*<br/>
 GPA:&emsp; **90**/100<br/>
-GPA Ranking:&emsp; **top 1%** among 301<br/>
+GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Bai Chen
 
 ## Employment
