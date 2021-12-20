@@ -7,7 +7,7 @@ titles: About
 <i>"The test of all knowledge is experiment."</i> - Richard Feynman</p>
 
 ## About Me
-<img class="shadow" src="/assets/about/CYF.png" height="200" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 30px" />
+<img class="shadow" src="/assets/about/CYF.png" height="200" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 25px" />
 
 <p style ="text-align:justify;">I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).</p>
 
