@@ -66,7 +66,7 @@ Last Updated: Nov. 13, 2021
       <b>Phone</b>: +86 156 5102 3560<br>
       <b>Address</b>:<br>
       Fengjingmingdi Dongyuan<br>
-      No.10 Jijin Street<br>
+      No.10 Jijing Street<br>
       Jiangning District<br>
       Nanjing, China<br>
       211100
