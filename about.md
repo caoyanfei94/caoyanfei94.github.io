@@ -9,14 +9,22 @@ titles: About
 ## About Me
 <img class="shadow" src="/assets/about/CYF.png" height="200" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 15px" />
 
-<p style ="text-align:justify;">I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).</p>
+<p style ="text-align:justify;">I am now a Ph. D. candidate in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>) of the Chinese University of Hong Kong(<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>) and also a member of Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>). I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).</p>
 
-<p style ="text-align:justify;">My research experiences are in the field of <b>Medical Robotics</b>, with particular emphasis on <b>variable stiffness</b>, <b>shape estimation</b> and <b>tactile sensing</b> technologies for <b>continuum manipulators</b> used in minimally invasive surgery (MIS). Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
+<p style ="text-align:justify;">My research experiences are in the field of <b>Medical Robotics</b>, with particular emphasis on <b>magnetic actuation</b>, <b>soft materials</b> and <b>machine learning</b> technologies for <b>continuum manipulators</b> like catheters or guidewires. Meanwhile, I serve as a <b>reviewer</b> for prestigious journals such as <i>Journal of Intelligent & Robotic Systems</i> (JINT), <i>Journal of Intelligent Material Systems and Structures</i> (JIM), and <i>the International Journal of Medical Robotics and Computer Assisted Surgery</i> (RCS).</p>
 
+<!-- 
 ## News
 - <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a strong enough PhD candidate, please do not hesitate to contact me via email-<a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a>.</font> Really hope to hear from you and desire to be one of your lab members through efforts!</p>
+-->
 
 ## Educations
+<img src="/assets/about/CUHK_logo.jpg" height="80" width="auto" style="float: right; margin-left: 20px" />
+
+**The Chinese University of Hong Kong**
+- *Ph. D. in Mechanical and Automation Engineering (**Exempt from Admission Exam**), 2022-Now*<br/>
+Supervisor: Prof. Li Zhang
+
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px" />
 
 **Nanjing University of Aeronautics and Astronautics**
@@ -31,6 +39,11 @@ GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Bai Chen
 
 ## Employment
+<img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px" />
+
+**Multi-Scale Medical Robotics Center, Ltd.**
+- *Research assistant, 2022*<br/>
+
 <img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 20px" />
 
 **Huawei Technologies Co., Ltd.**
@@ -53,10 +66,11 @@ Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Ba
 <li>The 8 Keub Yellow Belt Tae Kwon Do Certificate, The World Tae Kwon Do Federation, 2013</li></p>
 <img src="/assets/about/honors and awards.png" height="385" width="auto" style="margin-top: 20px" />
 
+<!-- 
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
-
-Last Updated: Nov. 13, 2021
+-->
+Last Updated: Aug. 30, 2022
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
