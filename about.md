@@ -23,7 +23,6 @@ titles: About
 
 **The Chinese University of Hong Kong**
 - *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-Now*<br/>
-Supervisor: Prof. Li Zhang
 
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px" />
 
@@ -31,12 +30,12 @@ Supervisor: Prof. Li Zhang
 - *M. Sc. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
 GPA:&emsp; 86/100<br/>
 GPA Ranking:&emsp; top 5% among 67<br/>
-Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**) &emsp;&emsp;Supervisors: Prof. Bai Chen and Prof. Feng Ju
+Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**)
 
 - *B. Eng. in Mechanical Engineering and Automation, 2012-2016*<br/>
 GPA:&emsp; **90**/100<br/>
 GPA Ranking:&emsp; top **1%** among 301<br/>
-Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Bai Chen
+Score of undergraduate thesis:&emsp; **92**/100
 
 ## Employment
 <img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px" />
@@ -51,7 +50,7 @@ Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Ba
 
 ## Honors and Awards
 <p style ="text-align:justify;">
-<li>Gold Network Award (<b>3 times</b>, Rewarded employees must be regarded as considerably contributive to quality deliveries), HUAWEI, 2019-2021</li>
+<li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li>
 <li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
 <li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li>
 <li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li>
