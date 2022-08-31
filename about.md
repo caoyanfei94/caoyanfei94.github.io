@@ -70,20 +70,21 @@ Score of undergraduate thesis:&emsp; **92**/100 &emsp;&emsp;Supervisor: Prof. Ba
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 -->
-Last Updated: Aug. 30, 2022
+Last Updated: Aug. 31, 2022
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
     <h4>Contact</h4>
     <p style="font-size: medium;">
       <b>E-mail</b>: <a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a><br>
+      <!--
       <b>Phone</b>: +86 156 5102 3560<br>
+      -->
       <b>Address</b>:<br>
-      Fengjingmingdi Dongyuan<br>
-      No.10 Jijing Street<br>
-      Jiangning District<br>
-      Nanjing, China<br>
-      211100
+      William M.W.Mong Engineering Building<br>
+      Department of Mechanical and Automation Engineering<br>
+      The Chinese University of Hong Kong<br>
+      Hong Kong, China
     </p>
   </div>
 </div>
