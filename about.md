@@ -28,8 +28,8 @@ titles: About
 
 **Nanjing University of Aeronautics and Astronautics**
 - *M. Sc. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
-GPA:&emsp; 87/100<br/>
-GPA Ranking:&emsp; top 5% among 67<br/>
+GPA:&emsp; **87**/100<br/>
+GPA Ranking:&emsp; top **5%** among 67<br/>
 Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**)
 
 - *B. Eng. in Mechanical Engineering and Automation, 2012-2016*<br/>
