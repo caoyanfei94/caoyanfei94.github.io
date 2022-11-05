@@ -75,7 +75,7 @@ Last Updated: Sep. 12, 2022
   <div class="hero__content">
     <h4>Contact</h4>
     <p style="font-size: medium;">
-      <b>E-mail</b>: <a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a><br>
+      <b>E-mail</b>: <a href="mailto:caoyanfei@link.cuhk.edu.hk" style="color:#0066CC">caoyanfei94@outlook.com</a><br>
       <!--
       <b>Phone</b>: +86 156 5102 3560<br>
       -->
