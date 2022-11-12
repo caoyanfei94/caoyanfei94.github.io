@@ -7,7 +7,7 @@ titles: About
 <i>"The test of all knowledge is experiment."</i> - Richard Feynman</p>
 
 ## About Me
-<img class="shadow" src="/assets/about/dayawan.jpg" height="235" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 10px; margin-top: 10 px" />
+<img class="shadow" src="/assets/about/dayawan.jpg" height="235" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 20px; margin-top: 20 px" />
 
 <p style ="text-align:justify;">I am now a Ph. D. candidate in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>) of the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>) and also a member of Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
 
@@ -24,7 +24,7 @@ titles: About
 **The Chinese University of Hong Kong**
 - *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-Now*<br/>
 
-<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px" />
+<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-top: 30 px" />
 
 **Nanjing University of Aeronautics and Astronautics**
 - *M. Sc. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
