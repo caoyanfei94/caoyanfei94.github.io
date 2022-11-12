@@ -24,7 +24,7 @@ titles: About
 **The Chinese University of Hong Kong**
 - *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-Now*<br/>
 
-<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 20px; margin-top: 30 px" />
+<img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 15px; margin-top: 30 px" />
 
 **Nanjing University of Aeronautics and Astronautics**
 - *M. Sc. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
