@@ -7,7 +7,7 @@ titles: About
 <i>"The test of all knowledge is experiment."</i> - Richard Feynman</p>
 
 ## About Me
-<img class="shadow" src="/assets/about/dayawan.jpg" height="235" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 30px; margin-top: 20px" />
+<img class="shadow" src="/assets/about/dayawan.jpg" height="235" width="auto" style="border-radius:5%; float: right; margin-left: 30px; margin-bottom: 30px; margin-top: 30px" />
 
 <p style ="text-align:justify;">I am now a Ph. D. candidate in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>) of the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>) and also a member of Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
 
@@ -38,7 +38,7 @@ GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100
 
 ## Employments
-<img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px" />
+<img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px; margin-right: 10px" />
 
 **Multi-Scale Medical Robotics Center, Ltd.**
 - *Research assistant, 2022*<br/>
