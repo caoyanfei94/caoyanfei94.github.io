@@ -69,7 +69,7 @@ Score of undergraduate thesis:&emsp; **92**/100
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 -->
-Last Updated: Nov. 11, 2022
+Last Updated: Jan. 05, 2023
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
