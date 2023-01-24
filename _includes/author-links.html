@@ -120,13 +120,23 @@
       </li>
     {%- endif -%}
 
-      {%- if _author.google-scholar -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'google-scholar' }}">
-        <a class="button button--circle npm-button" itemprop="sameAs" href="https://scholar.google.com/citations?hl=zh-CN&user=~{{ _author.google-scholar }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/google-scholar.svg -%}</div>
-        </a>
-      </li>
-    {%- endif -%}
+    <li>
+      <a class="button button--circle" itemprop="sameAs" href="https://www.researchgate.net/profile/Yanfei-Cao-6" target="_blank">
+        <div class="icon">{%- include svg/icon/social/researchgate.svg -%}</div>
+      </a>
+    </li>
+    
+    <li>
+      <a class="button button--circle" itemprop="sameAs" href="https://scholar.google.com/citations?user=CwIImG8AAAAJ&hl=en" target="_blank">
+        <div class="icon">{%- include svg/icon/social/google-scholar.svg -%}</div>
+      </a>
+    </li>
+
+    <li>
+      <a class="button button--circle" itemprop="sameAs" href="https://orcid.org/0000-0001-6835-6837" target="_blank">
+        <div class="icon">{%- include svg/icon/social/orcid.svg -%}</div>
+      </a>
+    </li>
 
   </ul>
 </div>

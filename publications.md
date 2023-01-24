@@ -84,7 +84,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">D. Bai, F. J, F. Qi, <b>Y. Cao</b>, Y. Wang, B. Chen. A wearable vibrotactile system for distributed guidance in teleoperation and virtual environments. Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2019, vol. 233(2), pp. 1-10. doi: 10.11770954411918821387. 
+      <p style ="text-align:justify;">D. Bai, F. J, F. Qi, <b>Y. Cao</b>, Y. Wang, B. Chen. A wearable vibrotactile system for distributed guidance in teleoperation and virtual environments. Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2019, vol. 233(2), pp. 1-10. doi: 10.1177/0954411918821387. 
       <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/10.1177/0954411918821387" target="_blank" rel="noopener noreferrer">PDF</a></p>
     </div>
   </div>
