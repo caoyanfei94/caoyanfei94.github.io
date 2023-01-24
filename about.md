@@ -38,7 +38,7 @@ GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100
 
 ## Employments
-<img src="/assets/about/MRC_logo.png" height="75" width="auto" style="float: right; margin-left: 20px; margin-right: 10px" />
+<img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px; margin-right: 10px" />
 
 **Multi-Scale Medical Robotics Center, Ltd.**
 - *Research assistant, 2022*<br/>
@@ -49,9 +49,8 @@ Score of undergraduate thesis:&emsp; **92**/100
 - *Software engineer, 2019-2021*<br/>
 
 ## Teaching
-<p style ="text-align:justify;">
-<li>UGEB2303 Robots in Action, Teaching assistant, 2023 @CUHK</li>
-<li>MAEG2020 Engineering Mechanics, Teaching assistant, 2022 @CUHK*</li></p>
+- UGEB2303 *Robots in Action*, Teaching assistant, 2023 @CUHK
+- MAEG2020 *Engineering Mechanics*, Teaching assistant, 2022 @CUHK
 
 ## Honors and Awards
 <p style ="text-align:justify;">
