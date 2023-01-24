@@ -48,6 +48,11 @@ Score of undergraduate thesis:&emsp; **92**/100
 **Huawei Technologies Co., Ltd.**
 - *Software engineer, 2019-2021*<br/>
 
+## Teaching
+<p style ="text-align:justify;">
+<li>UGEB2303 Robots in Action, Teaching assistant, 2023 @CUHK</li>
+<li>MAEG2020 Engineering Mechanics, Teaching assistant, 2022 @CUHK*</li></p>
+
 ## Honors and Awards
 <p style ="text-align:justify;">
 <li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li>
@@ -69,7 +74,7 @@ Score of undergraduate thesis:&emsp; **92**/100
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 -->
-Last Updated: Jan. 05, 2023
+Last Updated: Jan. 24, 2023
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
