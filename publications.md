@@ -24,7 +24,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, B. Chen. A novel variable stiffness continuum manipulator with a SMA-based sheath for minimally invasive surgery. 2018 International Academic Conference for Graduates, NUAA (IACGN, 2018). 2018, vol. 5, pp. 26-31.<b>(Best Paper Award)</b>
+      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, B. Chen. A novel variable stiffness continuum manipulator with a SMA-based sheath for minimally invasive surgery. 2018 International Academic Conference for Graduates, NUAA (IACGN, 2018). 2018, vol. 5, pp. 26-31.<b> (Best Paper Award)</b>
       <a class="button button--success button--pill button--xs" href="/assets/projects/paper- IACGN2018.pdf" download="IACGN2018_Volume5.pdf">PDF</a></p>
     </div>
   </div>
