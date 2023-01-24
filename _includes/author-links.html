@@ -118,6 +118,13 @@
           <div class="icon">{%- include svg/icon/social/npm.svg -%}</div>
         </a>
       </li>
+
+      {%- if _author.google-scholar -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'google-scholar' }}">
+        <a class="button button--circle npm-button" itemprop="sameAs" href="https://scholar.google.com/citations?hl=zh-CN&user=~{{ _author.google-scholar }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/google-scholar.svg -%}</div>
+        </a>
+      </li>
     {%- endif -%}
 
   </ul>

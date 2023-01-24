@@ -49,8 +49,8 @@ Score of undergraduate thesis:&emsp; **92**/100
 - *Software engineer, 2019-2021*<br/>
 
 ## Teaching
-- UGEB2303 *Robots in Action*, Teaching assistant, 2023 @CUHK
-- MAEG2020 *Engineering Mechanics*, Teaching assistant, 2022 @CUHK
+- *UGEB2303 **Robots in Action**, Teaching assistant,* 2023 @CUHK
+- *MAEG2020 **Engineering Mechanics**, Teaching assistant,* 2022 @CUHK
 
 ## Honors and Awards
 <p style ="text-align:justify;">
