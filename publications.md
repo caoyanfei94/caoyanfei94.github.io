@@ -102,6 +102,18 @@ titles: Publications
   </div>
 </div>
 
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/9-agent's decision making process.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__description">
+      <p style ="text-align:justify;">F. Ju, H. Ye, D. Bai, Y. Zhang, C. Zhu, <b>Y. Cao</b>, W. Yue. Autonomous tumor palpation and resection path planning using tactile array sensor and deep reinforcement learning for surgical robot. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). 2022. doi: 10.1109/ROBIO55434.2022.10012022. 
+      <a class="button button--success button--pill button--xs" href="https://ieeexplore.ieee.org/abstract/document/10012022" target="_blank" rel="noopener noreferrer">PDF</a></p>
+    </div>
+  </div>
+</div>
+
 ## Patents
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
