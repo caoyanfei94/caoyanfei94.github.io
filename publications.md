@@ -24,7 +24,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, B. Chen. A novel variable stiffness continuum manipulator with a SMA-based sheath for minimally invasive surgery. 2018 International Academic Conference for Graduates, NUAA (IACGN, 2018). 2018, vol. 5, pp. 26-31.<b> (Best Paper Award)</b>
+      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, B. Chen. A novel variable stiffness continuum manipulator with a SMA-based sheath for minimally invasive surgery. 2018 International Academic Conference for Graduates, NUAA (IACGN, 2018). Oct. 18-19, 2018, Nanjing, China, vol. 5, pp. 26-31.<b> (Best Paper Award)</b>
       <a class="button button--success button--pill button--xs" href="/assets/projects/paper- IACGN2018.pdf" download="IACGN2018_Volume5.pdf">PDF</a></p>
     </div>
   </div>
@@ -108,7 +108,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">F. Ju, H. Ye, D. Bai, Y. Zhang, C. Zhu, <b>Y. Cao</b>, W. Yue. Autonomous tumor palpation and resection path planning using tactile array sensor and deep reinforcement learning for surgical robot. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). 2022. doi: 10.1109/ROBIO55434.2022.10012022. 
+      <p style ="text-align:justify;">F. Ju, H. Ye, D. Bai, Y. Zhang, C. Zhu, <b>Y. Cao</b>, W. Yue. Autonomous tumor palpation and resection path planning using tactile array sensor and deep reinforcement learning for surgical robot. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). Dec. 5-9, 2022, Xishuangbanna, China. doi: 10.1109/ROBIO55434.2022.10012022. 
       <a class="button button--success button--pill button--xs" href="https://ieeexplore.ieee.org/abstract/document/10012022" target="_blank" rel="noopener noreferrer">PDF</a></p>
     </div>
   </div>
