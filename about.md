@@ -19,10 +19,11 @@ titles: About
 -->
 
 ## Educations
-<img src="/assets/about/CUHK_logo.jpg" height="80" width="auto" style="float: right; margin-left: 20px" />
+<img src="/assets/about/CUHK_logo.jpg" height="80" width="auto" style="float: right; margin-left: 15px" />
 
 **The Chinese University of Hong Kong**
 - *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-Now*<br/>
+GPA:&emsp; **3.94**/4.00<br/>
 
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 10px; margin-top: 80px; margin-right: 10px" />
 
@@ -73,7 +74,7 @@ Score of undergraduate thesis:&emsp; **92**/100
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 -->
-Last Updated: Jan. 27, 2023
+Last Updated: Mar. 29, 2023
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
