@@ -11,11 +11,11 @@ titles: About
 
 <p style ="text-align:justify;">I am now a Ph. D. candidate in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>) of the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>) and also a member of Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
 
-<p style ="text-align:justify;">My research interests are in the field of <b>Magnetic Robotics</b> for medical applications, with particular emphasis on <b>magnetic actuation</b>, <b>soft materials</b> and <b>machine learning</b> technologies for <b>continuum manipulators</b> like catheters or guidewires. Meanwhile, I serve as a <b>reviewer</b> for journals such as <i>Soft Robot.</i>, <i>IEEE/ASME Trans. Mechatron.</i>, <i>IEEE Robot. Autom. Lett.</i>, <i>J. Intell. Robot. Syst.</i>, <i>J. Intell. Mater. Syst. Struct.</i>, and <i>Int. J. Med. Robot</i>.</p>
+<p style ="text-align:justify;">My research interests are in the field of <b>Magnetic Robotics</b> for medical applications, with particular emphasis on <b>magnetic actuation</b>, <b>soft materials</b> and <b>machine learning</b> for <b>continuum manipulators</b>, like catheters or guidewires. Meanwhile, I serve as <b>reviewers</b> for journals such as <i>IEEE Trans. Robot.</i>, <i>Soft Robot.</i>, <i>IEEE/ASME Trans. Mechatron.</i>, <i>IEEE Robot. Autom. Lett.</i>, <i>J. Intell. Robot. Syst.</i>, <i>J. Intell. Mater. Syst. Struct.</i>, and <i>Int. J. Med. Robot</i>.</p>
 
 <!-- 
 ## News
-- <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a strong enough PhD candidate, please do not hesitate to contact me via email-<a href="mailto:caoyanfei94@outlook.com" style="color:#0066CC">caoyanfei94@outlook.com</a>.</font> Really hope to hear from you and desire to be one of your lab members through efforts!</p>
+- <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a strong enough PhD candidate, please do not hesitate to contact me via email-<a href="mailto:caoyanfei@link.cuhk.edu.hk" style="color:#0066CC">caoyanfei@link.cuhk.edu.hk</a>.</font> Really hope to hear from you and desire to be one of your lab members through efforts!</p>
 -->
 
 ## Educations
@@ -50,8 +50,8 @@ Score of undergraduate thesis:&emsp; **92**/100
 - *Software engineer, 2019-2021*<br/>
 
 ## Teaching
-- *UGEB2303 **Robots in Action**, Teaching assistant,* 2023 @CUHK
-- *MAEG2020 **Engineering Mechanics**, Teaching assistant,* 2022 @CUHK
+- *UGEB2303 **Robots in Action**, Teaching assistant,* 2023 @ CUHK
+- *MAEG2020 **Engineering Mechanics**, Teaching assistant,* 2022 @ CUHK
 
 ## Honors and Awards
 <p style ="text-align:justify;">
@@ -74,7 +74,8 @@ Score of undergraduate thesis:&emsp; **92**/100
 ## Language Certificate
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 -->
-Last Updated: Mar. 29, 2023
+
+Last Updated: May 21, 2023
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">

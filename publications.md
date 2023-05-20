@@ -12,8 +12,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, L. Zhang, D. Bai, F. Qi, B. Chen. A novel variable-stiffness flexible manipulator actuated by shape memory alloy for minimally invasive surgery. Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2018, vol. 232(11), pp. 1098-1110. doi: 10.1177/0954411918802922. 
-      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/327967109_A_novel_variable-stiffness_flexible_manipulator_actuated_by_shape_memory_alloy_for_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, L. Zhang, D. Bai, F. Qi, B. Chen*. A novel variable-stiffness flexible manipulator actuated by shape memory alloy for minimally invasive surgery. Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2018, vol. 232(11), pp. 1098-1110. doi: 10.1177/0954411918802922. 
+      <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -24,7 +24,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, F. Ju, B. Chen. A novel variable stiffness continuum manipulator with a SMA-based sheath for minimally invasive surgery. 2018 International Academic Conference for Graduates, NUAA (IACGN, 2018). Oct. 18-19, 2018, Nanjing, China, vol. 5, pp. 26-31.<b> (Best Paper Award)</b>
+      <p style ="text-align:justify;"><b>Y. Cao*</b>, F. Ju, B. Chen. A novel variable stiffness continuum manipulator with a SMA-based sheath for minimally invasive surgery. 2018 International Academic Conference for Graduates, NUAA (IACGN, 2018). Oct. 18-19, 2018, Nanjing, China, vol. 5, pp. 26-31.<b> (Best Paper Award)</b>
       <a class="button button--success button--pill button--xs" href="/assets/projects/paper- IACGN2018.pdf" download="IACGN2018_Volume5.pdf">PDF</a></p>
     </div>
   </div>
@@ -36,8 +36,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">S. Jiang, B. Chen, F. Qi, <b>Y. Cao</b>, F. Ju, D. Bai, Y. Wang. A variable-stiffness continuum manipulators by an SMA-based sheath in minimally invasive surgery. The International Journal of Medical Robotics and Computer Assisted Surgery. 2020, vol. 16(2), pp. 1-11. doi: 10.1002/rcs.2081. 
-      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/338682676_A_variable-stiffness_continuum_manipulators_by_a_SMA-based_sheath_in_minimally_invasive_surgery" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">S. Jiang, B. Chen*, F. Qi, <b>Y. Cao</b>, F. Ju, D. Bai, Y. Wang. A variable-stiffness continuum manipulators by an SMA-based sheath in minimally invasive surgery. The International Journal of Medical Robotics and Computer Assisted Surgery. 2020, vol. 16(2), pp. 1-11. doi: 10.1002/rcs.2081. 
+      <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -48,8 +48,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">H. Guo, F. Ju, <b>Y. Cao</b>, F. Qi, D. Bai, Y. Wang, B. Chen. Continuum robot shape estimation using permanent magnets and magnetic sensors. Sensors and Actuators A: Physical. 2019, vol. 285, pp. 519-530. doi: 10.1016/j.sna.2018.11.030. 
-      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/329054147_Continuum_Robot_Shape_Estimation_Using_Permanent_Magnets_and_Magnetic_Sensors" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">H. Guo, F. Ju, <b>Y. Cao</b>, F. Qi, D. Bai, Y. Wang, B. Chen*. Continuum robot shape estimation using permanent magnets and magnetic sensors. Sensors and Actuators A: Physical. 2019, vol. 285, pp. 519-530. doi: 10.1016/j.sna.2018.11.030. 
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -60,8 +60,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">L. Zhang, F. Ju, <b>Y. Cao</b>, Y. Wang, B. Chen. A tactile sensor for measuring hardness of soft tissue with applications to minimally invasive surgery. Sensors and Actuators A: Physical. 2017, vol. 266, pp. 197-204. doi: 10.1016/j.sna.2017.09.012. 
-      <a class="button button--success button--pill button--xs" href="https://www.sciencedirect.com/science/article/abs/pii/S0924424717310749" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">L. Zhang, F. Ju, <b>Y. Cao</b>, Y. Wang, B. Chen*. A tactile sensor for measuring hardness of soft tissue with applications to minimally invasive surgery. Sensors and Actuators A: Physical. 2017, vol. 266, pp. 197-204. doi: 10.1016/j.sna.2017.09.012. 
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -72,8 +72,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">Y. Wang, F. Ju, <b>Y. Cao</b>, Y. Yun, Y. Wang, D. Bai, B. Chen. An aero-engine inspection continuum robot with tactile sensor based on EIT for exploration and navigation in unknown environment. IEEE 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Hong Kong, China (2019.7.8-2019.7.12), 1157–1162. doi:10.1109/aim.2019.8868485. 
-      <a class="button button--success button--pill button--xs" href="https://www.researchgate.net/publication/336633256_An_aero-engine_inspection_continuum_robot_with_tactile_sensor_based_on_EIT_for_exploration_and_navigation_in_unknown_environment" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">Y. Wang, F. Ju, <b>Y. Cao</b>, Y. Yun, Y. Wang, D. Bai, B. Chen*. An aero-engine inspection continuum robot with tactile sensor based on EIT for exploration and navigation in unknown environment. IEEE 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Hong Kong, China (2019.7.8-2019.7.12), 1157–1162. doi:10.1109/aim.2019.8868485. 
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/AIM.2019.8868485" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -84,8 +84,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">D. Bai, F. J, F. Qi, <b>Y. Cao</b>, Y. Wang, B. Chen. A wearable vibrotactile system for distributed guidance in teleoperation and virtual environments. Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2019, vol. 233(2), pp. 1-10. doi: 10.1177/0954411918821387. 
-      <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/10.1177/0954411918821387" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">D. Bai, F. J, F. Qi, <b>Y. Cao</b>, Y. Wang, B. Chen*. A wearable vibrotactile system for distributed guidance in teleoperation and virtual environments. Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2019, vol. 233(2), pp. 1-10. doi: 10.1177/0954411918821387. 
+      <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/10.1177/0954411918821387" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -96,8 +96,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">S. Jiang, M. Jiang, <b>Y. Cao</b>, D. Hua, H. Wu, Y. Ding, B. Chen. A typical dynamic parameter identification method of 6-degree-offreedom industrial robot. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering. 2017, vol. 231(9), pp. 740-752. doi: 10.1177/0959651817726477. 
-      <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/abs/10.1177/0959651817726477" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">S. Jiang, M. Jiang, <b>Y. Cao</b>, D. Hua, H. Wu, Y. Ding, B. Chen*. A typical dynamic parameter identification method of 6-degree-offreedom industrial robot. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering. 2017, vol. 231(9), pp. 740-752. doi: 10.1177/0959651817726477. 
+      <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/abs/10.1177/0959651817726477" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
@@ -108,8 +108,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <div class="item__description">
-      <p style ="text-align:justify;">F. Ju, H. Ye, D. Bai, Y. Zhang, C. Zhu, <b>Y. Cao</b>, W. Yue. Autonomous tumor palpation and resection path planning using tactile array sensor and deep reinforcement learning for surgical robot. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). Dec. 5-9, 2022, Xishuangbanna, China. doi: 10.1109/ROBIO55434.2022.10012022. 
-      <a class="button button--success button--pill button--xs" href="https://ieeexplore.ieee.org/abstract/document/10012022" target="_blank" rel="noopener noreferrer">PDF</a></p>
+      <p style ="text-align:justify;">F. Ju*, H. Ye, D. Bai, Y. Zhang, C. Zhu, <b>Y. Cao</b>, W. Yue. Autonomous tumor palpation and resection path planning using tactile array sensor and deep reinforcement learning for surgical robot. 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO). Dec. 5-9, 2022, Xishuangbanna, China. doi: 10.1109/ROBIO55434.2022.10012022. 
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/ROBIO55434.2022.10012022" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
   </div>
 </div>
