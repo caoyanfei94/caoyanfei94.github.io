@@ -6,7 +6,7 @@
 }
 
 .item__image {
-  margin-right: map-get($spacers, 3);
+  margin-right: map-get($spacers, 4);
   & + .item__content {
     & > :first-child {
       margin-top: 0;

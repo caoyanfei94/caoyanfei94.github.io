@@ -116,7 +116,7 @@ titles: Publications
 
 ## Patents
 <ol reversed>
-#### <center><h4 style="color:#0066CC">2017-2021</h4> </center>
+<center><h3 style="color:#0066CC">2017-2021</h3> </center>
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/patent-1-CN107718040B.png"/>
@@ -244,4 +244,4 @@ titles: Publications
     </div></li>
   </div>
 </div>
-<ol\>
+</ol>
