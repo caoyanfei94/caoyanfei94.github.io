@@ -78,7 +78,7 @@ titles: Projects
       <p style ="text-align:justify;">We proposed a tactile sensor consisting of a piezoelectric ceramic plate, a spiral metal plate and a probe. In this design, only one piece of lead zirconate titanate (PZT) was used as both an actuator and a sensing element; a spiral metal plate was designed to reduce the resonant frequency of the sensor to restrict the impact brought by the effective mass of tissue. The concept structure and working principle of the proposed sensor were explained. FEM analyses including static structural analysis, modal analysis and harmonic response analysis were carried out to verify the feasibility of the sensor. Finally, a prototype and corresponding experimental system were established to further validate this feasibility. The experimental results ended up having a good agreement with the simulation results to assure this sensor's superb ability of lump detection.</p>
       <p style ="text-align:justify;">This study has been published in <b><i>Sensors and Actuators A: Physical</i></b>.</p>
       <p>
-        <a class="button button--info button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">DOI</a>
+        <a class="button button--info button--pill" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">LINK</a>
       </p>
     </div>
   </div>
