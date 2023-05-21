@@ -8,10 +8,10 @@ titles: Projects
 ## Research Projects
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/research experience- variable-stiffness manipulator.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- one-way  variable-stiffness mechanism.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- lab visitation.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/research experience- two-way variable-stiffness method.png" style="margin-bottom: 80px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_1.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_2.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_3.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_4.png" style="margin-bottom: 80px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -21,22 +21,24 @@ titles: Projects
       <p><b>Leader</b>. with Prof. Feng Ju and Prof. Bai Chen.</p>
       <p>@ CMEE, NUAA, Nanjing, 2018-2019</p>
       <p><li><b>Preliminary Design</b></li></p>
-      <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeon.</p>
+      <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeons.</p>
       <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that could be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which were well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
       <p style ="text-align:justify;">This study has been published in <b><i>Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine</i></b>.</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/full/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">DOI</a>
+        <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">LINK</a>
       </p>
       <p><li><b>Further Design</b></li></p>
-      <p style ="text-align:justify;">On the ground of the aforementioned study, we further designed a novel continuum manipulator with a SMA-based variable-stiffness sheath, whose stiffness was adjusted continuously in a two-way pattern as a voltage stimulus between both sheath ends ranged in a specific range, along with the phase transformations between austenite and martensite. Via similar research method as aforementioned study, the validity of this variable-stiffness manipulator design was verified.</p>
-      <p style ="text-align:justify;">The related outcome was presented at <b><i>2018 International Academic Conference for Graduates, NUAA</i></b> (IACGN, 2018), and winded up honored with <b>Best Paper Award in 2018 IACGN</b>. Then after my M. Sc. graduation from NUAA, it was further published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>.</p>
+      <p style ="text-align:justify;">On the ground of the aforementioned study, we further designed a continuum manipulator integrated with an SMA-based variable-stiffness sheath, whose stiffness was adjusted continuously in a two-way pattern as a voltage stimulus between both sheath ends ranged in a specific range, along with the phase transformations between austenite and martensite. Via a similar research method as aforementioned study, the validity of this variable-stiffness manipulator design was verified.</p>
+      <p style ="text-align:justify;">The related outcome was presented at <i>2018 International Academic Conference for Graduates, NUAA (<b>IACGN</b>, 2018)</i>, and winded up honored with <b>Best Paper Award in 2018 IACGN</b>. Then, after my M. Sc. graduation from NUAA, it was further published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>.</p>
       <p>
-        <a class="button button--secondary button--pill" href="/assets/projects/paper- IACGN2018.pdf" download="IACGN2018_Volume5.pdf">PDF1</a>
-        <a class="button button--secondary button--pill" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">DOI2</a>
+        <a class="button button--secondary button--pill" href="/assets/publications/journals/conference-iacgn_2018.pdf" download="IACGN2018_Volume5.pdf">LINK1</a>
+        <a class="button button--secondary button--pill" href="https://onlinelibrary.wiley.com/doi/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">LINK2</a>
       </p>
     </div>
   </div>
 </div>
+
+
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/research experience- concept design of shape estimation-1.png"  style="margin-bottom: 30px;"/><br>
