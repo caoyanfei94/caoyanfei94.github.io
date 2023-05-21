@@ -24,7 +24,7 @@
 }
 
 .button--secondary {
-  @include clickable($text-color-3, $orange);
+  @include clickable($text-color-3, $main-color-3);
 }
 
 .button--success {

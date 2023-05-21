@@ -25,7 +25,7 @@ titles: Projects
       <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that could be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which were well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
       <p style ="text-align:justify;">This study has been published in <b><i>Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine</i></b>.</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://journals.sagepub.com/doi/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">LINK</a>
+        <a class="button button--info button--pill" href="https://journals.sagepub.com/doi/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">LINK</a>
       </p>
       <p><li><b>Further Design</b></li></p>
       <p style ="text-align:justify;">On the ground of the aforementioned study, we further designed a continuum manipulator integrated with an SMA-based variable-stiffness sheath, whose stiffness was adjusted continuously in a two-way pattern as a voltage stimulus between both sheath ends ranged in a specific range, along with the phase transformations between austenite and martensite. Via a similar research method as aforementioned study, the validity of this variable-stiffness manipulator design was verified.</p>
@@ -55,7 +55,7 @@ titles: Projects
       <p style ="text-align:justify;">We attempted a scheme that small permanent magnets and magnetic sensors were integrated into a continuum robot to estimate its shape change. By fitting magnets' relative bending angle data derived from sensors into the Quadratic Bézier curve, we ended up reconstructing the shape in 2D plane. In addition, we performed simulation to reasonably arrange magnets and sensors to decrease the interference of multiple magnets. Afterwards, we carried out related experiments in a test platform including a single section prototype and a contrastive experiment platform to verify accuracy and feasibility of this method.</p>
       <p>This research has been published in <b><i>Sensors and Actuators A: Physical</i></b>.</p>
       <p>
-        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">DOI</a>
+        <a class="button button--secondary button--pill" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">LINK</a>
       </p>
     </div>
   </div>
