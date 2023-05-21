@@ -6,7 +6,7 @@
 }
 
 .item__image {
-  margin-right: 50;
+  margin-right: map-get($spacers, 5);
   & + .item__content {
     & > :first-child {
       margin-top: 0;
@@ -16,7 +16,7 @@
     }
   }
   @include media-breakpoint-down(md) {
-    margin-right: 50;
+    margin-right: 0;
   }
 }
 
