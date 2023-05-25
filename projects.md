@@ -38,7 +38,7 @@ titles: Projects
   </div>
 </div>
 
-<hr style="filter: alpha(opacity=20,finishopacity=0,style=1)" width="90%" color=grey size=0.3>
+***
 
 <div class="item">
   <div class="item__image">
@@ -62,7 +62,7 @@ titles: Projects
   </div>
 </div>
 
-<hr style="filter: alpha(opacity=20,finishopacity=0,style=1)" width="90%" color=grey size=0.3>
+***
 
 <div class="item">
   <div class="item__image">
