@@ -15,7 +15,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, X. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*. <i>Magnetic continuum robot with intraoperative magnetic moment programming</i>. <i><b>Soft Robotics</b></i>. 2023. Accepted.
+      <p style ="text-align:justify;"><b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*. <i>Magnetic continuum robot with intraoperative magnetic moment programming</i>. <i><b>Soft Robotics</b></i>. 2023. Accepted.
       <a class="button button--success button--pill button--xs" href="https://caoyanfei94.github.io/publications.html" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
@@ -35,12 +35,12 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/coming_soon.jpg"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ais_2023_2.png"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;">L. Zhang*. <i>Magnetic hydrogel micromachines with active release of antibacterial agent for biofilm eradication</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. Accepted.
-      <a class="button button--success button--pill button--xs" href="https://caoyanfei94.github.io/publications.html" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p style ="text-align:justify;">B. Sun, M. Sun*, Z. Zhang, Y. Jiang, B. Hao, X. Wang, <b>Y. Cao</b>, T. K. F. Chan*, L. Zhang*. <i>Magnetic hydrogel micromachines with active release of antibacterial agent for biofilm eradication</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. Accepted. DOI: 10.1002/aisy.202300092.
+      <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300092" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
 </div>
