@@ -2,9 +2,14 @@
 layout: article
 titles: About
 ---
+
+<hr class="hr-edge-weak">
+
 <p style ="text-align:right;">
 <i>"There is nothing as practical as a good theory."</i> -- Kurt Lewin<br>
 <i>"The test of all knowledge is experiment."</i> -- Richard Feynman</p>
+
+<hr class="hr-edge-weak">
 
 ## About Me
 <img class="shadow" src="/assets/about/xiamen.jpg" height="330" width="auto" style="border-radius:5%; float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 10px; margin-top: 10px" />
@@ -17,8 +22,6 @@ titles: About
 ## News
 - <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a strong enough PhD candidate, please do not hesitate to contact me via email-<a href="mailto:caoyanfei@link.cuhk.edu.hk" style="color:#0066CC">caoyanfei@link.cuhk.edu.hk</a>.</font> Really hope to hear from you and desire to be one of your lab members through efforts!</p>
 -->
-
-<hr class="hr-edge-weak">
 
 ## Educations
 <img src="/assets/about/CUHK_logo.jpg" height="80" width="auto" style="float: right; margin-left: 15px" />
@@ -40,8 +43,6 @@ GPA:&emsp; **90**/100<br/>
 GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100
 
-<hr class="hr-edge-weak">
-
 ## Employments
 <img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px; margin-right: 10px" />
 
@@ -52,8 +53,6 @@ Score of undergraduate thesis:&emsp; **92**/100
 
 **Huawei Technologies Co., Ltd.**
 - *Software engineer, 2019-2021*<br/>
-
-<hr class="hr-edge-weak">
 
 ## Teaching
 - *UGEB2303 **Robots in Action**, Teaching assistant,* 2023 @ CUHK
