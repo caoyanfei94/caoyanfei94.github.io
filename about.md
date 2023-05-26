@@ -79,7 +79,7 @@ Score of undergraduate thesis:&emsp; **92**/100
 
 <hr class="hr-edge-weak">
 
-<img src="/assets/about/honors and awards.png" height="385" width="auto" style="margin-top: 20px" />
+<img src="/assets/about/honors and awards.png" height="385" width="auto" />
 
 <!-- 
 ## Language Certificate
