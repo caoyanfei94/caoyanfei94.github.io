@@ -6,7 +6,6 @@ titles: Projects
 ---
 
 <br>
-<br>
 
 ## Research Projects
 <div class="item">

@@ -6,7 +6,6 @@ titles: Publications
 ---
 
 <br>
-<br>
 
 ## Publications
 <ol reversed>
