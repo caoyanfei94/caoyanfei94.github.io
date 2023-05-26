@@ -5,6 +5,9 @@ titles: Projects
 #   toc: true
 ---
 
+<br>
+<br>
+
 ## Research Projects
 <div class="item">
   <div class="item__image">

@@ -2,9 +2,7 @@
 layout: article
 titles: About
 ---
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
