@@ -293,4 +293,4 @@ titles: Publications
 </div>
 </ol>
 
-<hr class="hr-edge-weak">
+<hr class="hr-edge-weak-nobottom">
