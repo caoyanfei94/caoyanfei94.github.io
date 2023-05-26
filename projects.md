@@ -51,7 +51,8 @@ titles: Projects
     </div>
   </div>
 </div>
-***
+
+<hr class="hr-edge-weak">
 
 <div class="item">
   <div class="item__image">

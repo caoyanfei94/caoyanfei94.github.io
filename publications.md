@@ -57,6 +57,8 @@ titles: Publications
   </div>
 </div>
 
+<hr class="hr-edge-weak">
+
 <center><h3 style="color:#0066CC">2017-2020</h3> </center>
 
 <div class="item" style="padding-bottom:10px">
