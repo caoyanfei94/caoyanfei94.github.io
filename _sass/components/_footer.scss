@@ -24,6 +24,8 @@
       }
     }
   }
+  position: fixed;
+  bottom: 0;
 }
 .footer__author-links {
   @include overflow(auto);

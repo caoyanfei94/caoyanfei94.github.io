@@ -1,4 +1,6 @@
 .header {
+  position: fixed;
+  top: 0;
   background: $header-background;
   a {
      font-weight: map-get($base, font-weight);
