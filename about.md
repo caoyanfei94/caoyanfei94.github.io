@@ -6,7 +6,7 @@ titles: About
 <hr class="hr-edge-weak-bold">
 
 <p style ="text-align:right;">
-<i>"There is nothing as practical as a good theory."</i> -- Kurt Lewin<br>
+<i>"There is nothing as practical as a good theory."</i> -- Kurt Lewinaaa<br>
 <i>"The test of all knowledge is experiment."</i> -- Richard Feynman</p>
 
 <hr class="hr-edge-weak-bold">
