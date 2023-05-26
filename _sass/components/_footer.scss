@@ -5,7 +5,6 @@
 .footer {
   @include flexbox();
   @include align-items(center);
-  height:10%;
   width:100%;
   position:fixed;
   bottom:0px;

@@ -1,8 +1,4 @@
 .main {
-  position: fixed;
-  height: 80%;
-  top:10%;
-  left:0px;
   width: 100%;
   max-width: map-get($layout, content-max-width);
   padding: 0 map-get($spacers, 5);
