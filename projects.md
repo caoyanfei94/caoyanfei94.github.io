@@ -5,8 +5,6 @@ titles: Projects
 #   toc: true
 ---
 
-<hr class="hr-edge-weak">
-
 ## Research Projects
 <div class="item">
   <div class="item__image">
@@ -111,9 +109,5 @@ titles: Projects
   </div>
 </div>
 
-<hr class="hr-edge-weak">
-
 ## Research Grant
 - <p style ="text-align:justify;"><b>Member</b>. Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 中国国家自然科学基金, 可重构的心动脉内介入手术机器人系统研究.</p>
-
-<hr class="hr-edge-weak">

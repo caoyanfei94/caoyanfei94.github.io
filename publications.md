@@ -5,8 +5,6 @@ titles: Publications
 #   toc: true
 ---
 
-<hr class="hr-edge-weak">
-
 ## Publications
 <ol reversed>
 <center><h3 style="color:#0066CC">2022-Now</h3> </center>
@@ -292,5 +290,3 @@ titles: Publications
   </div>
 </div>
 </ol>
-
-<hr class="hr-edge-weak">
