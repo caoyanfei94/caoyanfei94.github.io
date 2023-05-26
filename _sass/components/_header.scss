@@ -16,6 +16,7 @@
       @include flex-direction(column);
     }
   }
+  z-index: 999;
 }
 
 .header--dark {
@@ -26,6 +27,7 @@
       @include split-line(bottom, 4px, $text-color-theme-dark);
     }
   }
+  z-index: 999;
 }
 
 .header--light {
@@ -36,6 +38,7 @@
       @include split-line(bottom, 4px, $text-color-theme-light);
     }
   }
+  z-index: 999;
 }
 
 .header__title {
@@ -63,6 +66,7 @@
       @include flexbox();
     }
   }
+  z-index: 999;
 }
 
 .header__brand {
@@ -86,6 +90,7 @@
       font-size: map-get($base, font-size-h4-small);
     }
   }
+  z-index: 999;
 }
 
 .navigation {
@@ -109,6 +114,7 @@
       }
     }
   }
+  z-index: 999;
 }
 
 .navigation__item {
@@ -118,6 +124,7 @@
     content: "";
     @include split-line(bottom, 4px, transparent);
   }
+  z-index: 999;
 }
 .navigation__item--active {
   a {
@@ -126,4 +133,5 @@
   &::after {
     @include split-line(bottom, 4px, $main-color-1);
   }
+  z-index: 999;
 }
