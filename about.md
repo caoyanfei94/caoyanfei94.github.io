@@ -58,8 +58,6 @@ Score of undergraduate thesis:&emsp; **92**/100
 - *UGEB2303 **Robots in Action**, Teaching assistant,* 2023 @ CUHK
 - *MAEG2020 **Engineering Mechanics**, Teaching assistant,* 2022 @ CUHK
 
-<hr class="hr-edge-weak">
-
 ## Honors and Awards
 <p style ="text-align:justify;">
 <li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li>
