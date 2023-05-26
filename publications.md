@@ -115,7 +115,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;">Y. Wang, F. Ju, <b>Y. Cao</b>, Y. Yun, Y. Wang, D. Bai, B. Chen*. <i>An aero-engine inspection continuum robot with tactile sensor based on EIT for exploration and navigation in unknown environment</i>. <i>IEEE 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<b>AIM</b>)</i>. Hong Kong, China (2019.7.8-2019.7.12), 1157–1162. DOI:10.1109/aim.2019.8868485.
+      <p style ="text-align:justify;">Y. Wang, F. Ju, <b>Y. Cao</b>, Y. Yun, Y. Wang, D. Bai, B. Chen*. <i>An aero-engine inspection continuum robot with tactile sensor based on EIT for exploration and navigation in unknown environment</i>. <i>IEEE 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (<b>AIM</b>)</i>. Jul. 8-12, 2019, Hong Kong, China, pp. 1157–1162. DOI:10.1109/aim.2019.8868485.
       <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/AIM.2019.8868485" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
