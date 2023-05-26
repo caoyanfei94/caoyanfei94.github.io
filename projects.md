@@ -31,7 +31,7 @@ titles: Projects
   </div>
 </div>
 <!-- *** -->
-<hr style="FILTER:alpha(opacity=100,finishopacity=0,style=2)" width="80%"color=#987cb9 SIZE=10>
+<hr style="FILTER:alpha(opacity=100,finishopacity=0,style=2)" width="80%" color=#987cb9 size=10>
 
 <div class="item">
   <div class="item__image">
