@@ -3,13 +3,13 @@ layout: article
 titles: About
 ---
 
-<hr class="hr-edge-weak">
+<hr class="hr-edge-weak-bold">
 
 <p style ="text-align:right;">
 <i>"There is nothing as practical as a good theory."</i> -- Kurt Lewin<br>
 <i>"The test of all knowledge is experiment."</i> -- Richard Feynman</p>
 
-<hr class="hr-edge-weak">
+<hr class="hr-edge-weak-bold">
 
 ## About Me
 <img class="shadow" src="/assets/about/xiamen.jpg" height="330" width="auto" style="border-radius:5%; float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 10px; margin-top: 10px" />
