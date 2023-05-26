@@ -8,11 +8,6 @@
   @include media-breakpoint-down(md) {
     padding: 0 map-get($spacers, 3);
   }
-  position: fixed;
-  width: 100%;
-  top: 80px;
-  left: 0;
-  overflow: auto;
 }
 
 .has-aside {
