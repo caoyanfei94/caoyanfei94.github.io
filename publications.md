@@ -158,6 +158,8 @@ titles: Publications
 </div>
 </ol>
 
+<hr class="hr-edge-weak">
+
 ## Patents
 <ol reversed>
 <center><h3 style="color:#0066CC">2017-2021</h3> </center>
