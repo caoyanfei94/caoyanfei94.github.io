@@ -39,9 +39,7 @@
     @include split-line(bottom);
   }
   hr {
-    border: 0;
-    background: linear-gradient(to right, transparent, #d0d0d5, transparent);
-    // @include horizontal-rules();
+    @include horizontal-rules();
   }
   blockquote {
     padding-left: map-get($spacers, 3);
