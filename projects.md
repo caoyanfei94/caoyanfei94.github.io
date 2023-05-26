@@ -30,7 +30,7 @@ titles: Projects
     </div>
   </div>
 </div>
-***
+<!-- *** -->
 
 <div class="item">
   <div class="item__image">
