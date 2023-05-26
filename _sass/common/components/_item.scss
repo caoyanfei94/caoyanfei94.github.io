@@ -39,7 +39,7 @@ a > .item__header, a.item__header, .item__header > a {
     line-height: map-get($base, line-height);
     @include block-elements() {
       margin-top: map-get($spacers, 2);
-      margin-bottom: map-get($spacers, 1);
+      margin-bottom: map-get($spacers, 2);
     }
     @include heading-elements() {
       margin-top: map-get($spacers, 3);
@@ -78,13 +78,13 @@ a > .item__header, a.item__header, .item__header > a {
   }
 }
 
-// .items {
-//   & > .item {
-//     &:not(:last-child) {
-//       margin-bottom: map-get($spacers, 2);
-//     }
-//   }
-// }
+.items {
+  & > .item {
+    &:not(:last-child) {
+      margin-bottom: map-get($spacers, 2);
+    }
+  }
+}
 
 .items--divided {
   & > .item {
