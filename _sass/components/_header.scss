@@ -1,8 +1,9 @@
 .header {
   width:100%;
   position: fixed;
-  top:0px;
-  left:0px;
+  height: 20px;
+  top: 0px;
+  left: 0px;
   background: $header-background;
   a {
      font-weight: map-get($base, font-weight);
