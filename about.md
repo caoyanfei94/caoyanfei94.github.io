@@ -86,9 +86,6 @@ Score of undergraduate thesis:&emsp; **92**/100
 - **TOEFL iBT**&emsp;&emsp; Total Score: 94 (Reading: 28, Listening: 23, Speaking: 18, Writing: 25)
 -->
 
-<hr class="hr-edge-weak">
-
-
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content">
     <h4>Contact</h4>
@@ -108,4 +105,4 @@ Score of undergraduate thesis:&emsp; **92**/100
 
 Last Updated: May 27, 2023
 
-<hr class="hr-edge-weak-no-bottom">
+<hr class="hr-edge-weak">
