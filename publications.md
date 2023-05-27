@@ -7,7 +7,7 @@ titles: Publications
 
 <br>
 
-## Publications
+## Journals and Conference Papers
 <ol reversed>
 <center><h3 style="color:#0066CC">2022-Now</h3> </center>
 

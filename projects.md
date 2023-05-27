@@ -7,7 +7,7 @@ titles: Research
 
 <br>
 
-## Research Projects
+## Projects
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_1.png" style="margin-bottom: 30px;"/><br>
