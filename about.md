@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: About
+titles: About Me
 ---
 
 <br>
