@@ -1,6 +1,26 @@
 ---
 layout: base
 ---
+
+<style>
+.shadow {
+  pointer-events: none;
+}
+.shadow::before {
+  content: "";
+  box-shadow: 0 0 10px 1px #333;
+  position: fixed;
+  width: 100%;
+}
+.shadow::after {
+  content: "";
+  width: 100%;
+  height: 50px;
+  background: linear-gradient(to bottom, #fff 50%, transparent);
+  position: absolute;
+}
+</style>
+
 {%- assign _page_mode = page.mode | default: layout.mode | default: site.data.variables.default.page.mode -%}
 {%- assign _page_type = page.type | default: layout.type | default: site.data.variables.default.page.type -%}
 {%- assign _article_header_type = page.article_header.type | default: layout.article_header.type -%}
@@ -81,7 +101,7 @@ layout: base
         </div>
       {%- endif -%}
 
-        <header class="shadow"></header>
+        <div class="shadow"></div>
 
         <div class="page__content">
         {%- if _article_header_type == 'overlay' or _article_header_type == 'cover' -%}
