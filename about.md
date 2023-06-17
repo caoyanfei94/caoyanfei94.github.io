@@ -19,7 +19,7 @@ titles: About Me
 
 <p style ="text-align:justify;">Nice to meet you here🌝. I am now a Ph. D. candidate in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>), the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>). Also, I am a member in Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
 
-<p style ="text-align:justify;">My research interests are in the field of <b>Magnetic Robotics</b> in medical applications, with particular emphasis on <b>magnetic actuation</b>, <b>soft materials</b>, and <b>machine learning</b> for <b>continuum manipulators</b>, like catheters or guidewires. Meanwhile, I serve as <b>reviewers</b> for several journals, such as <i>IEEE Trans. Robot.</i>, <i>Soft Robot.</i>, <i>IEEE/ASME Trans. Mechatron.</i>, <i>IEEE Robot. Autom. Lett.</i>, <i>J. Intell. Robot. Syst.</i>, <i>J. Intell. Mater. Syst. Struct.</i>, and <i>Int. J. Med. Robot</i>.</p>
+<p style ="text-align:justify;">My research interests are in the field of <b>Magnetic Robotics</b>🤖in medical applications, with particular emphasis on <b>magnetic actuation</b>, <b>soft materials</b>, and <b>machine learning</b> for <b>continuum manipulators</b>, like catheters or guidewires. Meanwhile, I serve as <b>reviewers</b> for several journals, such as <i>IEEE Trans. Robot.</i>, <i>Soft Robot.</i>, <i>IEEE/ASME Trans. Mechatron.</i>, <i>IEEE Robot. Autom. Lett.</i>, <i>J. Intell. Robot. Syst.</i>, <i>J. Intell. Mater. Syst. Struct.</i>, and <i>Int. J. Med. Robot</i>.</p>
 
 <!-- 
 ## News
@@ -31,7 +31,7 @@ titles: About Me
 
 **The Chinese University of Hong Kong**
 - *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-Now*<br/>
-GPA:&emsp; **3.94**/4.00<br/>
+GPA:&emsp; **3.833**/4.00<br/>
 
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 10px; margin-top: 80px; margin-right: 10px" />
 
@@ -103,6 +103,6 @@ Score of undergraduate thesis:&emsp; **92**/100
   </div>
 </div>
 
-Last Updated: May 27, 2023
+Last Updated: Jun 17, 2023
 
 <hr class="hr-edge-weak">

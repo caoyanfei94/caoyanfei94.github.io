@@ -17,8 +17,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*. <i>Magnetic continuum robot with intraoperative magnetic moment programming</i>. <i><b>Soft Robotics</b></i>. 2023. Accepted.
-      <a class="button button--success button--pill button--xs" href="https://caoyanfei94.github.io/publications.html" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p style ="text-align:justify;"><b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*. <i>Magnetic continuum robot with intraoperative magnetic moment programming</i>. <i><b>Soft Robotics</b></i>. 2023. Accepted. DOI: 10.1089/soro.2022.0202.
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
 </div>
