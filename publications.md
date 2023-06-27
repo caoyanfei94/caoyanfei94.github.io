@@ -9,7 +9,7 @@ titles: Publications
 
 ## Journals and Conference Papers
 <ol reversed>
-<center><h2 style="color:#59acd3;font-family:'Comic Sans MS'"><i>2022-Now</i></h2> </center>
+<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2022-Now</i></h3> </center>
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
@@ -61,7 +61,7 @@ titles: Publications
 
 <hr class="hr-edge-weak">
 
-<center><h2 style="color:#59acd3;font-family:'Comic Sans MS'"><i>2017-2020</i></h2> </center>
+<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2017-2020</i></h3> </center>
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
@@ -162,7 +162,7 @@ titles: Publications
 
 ## Patents
 <ol reversed>
-<center><h2 style="color:#59acd3;font-family:'Comic Sans MS'"><i>2017-2021</i></h2> </center>
+<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2017-2021</i></h3> </center>
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
