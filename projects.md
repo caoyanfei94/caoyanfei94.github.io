@@ -8,6 +8,32 @@ titles: Research
 <br>
 
 ## Projects
+
+<center><h3 style="color:#525b68">2022-Now</h3> </center>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/publications/journals/coming_soon.jpg" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/publications/journals/coming_soon.jpg" style="margin-bottom: 5px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#0066CC">Magnetic continuum robot</h4>
+    </div>
+    <div class="item__description">
+      <p><b>Member</b>. with Dr. Zhengxin Yang and Prof. Li Zhang.</p>
+      <p>@ ANML, MAE, CUHK, Hong Kong, 2022-2023</p>
+      <p style ="text-align:justify;">This project proposed a novel magnetic moment intraoperatively programmable continuum robot (MMPCR).</p>
+      <p style ="text-align:justify;">This robot can achieve various magnetic moment combinations, thereby dexterously deforming in three shape modalities. This benefits from the use of several actuating units capable of intraoperatively programming magnetic moments to improve dexterity and reduce the customization requirements of magnetic continuum robots, resulting in higher degrees of freedom (DOFs). Therefore, prolonged nonessential collisions with the surroundings can be avoided and difficult-to-reach regions can be accessed during navigation. We modeled and numerically simulated the dexterous deformation behaviors of the MMPCR under different magnetic conditions. A fabrication method was proposed, and experiments were conducted to determine the efficacy of the magnetic moment programming method and the dexterous deformation capacity of MMPCR.</p>
+      <p>This research has been published online in <b><i>Soft robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
+    </div>
+  </div>
+</div>
+
+<hr class="hr-edge-weak">
+
+<center><h3 style="color:#525b68">2017-2020</h3> </center>
+
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_1.png" style="margin-bottom: 30px;"/><br>
@@ -21,7 +47,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p><b>Leader</b>. with Prof. Feng Ju and Prof. Bai Chen.</p>
-      <p>@ CMEE, NUAA, Nanjing, 2018-2019</p>
+      <p>@ CMEE, NUAA, Nanjing, 2018-2020</p>
       <p><li><b>Preliminary Design</b></li></p>
       <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeons.</p>
       <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that could be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which were well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
