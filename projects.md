@@ -18,7 +18,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f3a37e;font-family:'Comic Sans MS'">Magnetic continuum robot</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Magnetic continuum robot</h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. with Dr. Zhengxin Yang and Prof. Li Zhang.</p>
@@ -43,7 +43,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f3a37e;font-family:'Comic Sans MS'">Variable Stiffness</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Variable Stiffness</h4>
     </div>
     <div class="item__description">
       <p><b>Leader</b>. with Prof. Feng Ju and Prof. Bai Chen.</p>
@@ -68,7 +68,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f3a37e;font-family:'Comic Sans MS'">Shape Estimation</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Shape Estimation</h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. with Dr. Hao Guo, Prof. Feng Ju, and Prof. Bai Chen.</p>
@@ -89,7 +89,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f3a37e;font-family:'Comic Sans MS'">Tactile Sensing</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Tactile Sensing</h4>
     </div>
     <div class="item__description">
       <p><b>Member</b>. with Mr. Lei Zhang, Prof. Feng Ju, and Prof. Bai Chen.</p>
@@ -108,7 +108,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f3a37e;font-family:'Comic Sans MS'">Module Development and Maintenance of Failure Mode and Effects Analysis (FMEA)</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Module Development and Maintenance of Failure Mode and Effects Analysis (FMEA)</h4>
     </div>
     <div class="item__description">
       <p><b>Software Engineer</b></p>
@@ -126,7 +126,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f3a37e;font-family:'Comic Sans MS'">2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</h4>
     </div>
     <div class="item__description">
       <p><b>Lecturer</b></p>
