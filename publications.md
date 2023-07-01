@@ -11,6 +11,7 @@ titles: Publications
 <ol reversed>
 <center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2022-Now</i></h3> </center>
 
+<!--
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/journals/coming_soon.jpg"/>
@@ -22,6 +23,7 @@ titles: Publications
     </div></li>
   </div>
 </div>
+-->
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
@@ -42,7 +44,8 @@ titles: Publications
   <div class="item__content">
     <li><div class="item__description">
       <p style ="text-align:justify;">B. Sun, M. Sun*, Z. Zhang, Y. Jiang, B. Hao, X. Wang, <b>Y. Cao</b>, T. K. F. Chan*, L. Zhang*. <i>Magnetic hydrogel micromachines with active release of antibacterial agent for biofilm eradication</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. Accepted. DOI: 10.1002/aisy.202300092.
-      <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300092" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300092" target="_blank" rel="noopener noreferrer">LINK</a> 
+      (<a href="https://www.advancedsciencenews.com/micromachines-destroy-bacterial-biofilms-in-hard-to-reach-places/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">Highlighted in Advanced Science News</a>)</p>
     </div></li>
   </div>
 </div>
