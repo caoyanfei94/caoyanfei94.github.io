@@ -25,7 +25,7 @@ titles: Research
       <p>@ ANML, MAE, CUHK, Hong Kong, 2022-2023</p>
       <p style ="text-align:justify;">This project proposed a novel magnetic moment intraoperatively programmable continuum robot (MMPCR).</p>
       <p style ="text-align:justify;">This robot can achieve various magnetic moment combinations, thereby dexterously deforming in three shape modalities. This benefits from the use of several actuating units capable of intraoperatively programming magnetic moments to improve dexterity and reduce the customization requirements of magnetic continuum robots, resulting in higher degrees of freedom (DOFs). Therefore, prolonged nonessential collisions with the surroundings can be avoided and difficult-to-reach regions can be accessed during navigation. We modeled and numerically simulated the dexterous deformation behaviors of the MMPCR under different magnetic conditions. A fabrication method was proposed, and experiments were conducted to determine the efficacy of the magnetic moment programming method and the dexterous deformation capacity of MMPCR.</p>
-      <p>This research has been published online in <b><i>Soft robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p>This research has been published online in <b><i>Soft Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div>
   </div>
 </div>
