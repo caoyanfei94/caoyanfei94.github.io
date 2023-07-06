@@ -13,8 +13,8 @@ titles: Research
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/publications/journals/coming_soon.jpg" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/publications/journals/coming_soon.jpg" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/projects/magnetic_continuum_robot_1.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/magnetic_continuum_robot_2.png" style="margin-bottom: 5px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">

@@ -13,7 +13,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/coming_soon.jpg"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-soro_2023.png"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
