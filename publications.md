@@ -11,7 +11,6 @@ titles: Publications
 <ol reversed>
 <center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2022-Now</i></h3> </center>
 
-<!--
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/journals/coming_soon.jpg"/>
@@ -23,7 +22,6 @@ titles: Publications
     </div></li>
   </div>
 </div>
--->
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
