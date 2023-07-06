@@ -103,6 +103,6 @@ Score of undergraduate thesis:&emsp; **92**/100
   </div>
 </div>
 
-Last Updated: Jul 01, 2023
+Last Updated: Jul 06, 2023
 
 <hr class="hr-edge-weak">
