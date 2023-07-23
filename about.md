@@ -15,9 +15,9 @@ titles: About Me
 <hr class="hr-edge-weak-bold">
 
 ## Biography
-<img class="shadow" src="/assets/about/xiamen.jpg" height="330" width="auto" style="border-radius:5%; float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px; margin-top: 20px" />
+<img class="shadow" src="/assets/about/xiamen.jpg" height="330" width="auto" style="border-radius:5%; float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 10px; margin-top: 30px" />
 
-<p style ="text-align:justify;font-family:'Comic Sans MS';font-size:26px"><i>Hey. Welcome! My Friend :-)</i></p>
+<p style ="text-align:justify;font-size:25px"><i>Hey. Welcome! My Friend :-)</i></p>
 
 <p style ="text-align:justify;">At present, I am pursuing my Ph. D. in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>), the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>). Also, I am a member in Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
 
@@ -105,6 +105,6 @@ Score of undergraduate thesis:&emsp; **92**/100
   </div>
 </div>
 
-<p style ="text-align:right;"><i>Last Updated: Jul 06, 2023</i></p>
+<p style ="text-align:right;"><i>Last Updated: Jul 24, 2023</i></p>
 
 <hr class="hr-edge-weak">
