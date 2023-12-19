@@ -17,7 +17,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*. <i>Magnetic continuum robot with intraoperative magnetic moment programming</i>. <i><b>Soft Robotics</b></i>. 2023. Accepted. DOI: 10.1089/soro.2022.0202.
+      <p style ="text-align:justify;"><b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*. <i>Magnetic continuum robot with intraoperative magnetic moment programming</i>. <i><b>Soft Robotics</b></i>. 2023, vol. 10(6), pp. 1209-1223. DOI: 10.1089/soro.2022.0202.
       <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
@@ -29,7 +29,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;">Z. Yang, H. Yang, <b>Y. Cao</b>, Y. Cui, L. Zhang*. <i>Magnetically actuated continuum medical robots: a review</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. Accepted. DOI: 10.1002/aisy.202200416.
+      <p style ="text-align:justify;">Z. Yang, H. Yang, <b>Y. Cao</b>, Y. Cui, L. Zhang*. <i>Magnetically actuated continuum medical robots: a review</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. DOI: 10.1002/aisy.202200416.
       <a class="button button--success button--pill button--xs" href="https://doi.org/10.1002/aisy.202200416" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
@@ -41,7 +41,7 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;">B. Sun, M. Sun*, Z. Zhang, Y. Jiang, B. Hao, X. Wang, <b>Y. Cao</b>, T. K. F. Chan*, L. Zhang*. <i>Magnetic hydrogel micromachines with active release of antibacterial agent for biofilm eradication</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. Accepted. DOI: 10.1002/aisy.202300092.
+      <p style ="text-align:justify;">B. Sun, M. Sun*, Z. Zhang, Y. Jiang, B. Hao, X. Wang, <b>Y. Cao</b>, T. K. F. Chan*, L. Zhang*. <i>Magnetic hydrogel micromachines with active release of antibacterial agent for biofilm eradication</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023. DOI: 10.1002/aisy.202300092.
       <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300092" target="_blank" rel="noopener noreferrer">LINK</a> 
       (Highlighted in <a href="https://www.advancedsciencenews.com/micromachines-destroy-bacterial-biofilms-in-hard-to-reach-places/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">Advanced Science News</a>)</p>
     </div></li>
