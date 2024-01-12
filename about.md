@@ -33,7 +33,7 @@ titles: About Me
 
 **The Chinese University of Hong Kong**
 - *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-Now*<br/>
-GPA:&emsp; **3.833**/4.00<br/>
+GPA:&emsp; **3.850**/4.00<br/>
 
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 10px; margin-top: 80px; margin-right: 10px" />
 
@@ -60,6 +60,7 @@ Score of undergraduate thesis:&emsp; **92**/100
 - *Software engineer, 2019-2021*<br/>
 
 ## Teaching
+- *UGEB1307 **Energy and Green Society**, Teaching assistant,* 2024 @ CUHK
 - *ELEG2202B **Fundamentals of Electric Circuits**, Teaching assistant,* 2023 @ CUHK
 - *UGEB2303  **Robots in Action**, Teaching assistant,* 2023 @ CUHK
 - *MAEG2020  **Engineering Mechanics**, Teaching assistant,* 2022 @ CUHK
@@ -106,6 +107,6 @@ Score of undergraduate thesis:&emsp; **92**/100
   </div>
 </div>
 
-<p style ="text-align:right;"><i>Last Updated: Aug 28, 2023</i></p>
+<p style ="text-align:right;"><i>Last Updated: Jan 12, 2024</i></p>
 
 <hr class="hr-edge-weak">
