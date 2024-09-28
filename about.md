@@ -15,7 +15,7 @@ titles: About Me
 <hr class="hr-edge-weak-bold">
 
 ## Biography
-<img class="shadow" src="/assets/about/xiamen.png" height="330" width="auto" style="border-radius:5%; float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 30px; margin-top: 30px" />
+<img class="shadow" src="/assets/about/caoyanfei.jpg" height="330" width="auto" style="border-radius:5%; float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 30px; margin-top: 30px" />
 
 <p style ="text-align:justify;font-size:25px"><i>Hey. Welcome! My Friend :-)</i></p>
 
