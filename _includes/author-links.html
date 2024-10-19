@@ -96,14 +96,6 @@
       </li>
     {%- endif -%}
 
-    {%- if _author.linkedin -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
-        <a class="button button--circle " itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
-        </a>
-      </li>
-    {%- endif -%}
-
     {%- if _author.github -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Github' }}">
         <a class="button button--circle " itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
@@ -127,14 +119,20 @@
     </li>
 
     <li>
-      <a class="button button--circle" itemprop="sameAs" href="https://orcid.org/0000-0001-6835-6837" target="_blank">
-        <div class="icon">{%- include svg/icon/social/orcid.svg -%}</div>
+      <a class="button button--circle" itemprop="sameAs" href="https://www.researchgate.net/profile/Yanfei-Cao-6" target="_blank">
+        <div class="icon">{%- include svg/icon/social/researchgate.svg -%}</div>
       </a>
     </li>
 
     <li>
-      <a class="button button--circle" itemprop="sameAs" href="https://www.researchgate.net/profile/Yanfei-Cao-6" target="_blank">
-        <div class="icon">{%- include svg/icon/social/researchgate.svg -%}</div>
+      <a class="button button--circle " itemprop="sameAs" href="https://www.linkedin.com/in/yanfei-cao-740113334/" target="_blank">
+        <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
+      </a>
+    </li>
+
+    <li>
+      <a class="button button--circle" itemprop="sameAs" href="https://orcid.org/0000-0001-6835-6837" target="_blank">
+        <div class="icon">{%- include svg/icon/social/orcid.svg -%}</div>
       </a>
     </li>
 
