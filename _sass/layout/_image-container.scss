@@ -4,7 +4,8 @@
 }
  
 .image-container img {
-  width: 100%; /* 根据需要调整宽度 */
+  max-width: 100%;
+  // width: 100%; /* 根据需要调整宽度 */
   height: auto; /* 保持图片的宽高比 */
 }
  
