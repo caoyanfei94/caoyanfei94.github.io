@@ -3,15 +3,8 @@ layout: article
 titles: About Me
 ---
 
-<div class="image-container">
-  <img src="/assets/about/bg.jpg" alt="Background Image">
-  <div class="text-overlay">
-    <p>Cao Yanfei</p>
-  </div>
-</div>
-
-<!-- <br>
-<br> -->
+<br>
+<br>
 
 <hr class="hr-edge-weak-bold">
 
