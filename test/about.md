@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en      : &EN       About Me
+  en      : &EN       Home
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
