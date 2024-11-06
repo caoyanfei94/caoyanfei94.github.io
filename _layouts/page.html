@@ -21,8 +21,14 @@ layout: base
   background: linear-gradient(to bottom, #fff 60%, transparent);
   position: absolute;
 }
-.light {
+.header_background {
   background:   #808080;
+}
+.header_text_color_grey {
+  color:   #808080;
+}
+.header_text_color_white {
+  color:   #fff;
 }
 </style>
 
@@ -30,9 +36,11 @@ layout: base
 window.onscroll = function() {
   var header = document.querySelector('header');
   if ($(window).scrollTop() > 0) {
-    $(".header").addClass("light");
+    $(".header").addClass("header_background"); 
+    $(".header").addClass("header_text_color_white"); 
   } else {
-    $(".header").removeClass("light");;
+    $(".header").removeClass("header_background");; 
+    $(".header").addClass("header_text_color_grey"); 
   }
 };
 </script>
