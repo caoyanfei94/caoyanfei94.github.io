@@ -32,7 +32,7 @@ window.onscroll = function() {
   var header = document.querySelector('header');
   if ($(window).scrollTop() > 0) {
     $(".header").addClass("header_background"); 
-    
+    <div class="shadow"></div>
   } else {
     $(".header").removeClass("header_background"); 
   }
@@ -126,7 +126,7 @@ window.onscroll = function() {
         </div>
       {%- endif -%}
 
-        <div class="shadow"></div>
+        <!-- <div class="shadow"></div> -->
 
         <div class="page__content">
         {%- if _article_header_type == 'overlay' or _article_header_type == 'cover' -%}
