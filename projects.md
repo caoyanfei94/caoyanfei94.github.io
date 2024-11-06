@@ -5,7 +5,7 @@ titles: Research
 #   toc: true
 ---
 
-<br>
+<!-- <br> -->
 
 ## Projects
 

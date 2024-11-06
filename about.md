@@ -3,8 +3,8 @@ layout: article
 titles: About Me
 ---
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 <hr class="hr-edge-weak-bold">
 

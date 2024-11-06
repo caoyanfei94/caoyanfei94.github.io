@@ -5,7 +5,7 @@ titles: Publications
 #   toc: true
 ---
 
-<br>
+<!-- <br> -->
 
 ## Journals and Conference Papers
 <ol reversed>
