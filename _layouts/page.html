@@ -23,7 +23,7 @@ layout: base
 } */
 .header_background {
   /* background:   #cdd9ea; */
-  background:   #161616;
+  background:   #2b2a2a;
 }
 
 </style>
@@ -37,6 +37,12 @@ window.onscroll = function() {
   } else {
     $(".header").removeClass("header_background"); 
   }
+};
+
+window.onscroll = function() {
+  var header = document.querySelector('header');
+  var scroll = window.pageYOffset;
+  $(".header").style.transform = 'translateY(' + scroll*0.5 + 'px)'; // 0.5是一个减缓系数，可以根据需要调整
 };
 </script>
 
