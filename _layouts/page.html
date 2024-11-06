@@ -22,14 +22,12 @@ layout: base
   position: absolute;
 }
 .header_background {
-  background:   #808080;
+  background:   #000;
 }
-.header_text_color_grey {
-  color:   #808080;
-}
-.header_text_color_white {
+.header_text_color {
   color:   #fff;
 }
+
 </style>
 
 <script>
@@ -37,10 +35,10 @@ window.onscroll = function() {
   var header = document.querySelector('header');
   if ($(window).scrollTop() > 0) {
     $(".header").addClass("header_background"); 
-    $(".header").addClass("header_text_color_white"); 
+    $(".header").addClass("header_text_color"); 
   } else {
     $(".header").removeClass("header_background");; 
-    $(".header").addClass("header_text_color_grey"); 
+    $(".header").removeClass("header_text_color"); 
   }
 };
 </script>
