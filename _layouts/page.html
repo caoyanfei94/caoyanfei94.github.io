@@ -6,13 +6,13 @@ layout: base
 .shadow {
   pointer-events: none;
 }
-/* .shadow::before {
+.shadow::before {
   content: "";
   box-shadow: 0 0 20px 2px #333;
   position: fixed;
   width: 100%;
   top: 80px;
-} */
+}
 .shadow::after {
   content: "";
   width: 100%;
@@ -22,7 +22,7 @@ layout: base
   position: absolute;
 }
 .header_background {
-  background:   #81c1e1;
+  background:   #89a3c5;
 }
 
 </style>
@@ -32,6 +32,7 @@ window.onscroll = function() {
   var header = document.querySelector('header');
   if ($(window).scrollTop() > 0) {
     $(".header").addClass("header_background"); 
+    
   } else {
     $(".header").removeClass("header_background"); 
   }
