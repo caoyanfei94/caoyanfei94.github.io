@@ -10,8 +10,8 @@ titles: About Me
   </div>
 </div>
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 <hr class="hr-edge-weak-bold">
 
