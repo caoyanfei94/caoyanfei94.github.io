@@ -1,9 +1,11 @@
 .image-container {
   position: relative;
   display: flex; /* 或者其他适合的布局方式 */
+  overflow: hidden;
 }
  
 .image-container img {
+  position: absolute;
   max-width: 100% !important;
   // width: 100%; /* 根据需要调整宽度 */
   height: auto; /* 保持图片的宽高比 */
