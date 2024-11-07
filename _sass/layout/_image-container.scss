@@ -1,6 +1,6 @@
 .image-container {
   position: relative;
-  display: inline-block; /* 或者其他适合的布局方式 */
+  display: flex; /* 或者其他适合的布局方式 */
 }
  
 .image-container img {
