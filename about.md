@@ -14,7 +14,7 @@ titles: Home
 
 <hr class="hr-edge-weak-bold">
 
-## About Me!
+## About Me
 
 <p style ="text-align:justify;font-size:25px"><i>Hey. Welcome. My Friend :-)</i></p>
 
