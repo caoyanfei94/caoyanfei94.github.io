@@ -29,7 +29,7 @@ titles: Home
 - <p style ="text-align:justify;"><b>[Nov. 2021]</b> <font color='red'>I am genuinely seeking an appropriate fully funded PhD position. If you and your team regard me as a strong enough PhD candidate, please do not hesitate to contact me via email-<a href="mailto:caoyanfei@link.cuhk.edu.hk" style="color:#0066CC">caoyanfei@link.cuhk.edu.hk</a>.</font> Really hope to hear from you and desire to be one of your lab members through efforts!</p>
 -->
 
-## Educations
+## Education
 <img src="/assets/about/CUHK_logo.jpg" height="80" width="auto" style="float: right; margin-left: 15px" />
 
 **The Chinese University of Hong Kong**
@@ -49,7 +49,7 @@ Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**) 
 GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100 -->
 
-## Employments
+## Employment
 <img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px; margin-right: 10px" />
 
 **Multi-Scale Medical Robotics Center, Ltd.**
@@ -67,7 +67,7 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 - *UGEB2303  **Robots in Action**, Teaching assistant,* 2023 @ CUHK
 - *MAEG2020  **Engineering Mechanics**, Teaching assistant,* 2022 @ CUHK
 
-## Honors and Awards
+## Honor and Award
 <!-- <p style ="text-align:justify;">
 <li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li>
 <li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
