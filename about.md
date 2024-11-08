@@ -9,20 +9,20 @@ titles: Home
 <hr class="hr-edge-weak-bold">
 
 <p style ="text-align:right;">
-<i>"There is nothing as practical as a good theory."</i> -- Kurt Lewin<br>
+<!-- <i>"There is nothing as practical as a good theory."</i> -- Kurt Lewin<br> -->
 <i>"The test of all knowledge is experiment."</i> -- Richard Feynman</p>
 
 <hr class="hr-edge-weak-bold">
 
-## Biography
+## About Me
 
-<p style ="text-align:justify;font-size:25px"><i>Hey. Welcome! My Friend :-)</i></p>
+<p style ="text-align:justify;font-size:25px"><i>Hey. Welcome. My Friend :-)</i></p>
 
 <img class="shadow" src="/assets/about/caoyanfei.png" height="230" width="auto" style="border-radius:5%; float: right; margin-left: 50px; margin-right: 0px; margin-bottom: 30px; margin-top: 0px" />
 
-<p style ="text-align:justify;">Now, I am a Ph. D. candidate in the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>), the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>). Also, I am a member in Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
+<p style ="text-align:justify;">I am a Ph. D. candidate at the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>), the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>), Hong Kong, China. In addition, I am a member in Advanced Nanomaterials & Microrobotics Laboratory (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ANML</a>).</p> <!--I have received my M. Sc. degree from Nanjing University of Aeronautics and Astronautics (<a href="https://www.nuaa.edu.cn/479/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">NUAA</a>) since 2019. During my M. Sc. study, I worked at the College of Mechanical and Electrical Engineering (<a href="http://cmee.nuaa.edu.cn/eng/13604/list.htm" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CMEE</a>), NUAA, in Nanjing, Jiangsu Province, P. R. China. After that, I worked as a software engineer for 2 years or so at Department of Information and Communication Technology, Huawei Technologies Co., Ltd. (<a href="https://www.huawei.com/en/corporate-information" style="color:#0066CC" target="_blank" rel="noopener noreferrer">HUAWEI</a>).<-->
 
-<p style ="text-align:justify;">My research interests are in the field of <b>Magnetic Robotics</b> in medical applications, with particular emphasis on <b>magnetic actuation</b>, <b>soft materials</b>, and <b>machine learning</b> for <b>continuum manipulators</b>, like catheters or guidewires. Meanwhile, I serve as <b>reviewers</b> for several journals, such as <i>IEEE Trans. Robot.</i>, <i>Soft Robot.</i>, <i>IEEE/ASME Trans. Mechatron.</i>, <i>IEEE Robot. Autom. Lett.</i>, <i>J. Intell. Robot. Syst.</i>, <i>J. Intell. Mater. Syst. Struct.</i>, and <i>Int. J. Med. Robot</i>.</p>
+<p style ="text-align:justify;">My research interests include continuum robots, magnetic materials and actuation, and learning-based control. I am currently mainly focusing on methodologies to design and control continuum robots composed of modular axially magnetized segments.</p>
 
 <!-- 
 ## News
