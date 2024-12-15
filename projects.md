@@ -21,18 +21,17 @@ titles: Research
       <h4 style="color:#f16262;font-family:'Comic Sans MS'">Magnetic continuum robot</h4>
     </div>
     <div class="item__description">
-      <p><b>Member</b>. with Dr. Zhengxin Yang and Prof. Li Zhang.</p>
-      <p>@ ANML, MAE, CUHK, Hong Kong, 2022-2023</p>
-      <p style ="text-align:justify;">This project proposed a novel magnetic moment intraoperatively programmable continuum robot (MMPCR).</p>
-      <p style ="text-align:justify;">This robot can achieve various magnetic moment combinations, thereby dexterously deforming in three shape modalities. This benefits from the use of several actuating units capable of intraoperatively programming magnetic moments to improve dexterity and reduce the customization requirements of magnetic continuum robots, resulting in higher degrees of freedom (DOFs). Therefore, prolonged nonessential collisions with the surroundings can be avoided and difficult-to-reach regions can be accessed during navigation. We modeled and numerically simulated the dexterous deformation behaviors of the MMPCR under different magnetic conditions. A fabrication method was proposed, and experiments were conducted to determine the efficacy of the magnetic moment programming method and the dexterous deformation capacity of MMPCR.</p>
-      <p>This research has been published online in <b><i>Soft Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p>Done by <b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*.</p>
+      <p>@ ZRL, MAE, CUHK, Hong Kong, 2022-2023</p>
+      <p style ="text-align:justify;">Magnetic continuum robots (MCRs), which are free of complicated structural designs for transmission, can be miniaturized and are therefore widely used in the medical field. However, the deformation shapes of different segments, including deflection directions and curvatures, are difficult to control simultaneously under an external programmable magnetic field. This is because the latest MCRs have designs with an invariable magnetic moment combination or profile of one or more actuating units. Therefore, the limited dexterity of the deformation shape causes the existing MCRs to collide readily with their surroundings or makes them unable to approach difficult-to-reach regions. These prolonged collisions are unnecessary or even hazardous, especially for catheters or similar medical devices. In this study, a novel magnetic moment intraoperatively programmable continuum robot (MMPCR) is introduced. By applying the proposed magnetic moment programming method, the MMPCR can deform under three modalities, that is, J, C, and S shapes. Additionally, the deflection directions and curvatures of different segments in the MMPCR can be modulated as desired. Furthermore, the magnetic moment programming and MMPCR kinematics are modeled, numerically simulated, and experimentally validated. The experimental results exhibit a mean deflection angle error of 3.3° and correspond well with simulation results. Comparisons between navigation capacities of the MMPCR and MCR demonstrate that the MMPCR has a higher capacity for dexterous deformation.</p>
+      <p>This work has been published online in <b><i>Soft Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div>
   </div>
 </div>
 
 <hr class="hr-edge-weak">
 
-<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2017-2020</i></h3> </center>
+<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2018-2020</i></h3> </center>
 
 <div class="item">
   <div class="item__image">
@@ -46,22 +45,21 @@ titles: Research
       <h4 style="color:#f16262;font-family:'Comic Sans MS'">Variable Stiffness</h4>
     </div>
     <div class="item__description">
-      <p><b>Leader</b>. with Prof. Feng Ju and Prof. Bai Chen.</p>
+      <p>Done by <b>Y. Cao</b>, F. Ju, L. Zhang, D. Bai, F. Qi, B. Chen*.</p>
       <p>@ CMEE, NUAA, Nanjing, 2018-2020</p>
-      <p><li><b>Preliminary Design</b></li></p>
-      <p style ="text-align:justify;">This project aimed at seeking a controllable variable-stiffness approach that could be utilized in medical continuum manipulator. Suppose equipped with a variable-stiffness mechanism, this manipulator was anticipated to be capable of continuously tuning its stiffness, thus safely navigating inside human body and reducing operational difficulty for surgeons.</p>
-      <p style ="text-align:justify;">First, we designed a one-way variable-stiffness flexible manipulator that could be stiffened by the proactive deformation of shape memory alloy (SMA) wires, which were well suited for medical applications due to their apparent mechanical deformation capacity, suitable phase transformation temperature, easy miniaturization and crucial biocompatibility. The design, mathematical modeling, Finite Element Modeling (FEM) simulations and experimental characterizations of mechanism and single module were separately conducted. The results of stimulations and experiments demonstrated a good stiffening capacity of the designed manipulator.</p>
-      <p style ="text-align:justify;">This study has been published in <b><i>Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine</i></b>. <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p><li><b>First Design</b></li></p>
+      <p style ="text-align:justify;">This article presents a novel variable-stiffness flexible manipulator for minimally invasive surgery. Each module of the proposed manipulator contains a variable-stiffness mechanism actuated by proactive deformation of shape memory alloy. Due to low driving current, apparent mechanical deformation, suitable phase transformation temperature and biocompatibility of shape memory alloy wire actuation, it is well suited for the manipulator applied in minimally invasive surgery, where variable stiffness is urgently required. In this article, the conceptual design, elastic modulus model, thermo-electric model, stiffness controlling method and finite element method simulation for a single module of the proposed variable-stiffness flexible manipulator are presented. Moreover, the memory shape setting experiment of shape memory alloy wire and fabrication of the single module are carried out. Finally, stiffness characterizations of the mechanism and the single module are studied separately, theoretically and experimentally.</p>
+      <p style ="text-align:justify;">This work has been published in <b><i>Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine</i></b>. <a class="button button--success button--pill button--xs" href="https://journals.sagepub.com/doi/10.1177/0954411918802922" target="_blank" rel="noopener noreferrer">LINK</a></p>
       <p><li><b>Further Design</b></li></p>
-      <p style ="text-align:justify;">On the ground of the aforementioned study, we further designed a continuum manipulator integrated with an SMA-based variable-stiffness sheath, whose stiffness was adjusted continuously in a two-way pattern as a voltage stimulus between both sheath ends ranged in a specific range, along with the phase transformations between austenite and martensite. Via a similar research method as aforementioned study, the validity of this variable-stiffness manipulator design was verified.</p>
-      <p style ="text-align:justify;">The related outcome was presented at <i>2018 International Academic Conference for Graduates, NUAA (<b>IACGN</b>, 2018)</i>, and winded up honored with <b>Best Paper Award in 2018 IACGN</b>. <a class="button button--success button--pill button--xs" href="/assets/publications/journals/conference-iacgn_2018.pdf" download="IACGN2018_Volume5.pdf">LINK1</a> Then, after my M. Sc. graduation from NUAA, it was further published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>. <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">LINK2</a></p>
+      <p style ="text-align:justify;">Due to its unique dexterity and safety, continuum manipulators have been widely used in small constrained environment. However, its flexibility also brings negative effects such as poor stiffness and low strength. This paper presents a novel variable-stiffness sheath for continuum manipulators applied in minimally invasive surgery. We present a variable-stiffness sheath based on shape memory alloy (SMA) for each module of the continuum manipulators. The stiffness of the sheath can be continuously adjusted depending on the voltage between both ends of the sheath, along with the phase transformation of SMA between austenite and martensite. The experimental results demonstrate that the stiffness of the sheath and single module are able to increase up to 223.1% and 139.2%, separately, which verify the correctness of the proposed variable stiffness method. The robot integrated with the variable-stiffness sheath is demonstrated to possess a fine capacity of variable stiffness.</p>
+      <p style ="text-align:justify;">The work was presented at <i>2018 International Academic Conference for Graduates, NUAA (<b>IACGN</b>, 2018)</i>, and was honored with <b>Best Paper Award in 2018 IACGN</b>. <a class="button button--success button--pill button--xs" href="/assets/publications/journals/conference-iacgn_2018.pdf" download="IACGN2018_Volume5.pdf">LINK1</a> Subsequently, it was further improved and finally published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>. <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">LINK2</a></p>
     </div>
   </div>
 </div>
 
-<hr class="hr-edge-weak">
+<!-- <hr class="hr-edge-weak"> -->
 
-<div class="item">
+<!-- <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/shape_estimation_1.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/shape_estimation_2.png" style="margin-bottom: 5px;"/>
@@ -78,11 +76,11 @@ titles: Research
       <p>This research has been published in <b><i>Sensors and Actuators A: Physical</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1016/j.sna.2018.11.030" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div>
   </div>
-</div>
+</div> -->
 
-<hr class="hr-edge-weak">
+<!-- <hr class="hr-edge-weak"> -->
 
-<div class="item">
+<!-- <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/tactile_sensing_1.png"  style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/tactile_sensing_2.png" style="margin-bottom: 5px;"/>
@@ -99,7 +97,12 @@ titles: Research
       <p style ="text-align:justify;">This study has been published in <b><i>Sensors and Actuators A: Physical</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1016/j.sna.2017.09.012" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div>
   </div>
-</div>
+</div> -->
+
+
+
+
+
 
 ## Employment Experience
 <div class="item">
@@ -113,13 +116,18 @@ titles: Research
     <div class="item__description">
       <p><b>Software Engineer</b></p>
       <p>@ Department of Information and Communication Technology, HUAWEI, Nanjing, 2019-2021</p>
-      <p style ="text-align:justify;">After my completion of M. Sc. study in NUAA, I joined HUAWEI as a software engineer. The team I served for supports a bunch series of HUAWEI's core products, like high-end communication devices named "NetEngine 8000 Series Routers" and stuff. I was mainly in charge of module development and maintenance of FMEA, related to periodically monitoring hardware failure and reporting alarms during equipment running. This assured the stability and reliability of equipments without impairing performance.</p>
-      <p style ="text-align:justify;">Over two years or so, I have delivered <b>15+ product iterations</b> on developing new software requirements, during which I served as <b>iteration owner</b>. Meanwhile, I solved <b>500+ defect tracking sheets</b> (DTS) and won <b>Gold Network Award</b> for <b>3 times</b>, thus deeply appreciated by colleagues.</p>
+      <p style ="text-align:justify;">I joined HUAWEI as a software engineer when I achieved the M. Sc. degree in NUAA. The team I served for supports a bunch series of HUAWEI's core products, like high-end communication devices named "NetEngine 8000 Series Routers" and stuff. I was mainly in charge of module development and maintenance of FMEA, related to periodically monitoring hardware failure and reporting alarms during equipment running. This assured the stability and reliability of equipments without impairing performance.</p>
+      <p style ="text-align:justify;">Over the two years or so, I have delivered <b>15+ product iterations</b> on developing new software requirements, during which I served as <b>iteration owner</b>. Meanwhile, I solved <b>500+ defect tracking sheets</b> (DTS) and was honored with <b>Gold Network Award</b> for <b>3 times</b>.</p>
     </div>
   </div>
 </div>
 
-## Event
+
+
+
+
+
+## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/events/IACGN_2018.png"/>
@@ -129,13 +137,19 @@ titles: Research
       <h4 style="color:#f16262;font-family:'Comic Sans MS'">2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</h4>
     </div>
     <div class="item__description">
-      <p><b>Lecturer</b></p>
-      <p>@ Nanjing, 18-19 October 2018</p>
-      <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
-      <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in the variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>Best Paper Award in 2018 IACGN</b>.</p>
+      <!-- <p><b>Lecturer</b></p> -->
+      <p>@ Nanjing, 18-19 October 2018 </p>
+      <p>Honored with <b>Best Paper Award in 2018 IACGN</b> </p>
+      <!-- <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
+      <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in the variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>Best Paper Award in 2018 IACGN</b>.</p> -->
     </div>
   </div>
 </div>
+
+
+
+
+
 
 ## Research Grant
 - <p style ="text-align:justify;"><b>Member</b>. Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 中国国家自然科学基金, 可重构的心动脉内介入手术机器人系统研究.</p>
