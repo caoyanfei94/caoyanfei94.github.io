@@ -13,16 +13,42 @@ titles: Research
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/projects/magnetic_continuum_robot_1.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/projects/magnetic_continuum_robot_2.png" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_1.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_2.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_3.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_4.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_5.png" style="margin-bottom: 5px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Magnetic continuum robot</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Magnetic Continuum Robot with Modular Axial Magnetization: Design, Modeling, Optimization, and Control</h4>
+    </div>
+    <div class="item__description">
+      <p>Done by <b>Y. Cao</b>, M. Cai, B. Sun, Z. Qi, J. Xue, Y. Jiang, B. Hao, J. Zhu, X. Liu, C. Yang, L. Zhang*.</p>
+      <p>@ MAE, CUHK, Hong Kong, 2023-2024</p>
+      <p style ="text-align:justify;">Magnetic continuum robots (MCRs) have become popular owing to their inherent advantages of easy miniaturization without requiring complicated transmission structures. The evolution of MCRs, from initial designs with one embedded magnet to current designs with specific magnetization profile configurations (MPCs), has significantly enhanced their dexterity. While much progress has been achieved, the quantitative indexbased evaluation of deformability for different MPCs, which can assist in designing MPCs with enhanced robot deformability, has not been addressed before. Here we use "deformability" to describe the capability for body deflection when an MCR forms different global shapes under an external magnetic field. Therefore, in this paper, we propose methodologies to design and control an MCR composed of modular axially magnetized segments. To guide robot MPC design, for the first time, we introduce a quantitative index-based evaluation strategy to analyze and optimize robot deformability. Additionally, a control framework with neural network-based controllers is developed to endow the robot with two control modes: the robot tip position and orientation (M1) and the global shape (M2). The excellent performance of the learnt controllers in terms of computation time and accuracy was validated via both simulation and experimental platforms. In the experimental results, the best closed-loop control performance metrics, indicated as the mean absolute errors, were 0.254 mm and 0.626◦ for mode M1 and 1.564 mm and 0.086◦ for mode M2.</p>
+      <p>This work has been accepted for future publication in <b><i>IEEE Transactions on Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://caoyanfei94.github.io/projects.html" target="_blank" rel="noopener noreferrer">LINK</a></p>
+    </div>
+  </div>
+</div>
+
+<hr class="hr-edge-weak">
+
+<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2022-Now</i></h3> </center>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/projects/soro_1.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/soro_2.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/projects/soro_3.png" style="margin-bottom: 5px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Magnetic Continuum Robot with Intraoperative Magnetic Moment Programming</h4>
     </div>
     <div class="item__description">
       <p>Done by <b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*.</p>
-      <p>@ ZRL, MAE, CUHK, Hong Kong, 2022-2023</p>
+      <p>@ MAE, CUHK, Hong Kong, 2022-2023</p>
       <p style ="text-align:justify;">Magnetic continuum robots (MCRs), which are free of complicated structural designs for transmission, can be miniaturized and are therefore widely used in the medical field. However, the deformation shapes of different segments, including deflection directions and curvatures, are difficult to control simultaneously under an external programmable magnetic field. This is because the latest MCRs have designs with an invariable magnetic moment combination or profile of one or more actuating units. Therefore, the limited dexterity of the deformation shape causes the existing MCRs to collide readily with their surroundings or makes them unable to approach difficult-to-reach regions. These prolonged collisions are unnecessary or even hazardous, especially for catheters or similar medical devices. In this study, a novel magnetic moment intraoperatively programmable continuum robot (MMPCR) is introduced. By applying the proposed magnetic moment programming method, the MMPCR can deform under three modalities, that is, J, C, and S shapes. Additionally, the deflection directions and curvatures of different segments in the MMPCR can be modulated as desired. Furthermore, the magnetic moment programming and MMPCR kinematics are modeled, numerically simulated, and experimentally validated. The experimental results exhibit a mean deflection angle error of 3.3° and correspond well with simulation results. Comparisons between navigation capacities of the MMPCR and MCR demonstrate that the MMPCR has a higher capacity for dexterous deformation.</p>
       <p>This work has been published online in <b><i>Soft Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div>
@@ -42,7 +68,7 @@ titles: Research
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Variable Stiffness</h4>
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Continuum Robot with Variable Stiffness</h4>
     </div>
     <div class="item__description">
       <p>Done by <b>Y. Cao</b>, F. Ju, L. Zhang, D. Bai, F. Qi, B. Chen*.</p>
@@ -130,7 +156,7 @@ titles: Research
 ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/events/IACGN_2018.png"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/IACGN_2018.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
