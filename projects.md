@@ -168,6 +168,8 @@ titles: Research
   </div>
 </div>
 
+<hr class="hr-edge-weak">
+
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_1.png" style="margin-bottom: 30px;"/><br>
@@ -183,6 +185,8 @@ titles: Research
   </div>
 </div>
 
+<hr class="hr-edge-weak">
+
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/conference/ICRF_2024.png" style="margin-bottom: 50px;"/>
@@ -196,6 +200,8 @@ titles: Research
     </div>
   </div>
 </div>
+
+<hr class="hr-edge-weak">
 
 <div class="item">
   <div class="item__image">
