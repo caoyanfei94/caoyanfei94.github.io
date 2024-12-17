@@ -15,7 +15,7 @@ titles: Research
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_1.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_2.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/projects/tro_3.png" style="margin-bottom: 30px;"/><br>
+    <!-- <img class="image image--xl shadow" src="/assets/projects/projects/tro_3.png" style="margin-bottom: 30px;"/><br> -->
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_4.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_5.png" style="margin-bottom: 5px;"/>
   </div>
@@ -156,7 +156,51 @@ titles: Research
 ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/IACGN_2018.png"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_1.png" style="margin-bottom: 30px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_2.png" style="margin-bottom: 5px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">18th International Conference on Biomedical Engineering (ICBME 2024)</h4>
+    </div>
+    <div class="item__description">
+      <p>@ Singapore, 09-12 Dec 2024 </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_1.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_2.png" style="margin-bottom: 5px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">2024 DGIST International Collaboration Symposium</h4>
+    </div>
+    <div class="item__description">
+      <p>@ Daegu, South Korea, 18-21 Nov 2024 </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICRF_2024.png" style="margin-bottom: 5px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">2024 International Conference of Robotics+Frontiers Technology (ICR+F 2024)</h4>
+    </div>
+    <div class="item__description">
+      <p>@ Suzhou, China, 28 June-01 July 2024 </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/conference/IACGN_2018.png" style="margin-bottom: 5px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -164,7 +208,7 @@ titles: Research
     </div>
     <div class="item__description">
       <!-- <p><b>Lecturer</b></p> -->
-      <p>@ Nanjing, 18-19 October 2018 </p>
+      <p>@ Nanjing, China, 18-19 October 2018 </p>
       <p>Honored with <b>Best Paper Award in 2018 IACGN</b> </p>
       <!-- <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
       <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in the variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>Best Paper Award in 2018 IACGN</b>.</p> -->
