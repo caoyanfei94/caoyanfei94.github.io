@@ -15,9 +15,9 @@ titles: Research
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_1.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_2.png" style="margin-bottom: 30px;"/><br>
-    <!-- <img class="image image--xl shadow" src="/assets/projects/projects/tro_3.png" style="margin-bottom: 30px;"/><br> -->
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_3.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/tro_4.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/projects/tro_5.png" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/projects/tro_5.png" style="margin-bottom: 50px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -156,8 +156,8 @@ titles: Research
 ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_1.png" style="margin-bottom: 30px;"/>
-    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_2.png" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_1.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_2.png" style="margin-bottom: 50px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -172,7 +172,7 @@ titles: Research
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_1.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_2.png" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_2.png" style="margin-bottom: 50px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -186,7 +186,7 @@ titles: Research
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/ICRF_2024.png" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICRF_2024.png" style="margin-bottom: 50px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -200,7 +200,7 @@ titles: Research
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/IACGN_2018.png" style="margin-bottom: 5px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/IACGN_2018.png" style="margin-bottom: 50px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
