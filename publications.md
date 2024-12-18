@@ -13,7 +13,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/tro_2-2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/tro_2-2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -25,7 +25,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-soro_2023.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-soro_2023.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -37,7 +37,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/tro_1-2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/tro_1-2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -49,7 +49,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-nc_2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-nc_2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -61,7 +61,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/tie-2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/tie-2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -73,7 +73,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/tase-2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/tase-2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -85,7 +85,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ais_2023.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ais_2023.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -97,7 +97,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/tcyber-2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/tcyber-2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -109,7 +109,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/conference-icra_2024.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/conference-icra_2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -121,7 +121,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ais_2023_2.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ais_2023_2.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -134,7 +134,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-robio_2022.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-robio_2022.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -155,7 +155,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-part_h_2018.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-part_h_2018.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -167,7 +167,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/conference-iacgn_2018.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/conference-iacgn_2018.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -179,7 +179,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ijmr_2020.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-ijmr_2020.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -191,7 +191,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-sna_2019.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-sna_2019.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -203,7 +203,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/conference-ieee_aim_2019.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/conference-ieee_aim_2019.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -215,7 +215,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-part_h_2019.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-part_h_2019.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -227,7 +227,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-sna_2017.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-sna_2017.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -239,7 +239,7 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/journals/journal-part_i_2017.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-part_i_2017.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">

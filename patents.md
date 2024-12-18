@@ -13,7 +13,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107718040B.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107718040B.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -24,7 +24,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN110193827A.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN110193827A.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -35,7 +35,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107901032B.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107901032B.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -46,7 +46,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107830875B.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107830875B.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -57,7 +57,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN108814890B.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN108814890B.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -68,7 +68,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN210100022U.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN210100022U.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -79,7 +79,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107238452B.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN107238452B.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -90,7 +90,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN109806487A.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN109806487A.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -101,7 +101,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN109623841A.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN109623841A.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -112,8 +112,8 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN108381573A.png" style="margin-bottom: 5px;"/><br>
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN108381573A_2.png"/>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN108381573A.png" style="margin-bottom: 30px;"/><br>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN108381573A_2.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <li><div class="item__description">
@@ -127,7 +127,7 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
-    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN206967474U.png" style="margin-bottom: 5px;"/><br>
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN206967474U.png" style="margin-bottom: 5px;" style="margin-bottom: 30px;"/><br>
   </div>
   <div class="item__content">
     <li><div class="item__description">
