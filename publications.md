@@ -17,8 +17,8 @@ titles: Publications
   </div>
   <div class="item__content">
     <li><div class="item__description">
-      <p style ="text-align:justify;"><b>Y. Cao</b>, M. Cai, B. Sun, Z. Qi, J. Xue, Y. Jiang, B. Hao, J. Zhu, X. Liu, C. Yang, L. Zhang*. <i>Magnetic Continuum Robot with Modular Axial Magnetization: Design, Modeling, Optimization, and Control</i>. <i><b>IEEE Transactions on Robotics</b></i>. 2024, accepted.
-      <a class="button button--success button--pill button--xs" href="https://caoyanfei94.github.io/publications.html" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p style ="text-align:justify;"><b>Y. Cao</b>, M. Cai, B. Sun, Z. Qi, J. Xue, Y. Jiang, B. Hao, J. Zhu, X. Liu, C. Yang, L. Zhang*. <i>Magnetic Continuum Robot with Modular Axial Magnetization: Design, Modeling, Optimization, and Control</i>. <i><b>IEEE Transactions on Robotics</b></i>. 2025. DOI: 10.1109/TRO.2025.3526077.
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2025.3526077" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div></li>
   </div>
 </div>
