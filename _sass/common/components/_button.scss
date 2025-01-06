@@ -28,7 +28,7 @@
 }
 
 .button--success {
-  @include clickable($text-color-function, $green);
+  @include clickable($text-color-function, $orange);
 }
 
 .button--info {
