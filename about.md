@@ -61,6 +61,7 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 - *Software engineer, 2019-2021*<br/>
 
 ## Teaching
+- *EEEN3030 **Engineering Materials**, Teaching assistant,* 2025 @ CUHK
 - *UGEB1307 **Energy and Green Society**, Teaching assistant,* 2024 @ CUHK
 - *ELEG2202B **Fundamentals of Electric Circuits**, Teaching assistant,* 2023 and 2024 @ CUHK
 - *UGEB2303  **Robots in Action**, Teaching assistant,* 2023 @ CUHK
@@ -108,6 +109,6 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
   </div>
 </div>
 
-<p style ="text-align:right;"><i>Last Updated on Dec 18, 2024</i></p>
+<p style ="text-align:right;"><i>Last Updated on Jan 7, 2025</i></p>
 
 <hr class="hr-edge-weak">
