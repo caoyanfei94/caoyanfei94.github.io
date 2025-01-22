@@ -155,6 +155,20 @@ titles: Research
 ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/conference/src.png" style="margin-bottom: 30px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">Conference on Robots for Science–How Robots Will Facilitate Scientific Discovery</h4>
+    </div>
+    <div class="item__description">
+      <p>@ Hong Kong, China, 15-17 Jan 2025 </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_1.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
