@@ -163,7 +163,8 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Singapore, 09-12 Dec 2024 </p>
-      <p><img class="shadow" src="/assets/projects/conference/ICBME_2.png" height="auto" width="485" style="margin-bottom: 30px;"/> </p>
+      <p><img class="shadow" src="/assets/projects/conference/ICBME_2.png" height="auto" width="260" style="margin-bottom: 30px;"/><br>
+         <img class="shadow" src="/assets/projects/conference/ICBME_3.png" height="auto" width="260" style="margin-bottom: 30px;"/> </p>
     </div>
   </div>
 </div>
