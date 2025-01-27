@@ -18,7 +18,8 @@ titles: Publications
   <div class="item__content">
     <li><div class="item__description">
       <p style ="text-align:justify;"><b>Y. Cao</b>, M. Cai, B. Sun, Z. Qi, J. Xue, Y. Jiang, B. Hao, J. Zhu, X. Liu, C. Yang, L. Zhang*. <i>Magnetic Continuum Robot with Modular Axial Magnetization: Design, Modeling, Optimization, and Control</i>. <i><b>IEEE Transactions on Robotics</b></i>. 2025. DOI: 10.1109/TRO.2025.3526077.
-      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2025.3526077" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2025.3526077" target="_blank" rel="noopener noreferrer">LINK</a>
+      (🔥Highlighted in <a href="https://mp.weixin.qq.com/s/k_S_Nuy4VmzWJV4nmD2S_A" style="color:#0066CC" target="_blank" rel="noopener noreferrer">机器人大讲堂</a>)</p>
     </div></li>
   </div>
 </div>
@@ -42,7 +43,8 @@ titles: Publications
   <div class="item__content">
     <li><div class="item__description">
       <p style ="text-align:justify;">M. Cai, Z. Qi, <b>Y. Cao</b>, X. Liu, X. Wu, T. Xu*, L. Zhang*. <i>Performance-Guided Rotating Magnetic Field Control in Large Workspaces With Reconfigurable Electromagnetic Actuation System</i>. <i><b>IEEE Transactions on Robotics</b></i>. 2024, vol. 40, pp. 4117-4131. DOI: 10.1109/TRO.2024.3453768.
-      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2024.3453768" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2024.3453768" target="_blank" rel="noopener noreferrer">LINK</a>
+      (🔥Highlighted in <a href="https://mp.weixin.qq.com/s/NuJgZEgP4iqeOkq6rl05NA" style="color:#0066CC" target="_blank" rel="noopener noreferrer">机器人大讲堂</a>)</p>
     </div></li>
   </div>
 </div>
@@ -54,7 +56,8 @@ titles: Publications
   <div class="item__content">
     <li><div class="item__description">
       <p style ="text-align:justify;">B. Hao, X. Wang, Y. Dong*, M. Sun, C. Xin, H. Yang, <b>Y. Cao</b>, J. Zhu, X. Liu, C. Zhang, L. Su, B. Li*, L. Zhang*. <i>Focused ultrasound enables selective actuation and Newton-level force output of untethered soft robots</i>. <i><b>Nature Communications</b></i>. 2024, vol. 15(1): 5197. DOI: 10.1038/s41467-024-49148-6.
-      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1038/s41467-024-49148-6" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1038/s41467-024-49148-6" target="_blank" rel="noopener noreferrer">LINK</a>
+      (🔥Highlighted in <a href="https://mp.weixin.qq.com/s/5HEBCQSYOJD9fQzs9wZRPg" style="color:#0066CC" target="_blank" rel="noopener noreferrer">高分子科学前沿</a>)</p>
     </div></li>
   </div>
 </div>
@@ -127,7 +130,7 @@ titles: Publications
     <li><div class="item__description">
       <p style ="text-align:justify;">B. Sun, M. Sun*, Z. Zhang, Y. Jiang, B. Hao, X. Wang, <b>Y. Cao</b>, T. K. F. Chan*, L. Zhang*. <i>Magnetic hydrogel micromachines with active release of antibacterial agent for biofilm eradication</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023, vol. 6(2): 2300092. DOI: 10.1002/aisy.202300092.
       <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300092" target="_blank" rel="noopener noreferrer">LINK</a> 
-      (Highlighted in <a href="https://www.advancedsciencenews.com/micromachines-destroy-bacterial-biofilms-in-hard-to-reach-places/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">Advanced Science News</a>)</p>
+      (🔥Highlighted in <a href="https://www.advancedsciencenews.com/micromachines-destroy-bacterial-biofilms-in-hard-to-reach-places/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">Advanced Science News</a>)</p>
     </div></li>
   </div>
 </div>
