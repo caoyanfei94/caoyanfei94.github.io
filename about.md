@@ -39,7 +39,7 @@ titles: Home
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 10px; margin-top: 20px; margin-right: 10px" />
 
 **Nanjing University of Aeronautics and Astronautics**
-- *M. Sc. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
+- *M. Eng. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
 <!-- GPA:&emsp; **87**/100<br/>
 GPA Ranking:&emsp; top **5%** among 67<br/>
 Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**) -->
