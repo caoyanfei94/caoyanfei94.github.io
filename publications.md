@@ -51,6 +51,18 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/journals/journal-sa_2025.png" style="margin-bottom: 30px;"/>
+  </div>
+  <div class="item__content">
+    <li><div class="item__description">
+      <p style ="text-align:justify;">B. Sun, J. Guo, B. Hao, <b>Y. Cao</b>, T. K. F. Chan, M. Sun*, J. J. Y. Sung*, L. Zhang*. <i>Liquid-bodied antibiofilm robot with switchable viscoelastic response for biofilm eradication on complex surface topographies</i>. <i><b>Science Advances</b></i>. 2025, vol. 11: eadt8213. DOI: 10.1126/sciadv.adt8213.
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1126/sciadv.adt8213" target="_blank" rel="noopener noreferrer">LINK</a></p>
+    </div></li>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/journals/journal-nc_2024.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
