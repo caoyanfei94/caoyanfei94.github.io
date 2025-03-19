@@ -105,7 +105,8 @@ titles: Publications
   <div class="item__content">
     <li><div class="item__description">
       <p style ="text-align:justify;">Z. Yang, H. Yang, <b>Y. Cao</b>, Y. Cui, L. Zhang*. <i>Magnetically actuated continuum medical robots: a review</i>. <i><b>Advanced Intelligent Systems</b></i>. 2023, vol. 5(6): 2200416. DOI: 10.1002/aisy.202200416.
-      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1002/aisy.202200416" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1002/aisy.202200416" target="_blank" rel="noopener noreferrer">LINK</a>
+      (🔥<a style="color:gold"><b>TOP 10 Most-Cited Article</b></a> in 2023)</p>
     </div></li>
   </div>
 </div>
