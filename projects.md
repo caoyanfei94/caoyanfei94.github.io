@@ -62,7 +62,7 @@ titles: Research
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_1.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_2.png" style="margin-bottom: 30px;"/><br>
-    <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_3.png" style="margin-bottom: 30px;"/><br>
+    <!-- <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_3.png" style="margin-bottom: 30px;"/><br> -->
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_4.png" style="margin-bottom: 5px;"/>
   </div>
   <div class="item__content">
@@ -169,7 +169,7 @@ titles: Research
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_1.png" style="margin-bottom: 30px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/ICBME_2.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -177,7 +177,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Singapore, 09-12 Dec 2024 </p>
-      <p><img class="shadow" src="/assets/projects/conference/ICBME_2.png" height="auto" width="260" style="margin-bottom: 30px;"/></p>
+      <!-- <p><img class="shadow" src="/assets/projects/conference/ICBME_2.png" height="auto" width="260" style="margin-bottom: 30px;"/></p> -->
     </div>
   </div>
 </div>
@@ -186,7 +186,7 @@ titles: Research
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_1.png" style="margin-bottom: 30px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/DGIST_2.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -194,7 +194,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Daegu, South Korea, 18-21 Nov 2024 </p>
-      <p><img class="shadow" src="/assets/projects/conference/DGIST_2.png" height="auto" width="400" style="margin-bottom: 30px;"/></p>
+      <!-- <p><img class="shadow" src="/assets/projects/conference/DGIST_2.png" height="auto" width="400" style="margin-bottom: 30px;"/></p> -->
     </div>
   </div>
 </div>
