@@ -81,7 +81,7 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 <li>NUAA Advanced Individual in Social Practice (5%), NUAA, 2018</li>
 <li>NUAA Outstanding Student Cadre (2%), NUAA, 2014</li>
 <li>NUAA Pioneer in Summer Social Practice (5%), NUAA, 2013</li>
-<li>The 8 Keub Yellow Belt Tae Kwon Do Certificate, The World Tae Kwon Do Federation, 2013</li></p>
+<li>The 8 Keub Yellow Belt Tae Kwon Do Certificate, The World Tae Kwon Do Federation, 2013</li></p> -->
 
 <hr class="hr-edge-weak"> 
 
@@ -109,6 +109,6 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
   </div>
 </div>
 
-<p style ="text-align:right;"><i>Last Updated on Mar 15, 2025</i></p>
+<p style ="text-align:right;"><i>Last Updated on Jul 27, 2025</i></p>
 
 <hr class="hr-edge-weak">
