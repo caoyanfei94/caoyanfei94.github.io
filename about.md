@@ -67,12 +67,12 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 - *UGEB2303  **Robots in Action**, Teaching assistant,* 2023 @ CUHK
 - *MAEG2020  **Engineering Mechanics**, Teaching assistant,* 2022 @ CUHK
 
-<!-- ## Honor and Award -->
-<!-- <p style ="text-align:justify;">
-<li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li>
+## Honor and Award
+<p style ="text-align:justify;">
+<!-- <li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li> -->
 <li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
 <li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li>
-<li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li>
+<!-- <li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li>
 <li>Suzhou Industrial Park Scholarship Special Scholarship (1%), Suzhou Industrial Park Working Committee and NUAA, 2013</li>
 <li>1<sup>st</sup> Prize of Academic Scholarship (2%, <b>3 times</b>), NUAA, 2013-2016</li>
 <li>2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA (8%), College of Science, NUAA, 2013</li>
@@ -83,7 +83,7 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 <li>NUAA Pioneer in Summer Social Practice (5%), NUAA, 2013</li>
 <li>The 8 Keub Yellow Belt Tae Kwon Do Certificate, The World Tae Kwon Do Federation, 2013</li></p>
 
-<hr class="hr-edge-weak"> -->
+<!--<hr class="hr-edge-weak"> -->
 
 <!-- <img src="/assets/about/honors and awards.png" height="auto" width="100%" /> -->
 
