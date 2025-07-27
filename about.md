@@ -83,7 +83,7 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 <li>NUAA Pioneer in Summer Social Practice (5%), NUAA, 2013</li>
 <li>The 8 Keub Yellow Belt Tae Kwon Do Certificate, The World Tae Kwon Do Federation, 2013</li></p>
 
-<!--<hr class="hr-edge-weak"> -->
+<hr class="hr-edge-weak"> 
 
 <!-- <img src="/assets/about/honors and awards.png" height="auto" width="100%" /> -->
 
