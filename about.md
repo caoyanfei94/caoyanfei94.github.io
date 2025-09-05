@@ -71,7 +71,7 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 <p style ="text-align:justify;">
 <!-- <li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li> -->
 <li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
-<li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li>
+<li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li></p>
 <!-- <li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li>
 <li>Suzhou Industrial Park Scholarship Special Scholarship (1%), Suzhou Industrial Park Working Committee and NUAA, 2013</li>
 <li>1<sup>st</sup> Prize of Academic Scholarship (2%, <b>3 times</b>), NUAA, 2013-2016</li>
@@ -82,8 +82,6 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 <li>NUAA Outstanding Student Cadre (2%), NUAA, 2014</li>
 <li>NUAA Pioneer in Summer Social Practice (5%), NUAA, 2013</li>
 <li>The 8 Keub Yellow Belt Tae Kwon Do Certificate, The World Tae Kwon Do Federation, 2013</li></p> -->
-
-
 
 <img src="/assets/about/honors and awards.png" height="auto" width="100%" />
 
