@@ -10,7 +10,7 @@ titles: Home
 
 <p style ="text-align:right;">
 <!-- <i>"There is nothing as practical as a good theory."</i> -- Kurt Lewin<br> -->
-<i>"The test of all knowledge is experiment."</i> -- Richard Feynman</p>
+<i>"Your time is limited. Don't waste it living someone else's life."</i> -- Steve Jobs</p>
 
 <hr class="hr-edge-weak-bold">
 
