@@ -16,7 +16,7 @@ titles: Home
 
 ## About Me
 
-<p style ="text-align:justify;font-size:25px"><i>Hey. Welcome. My Friend :-)</i></p>
+<p style ="text-align:justify;font-size:25px"><i>Welcome. My Friend :-)</i></p>
 
 <img class="shadow" src="/assets/about/caoyanfei.png" height="230" width="auto" style="border-radius:5%; float: right; margin-left: 50px; margin-right: 0px; margin-bottom: 30px; margin-top: 0px" />
 
@@ -109,6 +109,6 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
   </div>
 </div>
 
-<p style ="text-align:right;"><i>Last Updated on Sep 06, 2025</i></p>
+<p style ="text-align:right;"><i>Last Updated on Sep 07, 2025</i></p>
 
 <hr class="hr-edge-weak">
