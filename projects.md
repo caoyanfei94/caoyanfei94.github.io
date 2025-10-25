@@ -62,7 +62,7 @@ titles: Research
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_1.png" style="margin-bottom: 30px;"/><br>
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_2.png" style="margin-bottom: 30px;"/><br>
-    <!-- <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_3.png" style="margin-bottom: 30px;"/><br> -->
+    <!-- <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_3.png" style="margin-bottom: 30px;"/><br> 
     <img class="image image--xl shadow" src="/assets/projects/projects/variable_stiffness_4.png" style="margin-bottom: 5px;"/>
   </div>
   <div class="item__content">
