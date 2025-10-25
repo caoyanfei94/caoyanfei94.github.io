@@ -155,6 +155,22 @@ titles: Research
 ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
+    <img class="image image--xl shadow" src="/assets/projects/conference/IROS2025_1.JPG" style="margin-bottom: 30px;"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4 style="color:#f16262;font-family:'Comic Sans MS'">The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</h4>
+    </div>
+    <div class="item__description">
+      <p>@ Hangzhou, 19-25 Oct 2025 </p>
+      <p><img class="shadow" src="/assets/projects/conference/IROS2025_2.png" height="auto" width="260" style="margin-bottom: 30px;"/></p>
+    </div>
+  </div>
+</div>
+
+
+<div class="item">
+  <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/conference/src.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
