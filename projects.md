@@ -155,7 +155,7 @@ titles: Research
 ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
-    <img class="image image--xl shadow" src="/assets/projects/conference/IROS2025_1.JPG" style="margin-bottom: 30px;"/>
+    <img class="image image--xl shadow" src="/assets/projects/conference/IROS2025_1_1.JPG" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -163,7 +163,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Hangzhou, 19-25 Oct 2025 </p>
-      <p><img class="shadow" src="/assets/projects/conference/IROS2025_2.png" height="auto" width="260" style="margin-bottom: 30px;"/></p>
+      <p><img class="shadow" src="/assets/projects/conference/IROS2025_2.png" height="auto" width="300" style="margin-bottom: 30px;"/></p>
     </div>
   </div>
 </div>
