@@ -163,7 +163,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Hangzhou, 19-25 Oct 2025 </p>
-      <p><img class="shadow" src="/assets/projects/conference/IROS2025_2.png" height="auto" width="300" style="margin-bottom: 30px;"/></p>
+      <p><img class="shadow" src="/assets/projects/conference/IROS2025_2.png" height="auto" width="500" style="margin-bottom: 30px;"/></p>
     </div>
   </div>
 </div>
