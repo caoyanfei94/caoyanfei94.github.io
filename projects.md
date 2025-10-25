@@ -9,7 +9,7 @@ titles: Research
 
 ## Projects
 
-<center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2022-Now</i></h3> </center>
+<!-- <center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2022-Now</i></h3> </center> -->
 
 <div class="item">
   <div class="item__image">
@@ -54,7 +54,7 @@ titles: Research
   </div>
 </div>
 
-<hr class="hr-edge-weak">
+<!-- <hr class="hr-edge-weak">
 
 <center><h3 style="color:#59acd3;font-family:'Comic Sans MS';font-size:28px"><i>2018-2020</i></h3> </center>
 
@@ -80,7 +80,7 @@ titles: Research
       <p style ="text-align:justify;">The work was presented at <i>2018 International Academic Conference for Graduates, NUAA (<b>IACGN</b>, 2018)</i>, and was honored with <b>Best Paper Award in 2018 IACGN</b>. <a class="button button--success button--pill button--xs" href="/assets/publications/journals/conference-iacgn_2018.pdf" download="IACGN2018_Volume5.pdf">LINK1</a> Subsequently, it was further improved and finally published in <b><i>the International Journal of Medical Robotics and Computer Assisted Surgery</i></b>. <a class="button button--success button--pill button--xs" href="https://onlinelibrary.wiley.com/doi/10.1002/rcs.2081" target="_blank" rel="noopener noreferrer">LINK2</a></p>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- <hr class="hr-edge-weak"> -->
 
