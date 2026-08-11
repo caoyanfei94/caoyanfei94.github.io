@@ -18,7 +18,7 @@ titles: Home
 
 <p style ="text-align:justify;font-size:25px"><i>Welcome. My Friend :-)</i></p>
 
-<img class="shadow" src="/assets/about/caoyanfei.png" height="230" width="auto" style="border-radius:5%; float: right; margin-left: 50px; margin-right: 0px; margin-bottom: 60px; margin-top: -30px" />
+<img class="shadow" src="/assets/about/caoyanfei.png" height="230" width="auto" style="border-radius:5%; float: right; margin-left: 50px; margin-right: 0px; margin-bottom: 60px; margin-top: -40px" />
 
 <!-- 
 <p style ="text-align:justify;">I am a Ph. D. candidate at the Department of Mechanical and Automation Engineering (<a href="https://www4.mae.cuhk.edu.hk/about-us/" style="color:#0066CC" target="_blank" rel="noopener noreferrer">MAE</a>), the Chinese University of Hong Kong (<a href="https://www.cuhk.edu.hk/chinese/index.html" style="color:#0066CC" target="_blank" rel="noopener noreferrer">CUHK</a>), Hong Kong, China and also a member in Zhang Research Lab (<a href="http://www.cuhklizhanggroup.com/index.php?c=content&a=list&catid=26" style="color:#0066CC" target="_blank" rel="noopener noreferrer">ZRL</a>).</p> 
