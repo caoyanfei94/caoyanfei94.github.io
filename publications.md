@@ -51,6 +51,19 @@ titles: Publications
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/journals/tro-2026.png" style="margin-bottom: 30px;"/>
+  </div>
+  <div class="item__content">
+    <li><div class="item__description">
+      <p style ="text-align:justify;">J. Gao*, Z. Hu, J. Zhang <b>Y. Cao</b>, K. Zhang, G. Yan, H. Dong, Q. Tan*, L. Zhang*. <i>A Caterpillar-Type Miniature Robot for Adaptive Locomotion and Exploration of Tiny Rigid/Soft Pipes</i>. <i><b>IEEE Transactions on Robotics</b></i>. 2026, vol. 42, pp. 2345-2359. DOI: 10.1109/TRO.2026.3697140.
+      <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2026.3697140" target="_blank" rel="noopener noreferrer">LINK</a>
+      (🔥Highlighted in <a href="https://mp.weixin.qq.com/s/mNu_GMcboa3p1rtFtY4TbA" style="color:#0066CC" target="_blank" rel="noopener noreferrer">机器人大讲堂</a>)</p>
+    </div></li>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/journals/journal-sa_2025.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
