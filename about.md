@@ -16,7 +16,7 @@ titles: Home
 
 ## About Me
 
-<p style ="text-align:justify;font-size:25px"><i>Dr. Cao Yanfei (曹燕飞)</i></p>
+<p style ="text-align:justify;font-size:25px">Dr. Cao Yanfei (曹燕飞)</p>
 
 <img class="shadow" src="/assets/about/caoyanfei.png" height="230" width="auto" style="border-radius:5%; float: right; margin-left: 50px; margin-right: 0px; margin-bottom: 60px; margin-top: -45px" />
 
