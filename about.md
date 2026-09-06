@@ -16,7 +16,7 @@ titles: Home
 
 ## About Me
 
-<p style ="text-align:justify;font-size:25px"><i>Welcome. My Friend :-)</i></p>
+<p style ="text-align:justify;font-size:25px"><i>Dr. Cao Yanfei (曹燕飞)</i></p>
 
 <img class="shadow" src="/assets/about/caoyanfei.png" height="230" width="auto" style="border-radius:5%; float: right; margin-left: 50px; margin-right: 0px; margin-bottom: 60px; margin-top: -45px" />
 
@@ -27,7 +27,9 @@ titles: Home
 
 
 
-<p style ="text-align:justify;">I recently received my doctoral degree. My research interests include <b>medical robot, magnetic actuation, and tactile sensing</b>. I am currently mainly focusing on methodologies to design and control continuum robots composed of modular axially magnetized segments using learning based technologies.</p>
+<p style ="text-align:justify;">I recently received my doctoral degree. My research interests include <i>medical robot, magnetic actuation, and tactile sensing</i>.</p>
+
+<p style ="text-align:justify;">I am currently focusing on <i>tactile sensing for <i>in vivo</i> applications</i>.</p>
 
 <!-- 
 ## News
@@ -38,18 +40,18 @@ titles: Home
 <img src="/assets/about/CUHK_logo.jpg" height="80" width="auto" style="float: right; margin-left: 15px" />
 
 **The Chinese University of Hong Kong**
-- *Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-2026*<br/>
+- Ph. D. in Mechanical and Automation Engineering (**Full Scholarship Program**), 2022-2026<br/>
 <!-- GPA:&emsp; **3.850**/4.00<br/> -->
 
 <img src="/assets/about/NUAA_logo.png" height="80" width="auto" style="float: right; margin-left: 10px; margin-top: 20px; margin-right: 10px" />
 
 **Nanjing University of Aeronautics and Astronautics**
-- *M. Eng. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019*<br/>
+- M. Eng. in Mechanical and Electronic Engineering (**Exempt from Admission Exam**), 2016-2019<br/>
 <!-- GPA:&emsp; **87**/100<br/>
 GPA Ranking:&emsp; top **5%** among 67<br/>
 Score of master's thesis:&emsp; **95**/100 (**1<sup>st</sup> among all grads**) -->
 
-- *B. Eng. in Mechanical Engineering and Automation, 2012-2016*<br/>
+- B. Eng. in Mechanical Engineering and Automation, 2012-2016<br/>
 <!-- GPA:&emsp; **90**/100<br/>
 GPA Ranking:&emsp; top **1%** among 301<br/>
 Score of undergraduate thesis:&emsp; **92**/100 -->
@@ -58,26 +60,26 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
 <img src="/assets/about/MRC_logo.png" height="60" width="auto" style="float: right; margin-left: 20px; margin-right: 10px" />
 
 **Multi-Scale Medical Robotics Center, Ltd.**
-- *Research assistant, 2022*<br/>
+- Research assistant, 2022<br/>
 
 <img src="/assets/about/HUAWEI_logo.png" height="60" width="auto" style="float: right; margin-left: 20px" />
 
 **Huawei Technologies Co., Ltd.**
-- *Software engineer, 2019-2021*<br/>
+- Software engineer, 2019-2021<br/>
 
 ## Teaching
-- *EEEN3030 **Engineering Materials**, Teaching assistant,* 2025 @ CUHK
-- *UGEB1307 **Energy and Green Society**, Teaching assistant,* 2024 @ CUHK
-- *ELEG2202B **Fundamentals of Electric Circuits**, Teaching assistant,* 2023 and 2024 @ CUHK
-- *UGEB2303  **Robots in Action**, Teaching assistant,* 2023 @ CUHK
-- *MAEG2020  **Engineering Mechanics**, Teaching assistant,* 2022 @ CUHK
+- EEEN3030 *Engineering Materials*, Teaching assistant, 2025 @ CUHK
+- UGEB1307 *Energy and Green Society*, Teaching assistant, 2024 @ CUHK
+- ELEG2202B *Fundamentals of Electric Circuits*, Teaching assistant, 2023 and 2024 @ CUHK
+- UGEB2303  *Robots in Action*, Teaching assistant, 2023 @ CUHK
+- MAEG2020  *Engineering Mechanics*, Teaching assistant, 2022 @ CUHK
 
 ## Honor and Award
 <p style ="text-align:justify;">
 <li>Gold Network Award (<b>3 times</b>), HUAWEI, 2019-2021</li>
-<li><b>China National Scholarship for Postgraduates</b> (1%), Ministry of Education, P. R. China, 2018</li>
-<li><b>China National Scholarship</b> (0.3%), Ministry of Education, P. R. China, 2016</li>
-<li><b>Best Paper Award in 2018 IACGN</b> (3% of 229 international participant lecturers), College of International Education, NUAA, 2018</li></p>
+<li>China National Scholarship for Postgraduates (<b>1%</b>), Ministry of Education, P. R. China, 2018</li>
+<li>China National Scholarship (<b>0.3%</b>), Ministry of Education, P. R. China, 2016</li>
+<li>Best Paper Award in 2018 IACGN (<b>3%</b> of 229 international participant lecturers), College of International Education, NUAA, 2018</li></p>
 <!-- <li>Suzhou Industrial Park Scholarship Special Scholarship (1%), Suzhou Industrial Park Working Committee and NUAA, 2013</li>
 <li>1<sup>st</sup> Prize of Academic Scholarship (2%, <b>3 times</b>), NUAA, 2013-2016</li>
 <li>2<sup>nd</sup> Prize in 2013 Advanced Mathematics Competition, NUAA (8%), College of Science, NUAA, 2013</li>
@@ -114,6 +116,6 @@ Score of undergraduate thesis:&emsp; **92**/100 -->
   </div>
 </div>
 
-<p style ="text-align:right;"><i>Last Updated on Aug 11, 2026</i></p>
+<p style ="text-align:right;"><i>Last Updated on Sep 06, 2026</i></p>
 
 <hr class="hr-edge-weak">
