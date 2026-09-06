@@ -129,7 +129,7 @@ titles: Research
 
 
 
-## Employment Experience
+<!-- ## Employment Experience
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/employments/huawei_NE8000_series.png"/>
@@ -145,7 +145,7 @@ titles: Research
       <p style ="text-align:justify;">Over the two years or so, I have delivered <b>15+ product iterations</b> on developing new software requirements, during which I served as <b>iteration owner</b>. Meanwhile, I solved <b>500+ defect tracking sheets</b> (DTS) and was honored with <b>Gold Network Award</b> for <b>3 times</b>.</p>
     </div>
   </div>
-</div>
+</div> -->
 
 
 
