@@ -28,7 +28,7 @@ titles: Research
       <p>@ MAE, CUHK, Hong Kong, 2023-2024</p>
       <p style ="text-align:justify;">Magnetic continuum robots (MCRs) have become popular owing to their inherent advantages of easy miniaturization without requiring complicated transmission structures. The evolution of MCRs, from initial designs with one embedded magnet to current designs with specific magnetization profile configurations (MPCs), has significantly enhanced their dexterity. While much progress has been achieved, the quantitative indexbased evaluation of deformability for different MPCs, which can assist in designing MPCs with enhanced robot deformability, has not been addressed before. Here we use "deformability" to describe the capability for body deflection when an MCR forms different global shapes under an external magnetic field. Therefore, in this paper, we propose methodologies to design and control an MCR composed of modular axially magnetized segments. To guide robot MPC design, for the first time, we introduce a quantitative index-based evaluation strategy to analyze and optimize robot deformability. Additionally, a control framework with neural network-based controllers is developed to endow the robot with two control modes: the robot tip position and orientation (M<sub>1</sub>) and the global shape (M<sub>2</sub>). The excellent performance of the learnt controllers in terms of computation time and accuracy was validated via both simulation and experimental platforms. In the experimental results, the best closed-loop control performance metrics, indicated as the mean absolute errors, were 0.254 mm and 0.626&deg for mode M<sub>1</sub> and 1.564 mm and 0.086&deg for mode M<sub>2</sub>.</p>
       <p><video controls src="/assets/projects/videos/tro_1.mp4" width="485"></video></p>
-      <p>This work has been published online in <b><i>IEEE Transactions on Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2025.3526077" target="_blank" rel="noopener noreferrer">LINK</a>(🔥Highlighted in <a href="https://mp.weixin.qq.com/s/k_S_Nuy4VmzWJV4nmD2S_A" style="color:#0066CC" target="_blank" rel="noopener noreferrer">机器人大讲堂</a>)</p>
+      <p>This work has been published in <b><i>IEEE Transactions on Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1109/TRO.2025.3526077" target="_blank" rel="noopener noreferrer">LINK</a>(🔥Highlighted in <a href="https://mp.weixin.qq.com/s/k_S_Nuy4VmzWJV4nmD2S_A" style="color:#0066CC" target="_blank" rel="noopener noreferrer">机器人大讲堂</a>)</p>
     </div>
   </div>
 </div>
@@ -49,7 +49,7 @@ titles: Research
       <p>Done by <b>Y. Cao</b>, Z. Yang, B. Hao, X. Wang, M. Cai, Z. Qi, B. Sun, Q. Wang, L. Zhang*.</p>
       <p>@ MAE, CUHK, Hong Kong, 2022-2023</p>
       <p style ="text-align:justify;">Magnetic continuum robots (MCRs), which are free of complicated structural designs for transmission, can be miniaturized and are therefore widely used in the medical field. However, the deformation shapes of different segments, including deflection directions and curvatures, are difficult to control simultaneously under an external programmable magnetic field. This is because the latest MCRs have designs with an invariable magnetic moment combination or profile of one or more actuating units. Therefore, the limited dexterity of the deformation shape causes the existing MCRs to collide readily with their surroundings or makes them unable to approach difficult-to-reach regions. These prolonged collisions are unnecessary or even hazardous, especially for catheters or similar medical devices. In this study, a novel magnetic moment intraoperatively programmable continuum robot (MMPCR) is introduced. By applying the proposed magnetic moment programming method, the MMPCR can deform under three modalities, that is, J, C, and S shapes. Additionally, the deflection directions and curvatures of different segments in the MMPCR can be modulated as desired. Furthermore, the magnetic moment programming and MMPCR kinematics are modeled, numerically simulated, and experimentally validated. The experimental results exhibit a mean deflection angle error of 3.3&deg and correspond well with simulation results. Comparisons between navigation capacities of the MMPCR and MCR demonstrate that the MMPCR has a higher capacity for dexterous deformation.</p>
-      <p>This work has been published online in <b><i>Soft Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
+      <p>This work has been published in <b><i>Soft Robotics</i></b>. <a class="button button--success button--pill button--xs" href="https://doi.org/10.1089/soro.2022.0202" target="_blank" rel="noopener noreferrer">LINK</a></p>
     </div>
   </div>
 </div>
@@ -152,7 +152,7 @@ titles: Research
 
 
 
-## Conferences and Symposiums
+<!-- ## Conferences and Symposiums
 <div class="item">
   <div class="item__image">
     <img class="image image--xl shadow" src="/assets/projects/conference/IROS2025_1_1.JPG" style="margin-bottom: 30px;"/>
@@ -193,7 +193,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Singapore, 09-12 Dec 2024 </p>
-      <!-- <p><img class="shadow" src="/assets/projects/conference/ICBME_2.png" height="auto" width="260" style="margin-bottom: 30px;"/></p> -->
+      <p><img class="shadow" src="/assets/projects/conference/ICBME_2.png" height="auto" width="260" style="margin-bottom: 30px;"/></p>
     </div>
   </div>
 </div>
@@ -210,7 +210,7 @@ titles: Research
     </div>
     <div class="item__description">
       <p>@ Daegu, South Korea, 18-21 Nov 2024 </p>
-      <!-- <p><img class="shadow" src="/assets/projects/conference/DGIST_2.png" height="auto" width="400" style="margin-bottom: 30px;"/></p> -->
+      <p><img class="shadow" src="/assets/projects/conference/DGIST_2.png" height="auto" width="400" style="margin-bottom: 30px;"/></p>
     </div>
   </div>
 </div>
@@ -242,21 +242,21 @@ titles: Research
       <h4 style="color:#f16262;font-family:'Comic Sans MS'">2018 International Academic Conference for Graduates, NUAA (IACGN, 2018)</h4>
     </div>
     <div class="item__description">
-      <!-- <p><b>Lecturer</b></p> -->
+      <p><b>Lecturer</b></p>
       <p>@ Nanjing, China, 18-19 October 2018 </p>
       <p>Honored with <b>Best Paper Award in 2018 IACGN</b> </p>
-      <!-- <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
-      <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in the variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>Best Paper Award in 2018 IACGN</b>.</p> -->
+      <p style ="text-align:justify;">The conference brought together leading academics among graduate students from NUAA as well as other Chinese and international universities, for its tradition of presenting great opportunities for collaboration and sharing of ideas on latest research focuses. </p>
+      <p style ="text-align:justify;">I was invited to the conference as one of 229 representatives. I delivered a 20-minute lecture in English about my current research progress in the variable-stiffness continuum manipulator. In addition, I really lucked out and was honored with <b>Best Paper Award in 2018 IACGN</b>.</p>
     </div>
   </div>
-</div>
-
+</div> -->
 
 
 
 
 
 ## Research Grant
-- <p style ="text-align:justify;"><b>Member</b>. Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 中国国家自然科学基金, 可重构的心动脉内介入手术机器人系统研究.</p>
+- <p style ="text-align:justify;">Overseas research attachment programme (ORAP) 2024-25, HK$ 50,000 @ CUHK.</p>
+<!-- - <p style ="text-align:justify;"><b>Member</b>. Research on a Reconfigurable Robot System for Intracardiac Artery Intervention. PI: Prof. Bai Chen. National Natural Science Foundation of China. No. 51575256, 640,000 RMB, 2016-2019. 中国国家自然科学基金, 可重构的心动脉内介入手术机器人系统研究.</p> -->
 
 <hr class="hr-edge-weak">
