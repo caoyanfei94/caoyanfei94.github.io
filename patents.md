@@ -24,6 +24,18 @@ titles: Patents
 
 <div class="item" style="padding-bottom:10px">
   <div class="item__image">
+    <img class="image image--sm shadow" src="/assets/publications/patents/patent-US20250072895A1.png" style="margin-bottom: 30px;"/>
+  </div>
+  <div class="item__content">
+    <li><div class="item__description">
+      <p style ="text-align:justify;">B. Weitzner, Philip W. Y. Chiu, K. F. Chan, H. Yang, <b>Y. Cao</b>, K. W. Chan. Systems, devices, and related methods for fastening tissue. Published Mar. 2025. Publication No. US20250072895A1.</p>
+      <a class="button button--success button--pill button--xs" href="https://patents.google.com/patent/US20250072895A1/en" target="_blank" rel="noopener noreferrer">LINK</a>
+    </div></li>
+  </div>
+</div>
+
+<div class="item" style="padding-bottom:10px">
+  <div class="item__image">
     <img class="image image--sm shadow" src="/assets/publications/patents/patent-CN110193827A.png" style="margin-bottom: 30px;"/>
   </div>
   <div class="item__content">
