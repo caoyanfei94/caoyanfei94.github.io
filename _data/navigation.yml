@@ -99,9 +99,9 @@ header:
       # @end locale config
     url: /patents.html
 
-      - titles:
+  - titles:
       # @start locale config
-      en      : &EN       Patents
+      en      : &EN       Gallery
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
