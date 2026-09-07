@@ -1,8 +1,13 @@
 ---
 layout: page
 title: Gallery
-key: gallery
+# aside:
+#   toc: true
 ---
+
+<!-- <br> -->
+
+## Gallery
 
 <style>
   /* 筛选按钮组 */
