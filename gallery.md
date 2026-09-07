@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Gallery
+titles: Gallery
 # aside:
 #   toc: true
 ---
