@@ -177,3 +177,5 @@ title: Gallery
     document.getElementById('lightbox').classList.remove('active');
   }
 </script>
+
+<hr class="hr-edge-weak">
