@@ -27,7 +27,7 @@ titles: Home
 
 
 
-<p style ="text-align:justify;">I recently received my doctoral degree. My research interests include <i>medical robot, magnetic actuation, and tactile sensing</i>.</p>
+<p style ="text-align:justify;">I recently received my doctoral degree from The Chinese University of Hong Kong. My research interests include <i>medical robot, magnetic actuation, and tactile sensing</i>.</p>
 
 <p style ="text-align:justify;">I am currently focusing on <i>tactile sensing for <i>in-vivo</i> applications</i>.</p>
 
