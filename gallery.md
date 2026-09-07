@@ -106,42 +106,35 @@ titles: Gallery
 <!-- 分类筛选器 -->
 <div class="filter-container">
   <button class="filter-btn active" onclick="filterGallery('all')">All</button>
-  <button class="filter-btn" onclick="filterGallery('robotics')">Robotics & Lab</button>
-  <button class="filter-btn" onclick="filterGallery('travel')">Travel & Life</button>
+  <button class="filter-btn" onclick="filterGallery('acad')">Academic Milestones</button>
+  <button class="filter-btn" onclick="filterGallery('soci')">Social & Networking</button>
+  <button class="filter-btn" onclick="filterGallery('life')">Life & Outdoors</button>
 </div>
 
 <!-- 相册瀑布流展示区 -->
 <div class="gallery-grid">
 
-  <div class="gallery-card" data-category="travel" onclick="openLightbox(this)">
-    <img src="https://picsum.photos/600/800?random=1" alt="Tung Ping Chau">
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/12.JPG" alt="Master's graduation">
     <div class="gallery-overlay">
-      <h4>Tung Ping Chau</h4>
-      <p>Hong Kong Geopark</p>
+      <h4>Master's graduation</h4>
+      <p>Nanjing</p>
     </div>
   </div>
 
-  <div class="gallery-card" data-category="robotics" onclick="openLightbox(this)">
-    <img src="https://picsum.photos/600/450?random=2" alt="Tactile Sensor">
+  <div class="gallery-card" data-category="soci" onclick="openLightbox(this)">
+    <img src="/assets/gallery/soci/2.jpg" alt="Amos">
     <div class="gallery-overlay">
-      <h4>Tactile Sensor Skin</h4>
-      <p>In-vivo sensing & magnetic actuation</p>
+      <h4>Showing Amos, Editor-in-Chief of Science Robotics, around DJI</h4>
+      <p>Shenzhen</p>
     </div>
   </div>
 
-  <div class="gallery-card" data-category="robotics" onclick="openLightbox(this)">
-    <img src="https://picsum.photos/600/700?random=3" alt="Lab Setup">
+  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/8.jpg" alt="Lab Setup">
     <div class="gallery-overlay">
-      <h4>Experiment Bench</h4>
-      <p>Continuum robot testbed</p>
-    </div>
-  </div>
-
-  <div class="gallery-card" data-category="travel" onclick="openLightbox(this)">
-    <img src="https://picsum.photos/600/900?random=4" alt="Hiking">
-    <div class="gallery-overlay">
-      <h4>Hiking Trails</h4>
-      <p>Weekend outdoors in HK</p>
+      <h4>Daya Bay Tour</h4>
+      <p>Hong Kong</p>
     </div>
   </div>
 
