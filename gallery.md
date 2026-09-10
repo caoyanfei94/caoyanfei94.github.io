@@ -131,7 +131,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="soci" onclick="openLightbox(this)">
-    <img src="/assets/gallery/soci/1.jpg" alt="Amos">
+    <img src="/assets/gallery/soci/1.JPG" alt="Amos">
     <div class="gallery-overlay">
       <h4>Dinner with Prof. Hongsoo Choi's Group at DGIST</h4>
       <p>Daegu, South Korea</p>
@@ -163,7 +163,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/7.jpg" alt="Lab Setup">
+    <img src="/assets/gallery/life/7.JPG" alt="Lab Setup">
     <div class="gallery-overlay">
       <h4>Dinner with CUHK Colleagues</h4>
       <p>Hong Kong, China</p>
