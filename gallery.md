@@ -117,8 +117,8 @@ titles: Gallery
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
     <img src="/assets/gallery/acad/12.JPG" alt="Master's graduation">
     <div class="gallery-overlay">
-      <h4>Master's graduation</h4>
-      <p>Nanjing</p>
+      <h4>Master's Graduation</h4>
+      <p>Nanjing, China</p>
     </div>
   </div>
 
@@ -126,7 +126,31 @@ titles: Gallery
     <img src="/assets/gallery/soci/2.jpg" alt="Amos">
     <div class="gallery-overlay">
       <h4>Showing Amos, Editor-in-Chief of Science Robotics, around DJI</h4>
-      <p>Shenzhen</p>
+      <p>Shenzhen, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="soci" onclick="openLightbox(this)">
+    <img src="/assets/gallery/soci/1.jpg" alt="Amos">
+    <div class="gallery-overlay">
+      <h4>Dinner with Prof. Hongsoo Choi's Group at DGIST</h4>
+      <p>Daegu, South Korea</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/10.jpg" alt="Lab Setup">
+    <div class="gallery-overlay">
+      <h4>Green Egg Island Day Trip</h4>
+      <p>Hong Kong, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/9.jpg" alt="Lab Setup">
+    <div class="gallery-overlay">
+      <h4>Celebrating New Year's Eve with CUHK Colleagues</h4>
+      <p>Shenzhen, China</p>
     </div>
   </div>
 
@@ -134,7 +158,15 @@ titles: Gallery
     <img src="/assets/gallery/life/8.jpg" alt="Lab Setup">
     <div class="gallery-overlay">
       <h4>Daya Bay Tour</h4>
-      <p>Hong Kong</p>
+      <p>Hong Kong, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/7.jpg" alt="Lab Setup">
+    <div class="gallery-overlay">
+      <h4>Dinner with CUHK Colleagues</h4>
+      <p>Hong Kong, China</p>
     </div>
   </div>
 
