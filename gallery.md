@@ -34,21 +34,26 @@ titles: Gallery
     border-color: #0f172a;
   }
 
-  /* 瀑布流外层容器：横向并排 */
+  /* 瀑布流外层容器：强制横向排列 */
   .gallery-grid {
-    display: flex;
+    display: flex !important;
+    flex-direction: row !important;
     gap: 16px;
     align-items: flex-start;
+    width: 100%;
+    box-sizing: border-box;
   }
   
-  /* 瀑布流列容器：纵向堆叠卡片 */
+  /* 瀑布流列容器：强制三列严格等宽 */
   .gallery-col {
-    flex: 1;
+    flex: 1 1 0% !important; /* 核心修正：允许三列平分宽度 */
+    min-width: 0 !important;   /* 核心修正：防止被大图撑大导致换行 */
     display: flex;
     flex-direction: column;
     gap: 16px;
   }
   
+  /* 确保卡片和图片不超过列宽 */
   .gallery-card {
     width: 100%;
     position: relative;
@@ -58,11 +63,11 @@ titles: Gallery
     cursor: pointer;
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   }
+  
   .gallery-card img {
     width: 100%;
+    height: auto;
     display: block;
-    border-radius: 10px;
-    transition: transform 0.5s ease, opacity 0.5s ease;
   }
   .gallery-card:hover img {
     transform: scale(1.06);
@@ -259,7 +264,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/0_1.jpg" alt="Undergrad National Scholarship Trophy">
+    <img src="/assets/gallery/acad/0_1.JPG" alt="Undergrad National Scholarship Trophy">
     <div class="gallery-overlay">
       <h4>Undergrad National Scholarship Trophy🏆</h4>
       <p>@Nanjing, China</p>
@@ -387,7 +392,7 @@ titles: Gallery
 
 <script>
   let currentCategory = 'all';
-  
+
   // 页面初始化时自动按照 data-priority 重新排序照片
   document.addEventListener('DOMContentLoaded', function() {
     const container = document.querySelector('.gallery-grid');
