@@ -70,22 +70,38 @@ titles: Gallery
   }
   
   /* 确保卡片和图片不超过列宽 */
+  /* 1. 骨架屏呼吸动画 */
+  @keyframes skeleton-pulse {
+    0%, 100% { background-color: #f1f5f9; }
+    50% { background-color: #e2e8f0; }
+  }
+  
+  /* 2. 将底色从 #000 改为浅灰色，并加入平滑呼吸动画 */
   .gallery-card {
     width: 100%;
     position: relative;
     border-radius: 10px;
     overflow: hidden;
-    background: #000;
+    background-color: #f1f5f9; /* 从 #000 改为浅灰占位色 */
+    animation: skeleton-pulse 1.8s infinite ease-in-out; /* 柔和的骨架屏效果 */
     cursor: pointer;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
   }
   
+  /* 3. 图片加载过程平滑淡入 */
   .gallery-card img {
     width: 100%;
     height: auto;
     display: block;
-    transition: transform 0.5s ease, opacity 0.5s ease;
+    opacity: 0; /* 初始隐藏 */
+    transition: opacity 0.4s ease-in-out, transform 0.5s ease;
   }
+  
+  /* 图片下载好后自然显现 */
+  .gallery-card img[src] {
+    opacity: 1;
+  }
+  
   .gallery-card:hover img {
     transform: scale(1.06);
     opacity: 0.85;
