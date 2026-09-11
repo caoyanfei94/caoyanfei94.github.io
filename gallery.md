@@ -129,6 +129,34 @@ titles: Gallery
     font-size: 30px;
     cursor: pointer;
   }
+
+  /* 加载提示容器 */
+  .gallery-loader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 0;
+    color: #64748b;
+    font-size: 0.95rem;
+    width: 100%;
+  }
+
+  /* 旋转 Spinner 圈圈 */
+  .spinner {
+    width: 32px;
+    height: 32px;
+    border: 3px solid #e2e8f0;
+    border-top: 3px solid #0f172a;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 12px;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
 </style>
 
 <!-- 分类筛选器 -->
@@ -137,6 +165,12 @@ titles: Gallery
   <button class="filter-btn" onclick="filterGallery('acad', event)">Academic Milestones</button>
   <button class="filter-btn" onclick="filterGallery('soci', event)">Social & Networking</button>
   <button class="filter-btn" onclick="filterGallery('life', event)">Life & Outdoors</button>
+</div>
+
+<!-- 加载中提示组件 -->
+<div id="gallery-loader" class="gallery-loader">
+  <div class="spinner"></div>
+  <p>Loading gallery... Please wait a moment</p>
 </div>
 
 <!-- 相册瀑布流展示区 -->
@@ -463,6 +497,12 @@ titles: Gallery
   }
   
   function renderGallery() {
+    // 瀑布流开始渲染时，立即隐藏加载提示
+    const loader = document.getElementById('gallery-loader');
+    if (loader) {
+      loader.style.display = 'none';
+    }
+
     const container = document.querySelector('.gallery-grid');
     if (!container || rawCards.length === 0) return;
   
