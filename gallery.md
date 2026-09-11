@@ -157,6 +157,15 @@ titles: Gallery
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
+
+  /* 两行文字容器：居中并控制行间距 */
+  .loader-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    text-align: center;
+  }
 </style>
 
 <!-- 分类筛选器 -->
@@ -170,7 +179,10 @@ titles: Gallery
 <!-- 加载中提示组件 -->
 <div id="gallery-loader" class="gallery-loader">
   <div class="spinner"></div>
-  <p>🤖⚙️Assembling moments⚙️🤖... Please wait☕</p>
+  <div class="loader-text">
+    <span>🤖 Assembling moments... 🙂</span>
+    <span>☕ Please wait 😃</span>
+  </div>
 </div>
 
 <!-- 相册瀑布流展示区 -->
