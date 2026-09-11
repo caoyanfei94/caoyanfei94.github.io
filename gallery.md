@@ -117,9 +117,145 @@ titles: Gallery
 <div class="gallery-grid">
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/14.jpg" alt="At My PhD Defense">
+    <div class="gallery-overlay">
+      <h4>At My PhD Defense</h4>
+      <p>@Hong Kong, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/13.jpg" alt="PhD Lab Mates">
+    <div class="gallery-overlay">
+      <h4>PhD Lab Mates</h4>
+      <p>@Hong Kong, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" data-priority="1" onclick="openLightbox(this)">
     <img src="/assets/gallery/acad/12.JPG" alt="Master's graduation">
     <div class="gallery-overlay">
       <h4>Master's Graduation</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/11.JPG" data-priority="2" alt="Master's graduation">
+    <div class="gallery-overlay">
+      <h4>Master's Graduation</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" data-priority="3" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/10.JPG" alt="Master's graduation">
+    <div class="gallery-overlay">
+      <h4>Master's Graduation</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/9.JPG" alt="With Prof. Chen Bai">
+    <div class="gallery-overlay">
+      <h4>With Prof. Chen Bai</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/8.JPG" alt="With Prof. Ju Feng">
+    <div class="gallery-overlay">
+      <h4>With Prof. Ju Feng</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/7_2.JPG" alt="At My Master's Defense">
+    <div class="gallery-overlay">
+      <h4>At My Master's Defense</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/7.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/6.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" data-priority="4" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/5.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/4.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/3.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/2.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" data-priority="5" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/1.JPG" alt="Master's Lab Mates">
+    <div class="gallery-overlay">
+      <h4>Master's Lab Mates</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/0_3.jpg" alt="Undergrad Graduation">
+    <div class="gallery-overlay">
+      <h4>Undergrad Graduation</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/0_2.jpg" alt="Undergrad Class">
+    <div class="gallery-overlay">
+      <h4>Undergrad Class</h4>
+      <p>@Nanjing, China</p>
+    </div>
+  </div>
+
+  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/0_1.jpg" alt="Undergrad National Scholarship Trophy">
+    <div class="gallery-overlay">
+      <h4>Undergrad National Scholarship Trophy🏆</h4>
       <p>@Nanjing, China</p>
     </div>
   </div>
@@ -129,9 +265,8 @@ titles: Gallery
 
 
 
-
-  <div class="gallery-card" data-category="soci" onclick="openLightbox(this)">
-    <img src="/assets/gallery/soci/2.jpg" alt="Amos">
+  <div class="gallery-card" data-category="soci" data-priority="3.1" onclick="openLightbox(this)">
+    <img src="/assets/gallery/soci/2.jpg" alt="Showing Amos, Editor-in-Chief of Science Robotics, around DJI">
     <div class="gallery-overlay">
       <h4>Showing Amos, Editor-in-Chief of Science Robotics, around DJI</h4>
       <p>@Shenzhen, China</p>
@@ -139,7 +274,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="soci" onclick="openLightbox(this)">
-    <img src="/assets/gallery/soci/1.JPG" alt="Amos">
+    <img src="/assets/gallery/soci/1.JPG" alt="Dinner with Prof. Hongsoo Choi's Group at DGIST">
     <div class="gallery-overlay">
       <h4>Dinner with Prof. Hongsoo Choi's Group at DGIST</h4>
       <p>@Daegu, South Korea</p>
@@ -152,8 +287,8 @@ titles: Gallery
 
 
 
-  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/10.jpg" alt="Lab Setup">
+  <div class="gallery-card" data-category="life" data-priority="7" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/10.jpg" alt="Green Egg Island Day Trip">
     <div class="gallery-overlay">
       <h4>Green Egg Island Day Trip</h4>
       <p>@Hong Kong, China</p>
@@ -161,15 +296,15 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/9.jpg" alt="Lab Setup">
+    <img src="/assets/gallery/life/9.jpg" alt="Celebrating New Year's Eve with CUHK Colleagues">
     <div class="gallery-overlay">
       <h4>Celebrating New Year's Eve with CUHK Colleagues</h4>
       <p>@Shenzhen, China</p>
     </div>
   </div>
 
-  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/8.jpg" alt="Lab Setup">
+  <div class="gallery-card" data-category="life" data-priority="6" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/8.jpg" alt="Daya Bay Tour">
     <div class="gallery-overlay">
       <h4>Daya Bay Tour</h4>
       <p>@Hong Kong, China</p>
@@ -177,23 +312,23 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/7.JPG" alt="Lab Setup">
+    <img src="/assets/gallery/life/7.JPG" alt="Dinner with CUHK Colleagues">
     <div class="gallery-overlay">
       <h4>Dinner with CUHK Colleagues</h4>
       <p>@Hong Kong, China</p>
     </div>
   </div>
 
-  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/6.JPG" alt="Lab Setup">
+  <div class="gallery-card" data-category="life" data-priority="10" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/6.JPG" alt="Just Dance 2019 Live Event">
     <div class="gallery-overlay">
-      <h4>Just Dance Live Event</h4>
+      <h4>Just Dance 2019 Live Event</h4>
       <p>@Shanghai, China</p>
     </div>
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/5.JPG" alt="Lab Setup">
+    <img src="/assets/gallery/life/5.JPG" alt="Master's Lab Dinner">
     <div class="gallery-overlay">
       <h4>Master's Lab Dinner</h4>
       <p>@Nanjing, China</p>
@@ -201,7 +336,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/4.JPG" alt="Lab Setup">
+    <img src="/assets/gallery/life/4.JPG" alt="Encountering a Giant Totoro">
     <div class="gallery-overlay">
       <h4>Encountering a Giant Totoro</h4>
       <p>@Seoul, South Korea</p>
@@ -209,23 +344,23 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/3.JPG" alt="Lab Setup">
+    <img src="/assets/gallery/life/3.JPG" alt="Waving Hi with Haechi">
     <div class="gallery-overlay">
       <h4>Waving Hi with Haechi</h4>
       <p>@Seoul, South Korea</p>
     </div>
   </div>
 
-  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/2.jpg" alt="Lab Setup">
+  <div class="gallery-card" data-category="life" data-priority="8" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/2.jpg" alt="Undergrad Graduation Farewell Dinner & House Party">
     <div class="gallery-overlay">
       <h4>Undergrad Graduation Farewell Dinner & House Party</h4>
       <p>@Nanjing, China</p>
     </div>
   </div>
 
-  <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/1.JPG" alt="Lab Setup">
+  <div class="gallery-card" data-category="life" data-priority="9" onclick="openLightbox(this)">
+    <img src="/assets/gallery/life/1.JPG" alt="Undergrad Roommate Get-Together">
     <div class="gallery-overlay">
       <h4>Undergrad Roommate Get-Together</h4>
       <p>@Nanjing, China</p>
@@ -245,6 +380,21 @@ titles: Gallery
 </div>
 
 <script>
+  // 页面初始化时自动按照 data-priority 重新排序照片
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.querySelector('.gallery-grid');
+    const items = Array.from(container.querySelectorAll('.gallery-card'));
+  
+    items.sort((a, b) => {
+      // 使用 parseFloat 以精准解析小数（如 1.1, 1.2）
+      const priorityA = parseFloat(a.dataset.priority) || 999;
+      const priorityB = parseFloat(b.dataset.priority) || 999;
+      return priorityA - priorityB;
+    });
+  
+    items.forEach(item => container.appendChild(item));
+  });
+
   function filterGallery(category) {
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
     event.target.classList.add('active');
