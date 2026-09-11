@@ -182,6 +182,50 @@ titles: Gallery
     gap: 6px;
     text-align: center;
   }
+
+  /* 弹窗图片包裹层：匹配图片真实尺寸 */
+  .lightbox-container {
+    position: relative;
+    max-width: 90vw;
+    max-height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .lightbox-container img {
+    max-width: 90vw;
+    max-height: 85vh;
+    display: block;
+    object-fit: contain;
+  }
+
+  /* 弹窗左下角文字浮层 */
+  .lightbox-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px 24px 16px 24px;
+    background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%);
+    color: #fff;
+    pointer-events: none; /* 避免挡住图片点击事件 */
+  }
+
+  .lightbox-caption h4 {
+    margin: 0 0 4px 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #ffffff;
+  }
+
+  .lightbox-caption p {
+    margin: 0;
+    font-size: 0.85rem;
+    color: #cbd5e1;
+  }
 </style>
 
 <!-- 分类筛选器 -->
@@ -450,7 +494,13 @@ titles: Gallery
 <!-- 大图弹出框 -->
 <div class="lightbox-modal" id="lightbox" onclick="closeLightbox(event)">
   <span class="lightbox-close">&times;</span>
-  <img id="lightbox-img" src="" alt="">
+  <div class="lightbox-container">
+    <img id="lightbox-img" src="" alt="">
+    <div class="lightbox-caption">
+      <h4 id="lightbox-title"></h4>
+      <p id="lightbox-sub"></p>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -570,12 +620,22 @@ titles: Gallery
   
   function openLightbox(element) {
     const img = element.querySelector('img');
+    const title = element.querySelector('.gallery-overlay h4')?.textContent || '';
+    const sub = element.querySelector('.gallery-overlay p')?.textContent || '';
+
+    // 赋值图片与对应的文字
     document.getElementById('lightbox-img').src = img.src;
+    document.getElementById('lightbox-title').textContent = title;
+    document.getElementById('lightbox-sub').textContent = sub;
+
     document.getElementById('lightbox').classList.add('active');
   }
-  
+
   function closeLightbox(event) {
-    document.getElementById('lightbox').classList.remove('active');
+    // 点击背景或关闭按钮时关闭大图
+    if (event.target.id === 'lightbox' || event.target.classList.contains('lightbox-close')) {
+      document.getElementById('lightbox').classList.remove('active');
+    }
   }
 </script>
 
