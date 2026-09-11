@@ -32,7 +32,7 @@ titles: Gallery
     border-color: #0f172a;
   }
 
-  /* 默认未渲染状态：隐藏容器，避免 30 多张图挤在一行 */
+  /* 移除之前的 opacity: 0 和 transition，直接让容器正常显示 */
   .gallery-grid {
     display: flex !important;
     flex-direction: row !important;
@@ -40,15 +40,9 @@ titles: Gallery
     align-items: flex-start;
     width: 100%;
     box-sizing: border-box;
-    opacity: 0; /* 渲染前隐藏 */
-    transition: opacity 0.3s ease-in-out;
   }
   
-  /* JS 完成拆列渲染后，平滑显现 */
-  .gallery-grid.rendered {
-    opacity: 1;
-  }
-  
+  /* 预设列基础样式，确保 JS 运行前就有三列轮廓 */
   .gallery-col {
     flex: 1 1 0% !important;
     min-width: 0 !important;
@@ -131,7 +125,7 @@ titles: Gallery
 <div class="gallery-grid">
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/14.jpg" alt="At My PhD Defense" loading="lazy">
+    <img src="/assets/gallery/acad/14.jpg" alt="At My PhD Defense" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>At My PhD Defense</h4>
       <p>@Hong Kong, China</p>
@@ -139,7 +133,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/13.jpg" alt="PhD Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/13.jpg" alt="PhD Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>PhD Lab Mates</h4>
       <p>@Hong Kong, China</p>
@@ -147,7 +141,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" data-priority="1" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/12.JPG" alt="Master's graduation" loading="lazy">
+    <img src="/assets/gallery/acad/12.JPG" alt="Master's graduation" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Graduation</h4>
       <p>@Nanjing, China</p>
@@ -156,7 +150,7 @@ titles: Gallery
 
   <!-- 修正了 data-priority="2" 的位置 -->
   <div class="gallery-card" data-category="acad" data-priority="2" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/11.JPG" alt="Master's graduation" loading="lazy">
+    <img src="/assets/gallery/acad/11.JPG" alt="Master's graduation" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Graduation</h4>
       <p>@Nanjing, China</p>
@@ -164,7 +158,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" data-priority="3" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/10.JPG" alt="Master's graduation" loading="lazy">
+    <img src="/assets/gallery/acad/10.JPG" alt="Master's graduation" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Graduation</h4>
       <p>@Nanjing, China</p>
@@ -172,7 +166,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/9.JPG" alt="With Prof. Chen Bai" loading="lazy">
+    <img src="/assets/gallery/acad/9.JPG" alt="With Prof. Chen Bai" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>With Prof. Chen Bai</h4>
       <p>@Nanjing, China</p>
@@ -180,7 +174,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/8.JPG" alt="With Prof. Ju Feng" loading="lazy">
+    <img src="/assets/gallery/acad/8.JPG" alt="With Prof. Ju Feng" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>With Prof. Ju Feng</h4>
       <p>@Nanjing, China</p>
@@ -188,7 +182,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/7_2.JPG" alt="At My Master's Defense" loading="lazy">
+    <img src="/assets/gallery/acad/7_2.JPG" alt="At My Master's Defense" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>At My Master's Defense</h4>
       <p>@Nanjing, China</p>
@@ -196,7 +190,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/7.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/7.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -204,7 +198,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/6.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/6.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -212,7 +206,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" data-priority="4" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/5.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/5.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -220,7 +214,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/4.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/4.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -228,7 +222,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/3.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/3.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -236,7 +230,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/2.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/2.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -244,7 +238,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" data-priority="5" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/1.JPG" alt="Master's Lab Mates" loading="lazy">
+    <img src="/assets/gallery/acad/1.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
@@ -252,7 +246,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/0_3.jpg" alt="Undergrad Graduation" loading="lazy">
+    <img src="/assets/gallery/acad/0_3.jpg" alt="Undergrad Graduation" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Undergrad Graduation</h4>
       <p>@Nanjing, China</p>
@@ -260,7 +254,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/0_2.jpg" alt="Undergrad Class" loading="lazy">
+    <img src="/assets/gallery/acad/0_2.jpg" alt="Undergrad Class" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Undergrad Class</h4>
       <p>@Nanjing, China</p>
@@ -268,7 +262,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/0_1.JPG" alt="Undergrad National Scholarship Trophy" loading="lazy">
+    <img src="/assets/gallery/acad/0_1.JPG" alt="Undergrad National Scholarship Trophy" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Undergrad National Scholarship Trophy🏆</h4>
       <p>@Nanjing, China</p>
@@ -276,7 +270,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="soci" data-priority="3.1" onclick="openLightbox(this)">
-    <img src="/assets/gallery/soci/2.jpg" alt="Showing Amos, Editor-in-Chief of Science Robotics, around DJI" loading="lazy">
+    <img src="/assets/gallery/soci/2.jpg" alt="Showing Amos, Editor-in-Chief of Science Robotics, around DJI" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Showing Amos, Editor-in-Chief of Science Robotics, around DJI</h4>
       <p>@Shenzhen, China</p>
@@ -284,7 +278,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="soci" onclick="openLightbox(this)">
-    <img src="/assets/gallery/soci/1.JPG" alt="Dinner with Prof. Hongsoo Choi's Group at DGIST" loading="lazy">
+    <img src="/assets/gallery/soci/1.JPG" alt="Dinner with Prof. Hongsoo Choi's Group at DGIST" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Dinner with Prof. Hongsoo Choi's Group at DGIST</h4>
       <p>@Daegu, South Korea</p>
@@ -292,7 +286,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" data-priority="7" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/10.jpg" alt="Green Egg Island Day Trip" loading="lazy">
+    <img src="/assets/gallery/life/10.jpg" alt="Green Egg Island Day Trip" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Green Egg Island Day Trip</h4>
       <p>@Hong Kong, China</p>
@@ -300,7 +294,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/9.jpg" alt="Celebrating New Year's Eve with CUHK Colleagues" loading="lazy">
+    <img src="/assets/gallery/life/9.jpg" alt="Celebrating New Year's Eve with CUHK Colleagues" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Celebrating New Year's Eve with CUHK Colleagues</h4>
       <p>@Shenzhen, China</p>
@@ -308,7 +302,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" data-priority="6" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/8.jpg" alt="Daya Bay Tour" loading="lazy">
+    <img src="/assets/gallery/life/8.jpg" alt="Daya Bay Tour" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Daya Bay Tour</h4>
       <p>@Hong Kong, China</p>
@@ -316,7 +310,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/7.JPG" alt="Dinner with CUHK Colleagues" loading="lazy">
+    <img src="/assets/gallery/life/7.JPG" alt="Dinner with CUHK Colleagues" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Dinner with CUHK Colleagues</h4>
       <p>@Hong Kong, China</p>
@@ -324,7 +318,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" data-priority="10" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/6.JPG" alt="Just Dance 2019 Live Event" loading="lazy">
+    <img src="/assets/gallery/life/6.JPG" alt="Just Dance 2019 Live Event" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Just Dance 2019 Live Event</h4>
       <p>@Shanghai, China</p>
@@ -332,7 +326,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/5.JPG" alt="Master's Lab Dinner" loading="lazy">
+    <img src="/assets/gallery/life/5.JPG" alt="Master's Lab Dinner" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Dinner</h4>
       <p>@Nanjing, China</p>
@@ -340,7 +334,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/4.JPG" alt="Encountering a Giant Totoro" loading="lazy">
+    <img src="/assets/gallery/life/4.JPG" alt="Encountering a Giant Totoro" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Encountering a Giant Totoro</h4>
       <p>@Seoul, South Korea</p>
@@ -348,7 +342,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/3.JPG" alt="Waving Hi with Haechi" loading="lazy">
+    <img src="/assets/gallery/life/3.JPG" alt="Waving Hi with Haechi" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Waving Hi with Haechi</h4>
       <p>@Seoul, South Korea</p>
@@ -356,7 +350,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" data-priority="8" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/2.jpg" alt="Undergrad Graduation Farewell Dinner & House Party" loading="lazy">
+    <img src="/assets/gallery/life/2.jpg" alt="Undergrad Graduation Farewell Dinner & House Party" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Undergrad Graduation Farewell Dinner & House Party</h4>
       <p>@Nanjing, China</p>
@@ -364,7 +358,7 @@ titles: Gallery
   </div>
 
   <div class="gallery-card" data-category="life" data-priority="9" onclick="openLightbox(this)">
-    <img src="/assets/gallery/life/1.JPG" alt="Undergrad Roommate Get-Together" loading="lazy">
+    <img src="/assets/gallery/life/1.JPG" alt="Undergrad Roommate Get-Together" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Undergrad Roommate Get-Together</h4>
       <p>@Nanjing, China</p>
