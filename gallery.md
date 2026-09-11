@@ -5,8 +5,6 @@ titles: Gallery
 #   toc: true
 ---
 
-<!-- <br> -->
-
 ## Gallery
 
 <style>
@@ -46,8 +44,8 @@ titles: Gallery
   
   /* 瀑布流列容器：强制三列严格等宽 */
   .gallery-col {
-    flex: 1 1 0% !important; /* 核心修正：允许三列平分宽度 */
-    min-width: 0 !important;   /* 核心修正：防止被大图撑大导致换行 */
+    flex: 1 1 0% !important; /* 三列平分宽度 */
+    min-width: 0 !important;   /* 防止大图撑开换行 */
     display: flex;
     flex-direction: column;
     gap: 16px;
@@ -68,6 +66,7 @@ titles: Gallery
     width: 100%;
     height: auto;
     display: block;
+    transition: transform 0.5s ease, opacity 0.5s ease;
   }
   .gallery-card:hover img {
     transform: scale(1.06);
@@ -116,13 +115,11 @@ titles: Gallery
 
 <!-- 分类筛选器 -->
 <div class="filter-container">
-  <button class="filter-btn active" onclick="filterGallery('all')">All</button>
-  <button class="filter-btn" onclick="filterGallery('acad')">Academic Milestones</button>
-  <button class="filter-btn" onclick="filterGallery('soci')">Social & Networking</button>
-  <button class="filter-btn" onclick="filterGallery('life')">Life & Outdoors</button>
+  <button class="filter-btn active" onclick="filterGallery('all', event)">All</button>
+  <button class="filter-btn" onclick="filterGallery('acad', event)">Academic Milestones</button>
+  <button class="filter-btn" onclick="filterGallery('soci', event)">Social & Networking</button>
+  <button class="filter-btn" onclick="filterGallery('life', event)">Life & Outdoors</button>
 </div>
-
-
 
 <!-- 相册瀑布流展示区 -->
 <div class="gallery-grid">
@@ -151,8 +148,9 @@ titles: Gallery
     </div>
   </div>
 
-  <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
-    <img src="/assets/gallery/acad/11.JPG" data-priority="2" alt="Master's graduation">
+  <!-- 修正了 data-priority="2" 的位置 -->
+  <div class="gallery-card" data-category="acad" data-priority="2" onclick="openLightbox(this)">
+    <img src="/assets/gallery/acad/11.JPG" alt="Master's graduation">
     <div class="gallery-overlay">
       <h4>Master's Graduation</h4>
       <p>@Nanjing, China</p>
@@ -271,11 +269,6 @@ titles: Gallery
     </div>
   </div>
 
-
-
-
-
-
   <div class="gallery-card" data-category="soci" data-priority="3.1" onclick="openLightbox(this)">
     <img src="/assets/gallery/soci/2.jpg" alt="Showing Amos, Editor-in-Chief of Science Robotics, around DJI">
     <div class="gallery-overlay">
@@ -291,12 +284,6 @@ titles: Gallery
       <p>@Daegu, South Korea</p>
     </div>
   </div>
-
-
-
-
-
-
 
   <div class="gallery-card" data-category="life" data-priority="7" onclick="openLightbox(this)">
     <img src="/assets/gallery/life/10.jpg" alt="Green Egg Island Day Trip">
@@ -380,10 +367,6 @@ titles: Gallery
 
 </div>
 
-
-
-
-
 <!-- 大图弹出框 -->
 <div class="lightbox-modal" id="lightbox" onclick="closeLightbox(event)">
   <span class="lightbox-close">&times;</span>
@@ -392,55 +375,49 @@ titles: Gallery
 
 <script>
   let currentCategory = 'all';
+  let rawCards = [];
 
-  // 页面初始化时自动按照 data-priority 重新排序照片
+  // 页面首次加载时直接触发瀑布流渲染
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.querySelector('.gallery-grid');
-    const items = Array.from(container.querySelectorAll('.gallery-card'));
-  
-    items.sort((a, b) => {
-      // 使用 parseFloat 以精准解析小数（如 1.1, 1.2）
-      const priorityA = parseFloat(a.dataset.priority) || 999;
-      const priorityB = parseFloat(b.dataset.priority) || 999;
-      return priorityA - priorityB;
-    });
-  
-    items.forEach(item => container.appendChild(item));
+    // 缓存原始卡片节点，避免渲染清空后丢失引用
+    rawCards = Array.from(document.querySelectorAll('.gallery-card'));
+    renderGallery();
   });
+
   window.addEventListener('resize', renderGallery);
 
-  function filterGallery(category) {
+  function filterGallery(category, e) {
     currentCategory = category;
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-    event.target.classList.add('active');
+    if (e && e.target) {
+      e.target.classList.add('active');
+    }
     renderGallery();
   }
   
   function renderGallery() {
     const container = document.querySelector('.gallery-grid');
-    
-    // 1. 获取页面上所有卡片
-    let allCards = Array.from(document.querySelectorAll('.gallery-card'));
+    if (!container || rawCards.length === 0) return;
   
-    // 2. 根据分类筛选
-    let visibleCards = allCards.filter(card => {
+    // 1. 根据分类筛选
+    let visibleCards = rawCards.filter(card => {
       return currentCategory === 'all' || card.dataset.category === currentCategory;
     });
   
-    // 3. 按 priority 权重/小数进行排序
+    // 2. 按 priority 权重/小数进行排序 (支持 3.1 等小数)
     visibleCards.sort((a, b) => {
       const priorityA = parseFloat(a.dataset.priority) || 999;
       const priorityB = parseFloat(b.dataset.priority) || 999;
       return priorityA - priorityB;
     });
   
-    // 4. 根据屏幕宽度计算列数 (响应式)
+    // 3. 计算响应式列数
     const width = window.innerWidth;
     let colsCount = 3;
     if (width <= 500) colsCount = 1;
     else if (width <= 800) colsCount = 2;
   
-    // 5. 清空容器并创建新的列容器
+    // 4. 清空外层容器并创建新列容器
     container.innerHTML = '';
     const cols = [];
     for (let i = 0; i < colsCount; i++) {
@@ -450,7 +427,7 @@ titles: Gallery
       cols.push(col);
     }
   
-    // 6. 横向轮流把卡片插入到各列中 (第1张放第1列, 第2张放第2列, 第3张放第3列, 第4张放第1列...)
+    // 5. 横向轮流把卡片分配到各列中 (1->左, 2->中, 3->右)
     visibleCards.forEach((card, index) => {
       cols[index % colsCount].appendChild(card);
     });
