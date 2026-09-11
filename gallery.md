@@ -32,7 +32,7 @@ titles: Gallery
     border-color: #0f172a;
   }
 
-  /* 移除之前的 opacity: 0 和 transition，直接让容器正常显示 */
+  /* 瀑布流外层容器 */
   .gallery-grid {
     display: flex !important;
     flex-direction: row !important;
@@ -40,9 +40,27 @@ titles: Gallery
     align-items: flex-start;
     width: 100%;
     box-sizing: border-box;
+    min-height: 300px; /* 预留高度防止页面抖动 */
+  }
+
+  /* 核心修复：JS 运行前，直接存在于外层容器下的原始卡片先隐藏，绝不挤成一排 */
+  .gallery-grid > .gallery-card {
+    display: none !important;
+  }
+
+  /* 当卡片被 JS 顺利分发到列容器 .gallery-col 内部后，立即正常显示 */
+  .gallery-col .gallery-card {
+    display: block !important;
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #000;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   }
   
-  /* 预设列基础样式，确保 JS 运行前就有三列轮廓 */
+  /* 瀑布流列容器：三列等宽 */
   .gallery-col {
     flex: 1 1 0% !important;
     min-width: 0 !important;
