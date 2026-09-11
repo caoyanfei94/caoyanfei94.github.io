@@ -34,17 +34,23 @@ titles: Gallery
     border-color: #0f172a;
   }
 
-  /* 酷炫瀑布流网格 */
+  /* 瀑布流外层容器：横向并排 */
   .gallery-grid {
-    column-count: 3;
-    column-gap: 16px;
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
   }
-  @media (max-width: 800px) { .gallery-grid { column-count: 2; } }
-  @media (max-width: 500px) { .gallery-grid { column-count: 1; } }
-
+  
+  /* 瀑布流列容器：纵向堆叠卡片 */
+  .gallery-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
   .gallery-card {
-    break-inside: avoid;
-    margin-bottom: 16px;
+    width: 100%;
     position: relative;
     border-radius: 10px;
     overflow: hidden;
@@ -380,6 +386,8 @@ titles: Gallery
 </div>
 
 <script>
+  let currentCategory = 'all';
+  
   // 页面初始化时自动按照 data-priority 重新排序照片
   document.addEventListener('DOMContentLoaded', function() {
     const container = document.querySelector('.gallery-grid');
@@ -394,26 +402,61 @@ titles: Gallery
   
     items.forEach(item => container.appendChild(item));
   });
+  window.addEventListener('resize', renderGallery);
 
   function filterGallery(category) {
+    currentCategory = category;
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
     event.target.classList.add('active');
-
-    document.querySelectorAll('.gallery-card').forEach(item => {
-      if (category === 'all' || item.dataset.category === category) {
-        item.style.display = 'block';
-      } else {
-        item.style.display = 'none';
-      }
+    renderGallery();
+  }
+  
+  function renderGallery() {
+    const container = document.querySelector('.gallery-grid');
+    
+    // 1. 获取页面上所有卡片
+    let allCards = Array.from(document.querySelectorAll('.gallery-card'));
+  
+    // 2. 根据分类筛选
+    let visibleCards = allCards.filter(card => {
+      return currentCategory === 'all' || card.dataset.category === currentCategory;
+    });
+  
+    // 3. 按 priority 权重/小数进行排序
+    visibleCards.sort((a, b) => {
+      const priorityA = parseFloat(a.dataset.priority) || 999;
+      const priorityB = parseFloat(b.dataset.priority) || 999;
+      return priorityA - priorityB;
+    });
+  
+    // 4. 根据屏幕宽度计算列数 (响应式)
+    const width = window.innerWidth;
+    let colsCount = 3;
+    if (width <= 500) colsCount = 1;
+    else if (width <= 800) colsCount = 2;
+  
+    // 5. 清空容器并创建新的列容器
+    container.innerHTML = '';
+    const cols = [];
+    for (let i = 0; i < colsCount; i++) {
+      const col = document.createElement('div');
+      col.className = 'gallery-col';
+      container.appendChild(col);
+      cols.push(col);
+    }
+  
+    // 6. 横向轮流把卡片插入到各列中 (第1张放第1列, 第2张放第2列, 第3张放第3列, 第4张放第1列...)
+    visibleCards.forEach((card, index) => {
+      cols[index % colsCount].appendChild(card);
     });
   }
-
+  
   function openLightbox(element) {
     const img = element.querySelector('img');
     document.getElementById('lightbox-img').src = img.src;
     document.getElementById('lightbox').classList.add('active');
   }
-
+  
   function closeLightbox(event) {
     document.getElementById('lightbox').classList.remove('active');
   }
