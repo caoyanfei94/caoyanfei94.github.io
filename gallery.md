@@ -170,7 +170,7 @@ titles: Gallery
 <!-- 加载中提示组件 -->
 <div id="gallery-loader" class="gallery-loader">
   <div class="spinner"></div>
-  <p>Gathering memories📷✨... Please wait☕</p>
+  <p>🤖⚙️Assembling moments⚙️🤖... Please wait☕</p>
 </div>
 
 <!-- 相册瀑布流展示区 -->
