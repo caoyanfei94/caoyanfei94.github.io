@@ -264,13 +264,13 @@ titles: Gallery
     </div>
   </div>
 
-  <div class="gallery-card" data-category="acad" data-priority="1" onclick="openLightbox(this)">
+  <!-- <div class="gallery-card" data-category="acad" data-priority="1" onclick="openLightbox(this)">
     <img src="/assets/gallery/acad/12.JPG" alt="Master's graduation" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Graduation</h4>
       <p>@Nanjing, China</p>
     </div>
-  </div>
+  </div> -->
 
   <!-- 修正了 data-priority="2" 的位置 -->
   <div class="gallery-card" data-category="acad" data-priority="2" onclick="openLightbox(this)">
@@ -361,13 +361,13 @@ titles: Gallery
     </div>
   </div>
 
-  <div class="gallery-card" data-category="acad" data-priority="5" onclick="openLightbox(this)">
+  <!-- <div class="gallery-card" data-category="acad" data-priority="5" onclick="openLightbox(this)">
     <img src="/assets/gallery/acad/1.JPG" alt="Master's Lab Mates" loading="lazy" decoding="async">
     <div class="gallery-overlay">
       <h4>Master's Lab Mates</h4>
       <p>@Nanjing, China</p>
     </div>
-  </div>
+  </div> -->
 
   <div class="gallery-card" data-category="acad" onclick="openLightbox(this)">
     <img src="/assets/gallery/acad/0_3.jpg" alt="Undergrad Graduation" loading="lazy" decoding="async">
