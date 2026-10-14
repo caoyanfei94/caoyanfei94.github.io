@@ -538,7 +538,7 @@ titles: Gallery
       return currentCategory === 'all' || card.dataset.category === currentCategory;
     });
 
-    // 2. 按 priority 权重进行排序，保证图片原始顺序不变
+    // 2. 按 priority 权重排序
     visibleCards.sort((a, b) => {
       const priorityA = parseFloat(a.dataset.priority) || 999;
       const priorityB = parseFloat(b.dataset.priority) || 999;
@@ -564,7 +564,7 @@ titles: Gallery
       colHeights.push(0);
     }
 
-    // 5. 贪心算法：依次塞入当前预估高度最矮的列
+    // 5. 贪心算法：精准读取当前已下载图片的宽高比
     visibleCards.forEach((card) => {
       let minColIndex = 0;
       for (let i = 1; i < colsCount; i++) {
@@ -575,30 +575,40 @@ titles: Gallery
 
       cols[minColIndex].appendChild(card);
 
-      // 估算图片宽高比
       const img = card.querySelector('img');
-      let aspectRatio = 1.33; // 默认比例
+      let aspectRatio = 1.0; // 默认占位
+
+      // 如果图片已经加载，读取真实高宽比；如果未加载，绑定 onload 自动重排
       if (img && img.naturalWidth && img.naturalHeight) {
         aspectRatio = img.naturalHeight / img.naturalWidth;
+      } else if (img) {
+        img.onload = () => {
+          // 图片下载完成后，触发一次轻量防抖重排
+          triggerDebouncedRender();
+        };
       }
 
-      colHeights[minColIndex] += aspectRatio + 0.1;
+      colHeights[minColIndex] += aspectRatio;
     });
   }
 
-  // 绑定初始化事件
+  // 防抖调度函数，防止图片连续加载时频繁重绘
+  let debounceTimer;
+  function triggerDebouncedRender() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(renderGallery, 150);
+  }
+
+  // 绑定事件：DOM 准备就绪先排一次，所有资源（含图片）加载完再精确排一次
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initGallery);
   } else {
     initGallery();
   }
 
-  // 窗口改变大小时防抖重新计算列
-  let resizeTimer;
-  window.addEventListener('resize', () => {
-    clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(renderGallery, 100);
-  });
+  window.addEventListener('load', renderGallery); // 关键修复：确保所有图片尺寸加载后再次精确对齐
+
+  window.addEventListener('resize', triggerDebouncedRender);
 
   // 分类切换
   function filterGallery(category, e) {
