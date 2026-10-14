@@ -506,25 +506,25 @@ titles: Gallery
 <script>
   let currentCategory = 'all';
   let rawCards = [];
-  
-  // 立即尝试获取 DOM 并渲染，不必等 DOMContentLoaded
+
+  // 初始化：一次性把所有卡片离线保存起来
   function initGallery() {
     const container = document.querySelector('.gallery-grid');
     if (!container) return;
-  
-    // 1. 抓取所有卡片节点
-    rawCards = Array.from(container.querySelectorAll('.gallery-card'));
-    
-    if (rawCards.length > 0) {
-      // 2. 执行排版计算
-      renderGallery();
-      // 3. 标记渲染完成，渐变显示瀑布流
-      container.classList.add('rendered');
+
+    // 1. 提取初始 DOM 树里的所有卡片
+    const cards = Array.from(container.querySelectorAll('.gallery-card'));
+    if (cards.length > 0) {
+      // 深度克隆保存所有原始节点，防止 innerHTML = '' 时丢失节点
+      rawCards = cards.map(card => card.cloneNode(true));
     }
+
+    // 2. 立即执行渲染
+    renderGallery();
   }
-  
+
   function renderGallery() {
-    // 瀑布流开始渲染时，立即隐藏加载提示
+    // 隐藏加载提示
     const loader = document.getElementById('gallery-loader');
     if (loader) {
       loader.style.display = 'none';
@@ -532,41 +532,40 @@ titles: Gallery
 
     const container = document.querySelector('.gallery-grid');
     if (!container || rawCards.length === 0) return;
-  
+
     // 1. 根据分类筛选
-    let visibleCards = rawCards.filter(card => {
+    let visibleCards = rawCards.map(card => card.cloneNode(true)).filter(card => {
       return currentCategory === 'all' || card.dataset.category === currentCategory;
     });
-  
+
     // 2. 按 priority 权重进行排序，保证图片原始顺序不变
     visibleCards.sort((a, b) => {
       const priorityA = parseFloat(a.dataset.priority) || 999;
       const priorityB = parseFloat(b.dataset.priority) || 999;
       return priorityA - priorityB;
     });
-  
+
     // 3. 计算响应式列数
     const width = window.innerWidth;
     let colsCount = 3;
     if (width <= 500) colsCount = 1;
     else if (width <= 800) colsCount = 2;
-  
-    // 4. 清空外层容器并创建新列容器
+
+    // 4. 清空容器并创建新列
     container.innerHTML = '';
     const cols = [];
-    const colHeights = []; // 记录每列的预估累计高度
+    const colHeights = [];
 
     for (let i = 0; i < colsCount; i++) {
       const col = document.createElement('div');
       col.className = 'gallery-col';
       container.appendChild(col);
       cols.push(col);
-      colHeights.push(0); // 初始高度均为 0
+      colHeights.push(0);
     }
-  
-    // 5. 贪心算法填充：按照排序顺序，依次把卡片塞进“当前最矮”的那一列
+
+    // 5. 贪心算法：依次塞入当前预估高度最矮的列
     visibleCards.forEach((card) => {
-      // 找出当前高度最小的列索引
       let minColIndex = 0;
       for (let i = 1; i < colsCount; i++) {
         if (colHeights[i] < colHeights[minColIndex]) {
@@ -574,21 +573,34 @@ titles: Gallery
         }
       }
 
-      // 将卡片插入最矮列
       cols[minColIndex].appendChild(card);
 
-      // 估算卡片高度并累加：尝试读取图片的比例，若未加载则用默认比例占位
+      // 估算图片宽高比
       const img = card.querySelector('img');
-      let aspectRatio = 1.33; // 默认 4:3 占位比例
+      let aspectRatio = 1.33; // 默认比例
       if (img && img.naturalWidth && img.naturalHeight) {
         aspectRatio = img.naturalHeight / img.naturalWidth;
       }
-      
-      // 累加预估高度（含卡片间距 16px）
+
       colHeights[minColIndex] += aspectRatio + 0.1;
     });
   }
 
+  // 绑定初始化事件
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initGallery);
+  } else {
+    initGallery();
+  }
+
+  // 窗口改变大小时防抖重新计算列
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(renderGallery, 100);
+  });
+
+  // 分类切换
   function filterGallery(category, e) {
     currentCategory = category;
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
@@ -597,57 +609,13 @@ titles: Gallery
     }
     renderGallery();
   }
-  
-  function renderGallery() {
-    // 瀑布流开始渲染时，立即隐藏加载提示
-    const loader = document.getElementById('gallery-loader');
-    if (loader) {
-      loader.style.display = 'none';
-    }
 
-    const container = document.querySelector('.gallery-grid');
-    if (!container || rawCards.length === 0) return;
-  
-    // 1. 根据分类筛选
-    let visibleCards = rawCards.filter(card => {
-      return currentCategory === 'all' || card.dataset.category === currentCategory;
-    });
-  
-    // 2. 按 priority 权重/小数进行排序 (支持 3.1 等小数)
-    visibleCards.sort((a, b) => {
-      const priorityA = parseFloat(a.dataset.priority) || 999;
-      const priorityB = parseFloat(b.dataset.priority) || 999;
-      return priorityA - priorityB;
-    });
-  
-    // 3. 计算响应式列数
-    const width = window.innerWidth;
-    let colsCount = 3;
-    if (width <= 500) colsCount = 1;
-    else if (width <= 800) colsCount = 2;
-  
-    // 4. 清空外层容器并创建新列容器
-    container.innerHTML = '';
-    const cols = [];
-    for (let i = 0; i < colsCount; i++) {
-      const col = document.createElement('div');
-      col.className = 'gallery-col';
-      container.appendChild(col);
-      cols.push(col);
-    }
-  
-    // 5. 横向轮流把卡片分配到各列中 (1->左, 2->中, 3->右)
-    visibleCards.forEach((card, index) => {
-      cols[index % colsCount].appendChild(card);
-    });
-  }
-  
+  // 大图弹窗功能
   function openLightbox(element) {
     const img = element.querySelector('img');
     const title = element.querySelector('.gallery-overlay h4')?.textContent || '';
     const sub = element.querySelector('.gallery-overlay p')?.textContent || '';
 
-    // 赋值图片与对应的文字
     document.getElementById('lightbox-img').src = img.src;
     document.getElementById('lightbox-title').textContent = title;
     document.getElementById('lightbox-sub').textContent = sub;
@@ -656,7 +624,6 @@ titles: Gallery
   }
 
   function closeLightbox(event) {
-    // 点击背景或关闭按钮时关闭大图
     if (event.target.id === 'lightbox' || event.target.classList.contains('lightbox-close')) {
       document.getElementById('lightbox').classList.remove('active');
     }
