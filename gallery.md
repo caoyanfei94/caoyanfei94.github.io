@@ -524,46 +524,70 @@ titles: Gallery
   }
   
   function renderGallery() {
+    // 瀑布流开始渲染时，立即隐藏加载提示
+    const loader = document.getElementById('gallery-loader');
+    if (loader) {
+      loader.style.display = 'none';
+    }
+
     const container = document.querySelector('.gallery-grid');
     if (!container || rawCards.length === 0) return;
   
+    // 1. 根据分类筛选
     let visibleCards = rawCards.filter(card => {
       return currentCategory === 'all' || card.dataset.category === currentCategory;
     });
   
+    // 2. 按 priority 权重进行排序，保证图片原始顺序不变
     visibleCards.sort((a, b) => {
       const priorityA = parseFloat(a.dataset.priority) || 999;
       const priorityB = parseFloat(b.dataset.priority) || 999;
       return priorityA - priorityB;
     });
   
+    // 3. 计算响应式列数
     const width = window.innerWidth;
     let colsCount = 3;
     if (width <= 500) colsCount = 1;
     else if (width <= 800) colsCount = 2;
   
+    // 4. 清空外层容器并创建新列容器
     container.innerHTML = '';
     const cols = [];
+    const colHeights = []; // 记录每列的预估累计高度
+
     for (let i = 0; i < colsCount; i++) {
       const col = document.createElement('div');
       col.className = 'gallery-col';
       container.appendChild(col);
       cols.push(col);
+      colHeights.push(0); // 初始高度均为 0
     }
   
-    visibleCards.forEach((card, index) => {
-      cols[index % colsCount].appendChild(card);
+    // 5. 贪心算法填充：按照排序顺序，依次把卡片塞进“当前最矮”的那一列
+    visibleCards.forEach((card) => {
+      // 找出当前高度最小的列索引
+      let minColIndex = 0;
+      for (let i = 1; i < colsCount; i++) {
+        if (colHeights[i] < colHeights[minColIndex]) {
+          minColIndex = i;
+        }
+      }
+
+      // 将卡片插入最矮列
+      cols[minColIndex].appendChild(card);
+
+      // 估算卡片高度并累加：尝试读取图片的比例，若未加载则用默认比例占位
+      const img = card.querySelector('img');
+      let aspectRatio = 1.33; // 默认 4:3 占位比例
+      if (img && img.naturalWidth && img.naturalHeight) {
+        aspectRatio = img.naturalHeight / img.naturalWidth;
+      }
+      
+      // 累加预估高度（含卡片间距 16px）
+      colHeights[minColIndex] += aspectRatio + 0.1;
     });
   }
-  
-  // 快速触发初始化
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initGallery);
-  } else {
-    initGallery();
-  }
-  
-  window.addEventListener('resize', renderGallery);
 
   function filterGallery(category, e) {
     currentCategory = category;
